@@ -9,6 +9,7 @@ class Software:
     def __init__(self) -> None:
         self.controller = Controller()
         self.controller.loadHeaders()
+        self.controller.loadCities()
         self.screem = Tk()
         self.canvas = Canvas(self.screem)
         self.lblBannerProgram = Label(self.canvas, text="Programa para generar los reportes de excel tours por ventas")

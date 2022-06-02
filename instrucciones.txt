@@ -5,6 +5,7 @@ echo "select
        IFNULL(CONCAT(pck.id, '|'),'NULL|') as tour_id,
        IFNULL(CONCAT(pck.user_id, '|'),'NULL|') as tour_user_id,
        IFNULL(CONCAT(pck.name, '|'),'NULL|') as tour_name,
+       IFNULL(CONCAT(REPLACE(REPLACE(pck.starting_point, '|', ' '), '\r\n', ' '), '|'), 'NULL|') as tour_starter_point,
        IFNULL(CONCAT(pck.slug_es, '|'),'NULL|') as URL,
        IFNULL(CONCAT(pck.price, '|'), 'NULL|') as tour_price,
        IFNULL(CONCAT(pck.children_price, '|'),'NULL|') as tour_child_price,
@@ -46,17 +47,22 @@ on pck.id = rt.package_id
 inner join users usr
 on pck.user_id = usr.id;" | mysql -u y20 -p -h 10.41.131.22 --default-character-set=utf8 turismoi_db_<ISOCOUNTRY> > ventas_chile_2022_may_v2.csv
 
-ojo: Borarle los headers manualmente
 ojo: que termine con salto de linea
 
-Para los otros paises la consulta cambia:
+Meterlo en la carperta data.
+Darle al boton load.
+Darle al btn save para generar el excel.
 
+__________________________________
+
+Para los otros paises la consulta cambia:
 
 echo "select 
        IFNULL(CONCAT(pck.id, '|'),'NULL|') as tour_id,
        IFNULL(CONCAT(pck.user_id, '|'),'NULL|') as tour_user_id,
        IFNULL(CONCAT(REPLACE(pck.name, '|', ' '), '|'),'NULL|') as tour_name,
-	   pck.host_country_iso as country,
+       IFNULL(CONCAT(REPLACE(REPLACE(pck.starting_point, '|', ' '), '\r\n', ' '), '|'), 'NULL|') as tour_starter_point,
+	   CONCAT(pck.host_country_iso, '|') as country,
        IFNULL(CONCAT(pck.slug_es, '|'),'NULL|') as URL,
        IFNULL(CONCAT(pck.price, '|'), 'NULL|') as tour_price,
        IFNULL(CONCAT(pck.children_price, '|'),'NULL|') as tour_child_price,
@@ -99,5 +105,9 @@ inner join users usr
 on pck.user_id = usr.id;" | mysql -u turismoi -p -h 10.41.131.22 --default-character-set=utf8 turismoi_prod > otros.csv
 
 
-ojo: borrar manualmente los headers
+
 ojo: que termine con salto de linea
+
+Meterlo en la carperta data.
+Darle al boton load.
+Darle al btn save para generar los optros excel.

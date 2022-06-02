@@ -12,6 +12,7 @@ class Controller:
     def __init__(self) -> None:
         self.countryINFO = {}  # {nameOfCountry : data, nameOfCountry : data ...}
         # This is a specifed header i need calculate
+        self._peruCitiesNames = {}
         self.generalHeaders = ""
         self.generalHeadersOthers = ""
         self.specifed_headers = "name of tour operator|tour_distribution|pago nulo|pago aprobado|pago expirado|pago extornado|pago no procesado|pago pendiente|por pagar\n" 
@@ -55,8 +56,20 @@ class Controller:
         for i in info.split("\n"):
             self.generalHeadersOthers = self.generalHeadersOthers + i + "|"
 
-        
-
+    def loadCities(self):
+        info = self.rtnArcheveInfo("resources/cities_packages_peru.csv")
+        info = info.split("\n")
+        info = info[1:len(info)-2]
+        # Save in peru cities
+        for i in info:
+            data = i.split("|")
+            id_tour = data[0]
+            id_tour = id_tour.lstrip()
+            id_tour = id_tour.rstrip()
+            city_of_tour = data[1]
+            city_of_tour = city_of_tour.lstrip()
+            city_of_tour = city_of_tour.rstrip()
+            self._peruCitiesNames[id_tour] = city_of_tour
 
     def loadHostCountriesNames(self):
         info = self.rtnArcheveInfo("resources/paises_host.txt")
@@ -75,7 +88,7 @@ class Controller:
                     info = self.rtnArcheveInfo("data/"+i)
                     # This is a calculate information
                     tourInformation = info.split("\n")
-                    tourInformation = tourInformation[0:len(tourInformation)-1] # Becos .csv end to newline
+                    tourInformation = tourInformation[1:len(tourInformation)-1] # Becos .csv end to newline and not need read headers
                     for t in tourInformation:
                         # Se captura el ID
                         data = t.split("|")
@@ -87,6 +100,7 @@ class Controller:
                         if id not in self.temporalSaveTours.keys():
                             self.temporalSaveTours[id] = Tour()
 
+
                         # Save a general data
                         if self.temporalSaveTours[id].tour_info == "":
                             tour_data = ""
@@ -94,9 +108,16 @@ class Controller:
                                 x_copy = x
                                 x_copy = x_copy.lstrip()
                                 x_copy = x_copy.rstrip()
-                                tour_data = tour_data + x_copy + "|"
+                                tour_data = tour_data + x_copy + " |"
                             self.temporalSaveTours[id].tour_info = tour_data
 
+                        #Add city info
+                        if 'peru' in str(i).lower() or 'perú' in str(i).lower():
+                            try:
+                                self.temporalSaveTours[id].add_tour_city = self._peruCitiesNames[id]
+                            except:
+                                self.temporalSaveTours[id].add_tour_city = "perú"
+                                print("Error en :", i, ">>", id, "No se encontro CIty... Reload info plz")
 
                         # Caching name of tour operator
                         name_of_tour_op = data[-3]
@@ -154,6 +175,7 @@ class Controller:
                     self.saveTourDataInCountry(i, self.temporalSaveTours)
                     self.temporalSaveTours = {} # ReStart
 
+
                 else:
                     print("Estoy en otros")
                     # This is a calculate information
@@ -164,7 +186,7 @@ class Controller:
                     self.loadHostCountriesNames()
 
                     tourInformation = info.split("\n")
-                    tourInformation = tourInformation[0:len(tourInformation)-1]
+                    tourInformation = tourInformation[1:len(tourInformation)-1]
 
                     for t in tourInformation:
                         # Se captura el ID

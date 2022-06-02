@@ -1,6 +1,7 @@
 tour_id
 tour_user_id
 tour_name
+tour_starter_point
 URL
 tour_price
 tour_child_price
@@ -32,3 +33,4 @@ tour_language
 tour_start_time
 tour_cancellation_policy
 tour_reservations_count
+tour_city
