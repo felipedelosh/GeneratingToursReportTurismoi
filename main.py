@@ -33,7 +33,6 @@ class Software():
             
             filesNames = []
             
-            
             for i in scandir(path):
                 if i.is_file():
                     if ".h5" in i.name:
