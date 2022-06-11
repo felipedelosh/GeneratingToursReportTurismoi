@@ -69,7 +69,7 @@ class ArtificialInteligence():
         img_shape = (width, height, num_channels)
 
         # Cant elementos a clasifica
-        num_clases = 10
+        num_clases = 12
         cantidad_datos_entenamiento =  [8,8,8,8,8,8,8,8,8,8,8,8]
         cantidad_datos_pruebas = [5,5,5,5,5,5,5,5,5,5,5,5]
         
@@ -129,7 +129,7 @@ class ArtificialInteligence():
         scnn_cm = confusion_matrix(np.argmax(probabilidades_prueba, axis=1), scnn_predicted)
 
         # Visualiamos la matriz de confusión
-        scnn_df_cm = pd.DataFrame(scnn_cm, range(9), range(9))
+        scnn_df_cm = pd.DataFrame(scnn_cm, range(11), range(11))
         plt.figure(figsize=(20, 14))
         sn.set(font_scale=1.4)  # for label size
         sn.heatmap(scnn_df_cm, annot=True, annot_kws={"size": 12})  # font size
@@ -148,7 +148,7 @@ class ArtificialInteligence():
         img_shape = (width, height, num_channels)
 
         # Cant elementos a clasifica
-        num_clases = 10
+        num_clases = 12
         cantidad_datos_entenamiento =  [8,8,8,8,8,8,8,8,8,8,8,8]
         cantidad_datos_pruebas = [5,5,5,5,5,5,5,5,5,5,5,5]
 
@@ -206,7 +206,7 @@ class ArtificialInteligence():
         scnn_cm = confusion_matrix(np.argmax(probabilidades_prueba, axis=1), scnn_predicted)
 
         # Visualiamos la matriz de confusión
-        scnn_df_cm = pd.DataFrame(scnn_cm, range(9), range(9))
+        scnn_df_cm = pd.DataFrame(scnn_cm, range(11), range(11))
         plt.figure(figsize=(20, 14))
         sn.set(font_scale=1.4)  # for label size
         sn.heatmap(scnn_df_cm, annot=True, annot_kws={"size": 12})  # font size
@@ -225,7 +225,7 @@ class ArtificialInteligence():
         img_shape = (width, height, num_channels)
 
         # Cant elementos a clasifica
-        num_clases = 10
+        num_clases = 12
         cantidad_datos_entenamiento =  [8,8,8,8,8,8,8,8,8,8,8,8]
         cantidad_datos_pruebas = [5,5,5,5,5,5,5,5,5,5,5,5]
 
@@ -284,7 +284,7 @@ class ArtificialInteligence():
         scnn_cm = confusion_matrix(np.argmax(probabilidades_prueba, axis=1), scnn_predicted)
 
         # Visualiamos la matriz de confusión
-        scnn_df_cm = pd.DataFrame(scnn_cm, range(9), range(9))
+        scnn_df_cm = pd.DataFrame(scnn_cm, range(11), range(11)) # Por que son 12 categorias
         plt.figure(figsize=(20, 14))
         sn.set(font_scale=1.4)  # for label size
         sn.heatmap(scnn_df_cm, annot=True, annot_kws={"size": 12})  # font size
@@ -305,7 +305,7 @@ class ArtificialInteligence():
         cv2.destroyAllWindows()
 
     def probarModelo(self, imagen):
-        categorias = ["A", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+        categorias = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"]
 
         width = 128
         height = 128
@@ -323,7 +323,7 @@ class ArtificialInteligence():
 
 
 #FelipedelosH
-#i = ArtificialInteligence()
-#i.modelo1()
-#i.modelo2()
-#i.modelo3()
+i = ArtificialInteligence()
+i.modelo1()
+i.modelo2()
+i.modelo3()

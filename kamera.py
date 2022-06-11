@@ -4,6 +4,8 @@ This is a class to capture a camera
 
 """
 import cv2
+from cv2 import namedWindow
+from ArtificialInteligence import *
 import numpy as np
 
 class Kamera():
@@ -15,6 +17,8 @@ class Kamera():
         self.kameraHSV = None
         self.kameraIAVision = None
         self.kameraBorders = None
+        # IA
+        self.IA = ArtificialInteligence()
         #
         self.cap = cv2.VideoCapture(self.host_kamera)
 
@@ -67,12 +71,9 @@ class Kamera():
         cv2.drawContours(self.kameraIAVision, objetos, -1, 255, 1)
         cv2.imshow('IA visión', self.kameraIAVision)
 
-
-
-
-
     def _initKamera(self):
         cont = 0
+        img_counter = 0
         while(True):
             ret,frame = self.cap.read()
             self.filters(frame) # Init another images
@@ -84,8 +85,65 @@ class Kamera():
                 cont += 1
                 img_name ="imagen_{}.jpg".format(img_counter)
                 cv2.imwrite(img_name,frame)
-
+                self.detectarForma(frame, frame, img_name)
+                acum = acum + self.probarModelo(img_name)
                 img_counter += 1
+
+                self.mostrarAcumulado(acum, frame)
+
 
         self.cap.release()
         cv2.destroyAllWindows()
+
+    def detectarForma(self,frame,imagen,img_name):
+        nameWindow = "IA detection"
+        imagenGris=cv2.cvtColor(imagen,cv2.COLOR_BGR2GRAY)
+        cv2.imshow("Grises",imagenGris)
+        min=cv2.getTrackbarPos("min",nameWindow)
+        max=cv2.getTrackbarPos("max",nameWindow)
+        bordes=cv2.Canny(imagenGris,min,max)
+        tamañokernel=cv2.getTrackbarPos("kernel",nameWindow)
+        kernel=np.ones((tamañokernel,tamañokernel),np.uint8)
+        bordes=cv2.dilate(bordes,kernel)
+        cv2.imshow("Bordes",bordes)
+        objetos,jerarquias=cv2.findContours(bordes,cv2.RETR_TREE,cv2.CHAIN_APPROX_SIMPLE)
+        nuevaImagen = np.zeros_like(bordes)
+        cv2.drawContours(nuevaImagen, objetos, -1, 255, 1)
+        cv2.imshow('contornos', nuevaImagen)
+        areas=self.calcularAreas(objetos)
+        i=0
+        areaMin=cv2.getTrackbarPos("areaMin",nameWindow)
+        for objetoActual in objetos:
+            if areas[i]>=areaMin:
+
+                vertices=cv2.approxPolyDP(objetoActual,0.025*cv2.arcLength(objetoActual, closed=True),True)
+
+                if len(vertices) == 4 :
+                    x, y, w, h = cv2.boundingRect(vertices)
+                    new_img=frame[y:y+h,x:x+w]
+                    cv2.imwrite(img_name,new_img)
+            i = i+1
+
+    def calcularAreas(self, objetos):
+        areas=[]
+        for objetoActual in objetos:
+            areas.append(cv2.contourArea(objetoActual))
+        return areas
+
+    def probarModelo(selft, imagen):
+        categorias = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"]
+
+        width = 128
+        height = 128
+
+        miModeloCNN = Prediction("models/model_c.h5", width, height)
+        imagen_seleccionada = cv2.imread(imagen, 0)
+
+        categodria_predicha = miModeloCNN.predecir(imagen_seleccionada)
+
+        return categodria_predicha
+
+
+    def mostrarAcumulado(acum, img):
+        cv2.putText(img, 'Acomulado {}'.format(acum), (10, 150), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2, cv2.LINE_AA)
+        cv2.imshow("Imagen", img)

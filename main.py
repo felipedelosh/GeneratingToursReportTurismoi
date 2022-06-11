@@ -6,7 +6,6 @@ This is a secord partial of AI.2
 
 """
 from kamera import *
-from ArtificialInteligence import *
 import os
 from os import scandir
 
