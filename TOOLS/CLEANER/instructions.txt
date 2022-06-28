@@ -1,0 +1,7 @@
+felipedelosh
+
+erase a .trash simbols of .csv in data folder
+
+1 -> Put archivos.csv in data folder
+2 -> Load a files.
+3 -> Save pure files

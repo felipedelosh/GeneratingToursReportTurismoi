@@ -1,0 +1,853 @@
+CONCAT(pck.id, '|')	CONCAT(plz.name, '|')
+1|	Valparaíso|
+1|	Viña Del Mar|
+2|	Antofagasta|
+3|	Valparaíso|
+3|	Hanga Roa|
+4|	De Los Lagos|
+4|	Puerto Varas|
+5|	De Los Lagos|
+5|	Osorno|
+6|	De Los Lagos|
+6|	Puerto Varas|
+7|	Metropolitana De Santiago|
+7|	Valparaíso|
+7|	Santiago|
+7|	Viña Del Mar|
+8|	Coquimbo|
+8|	La Serena|
+8|	Vicuña|
+9|	Antofagasta|
+9|	San Pedro De Atacama|
+9|	Calama|
+9|	Salar de Atacama|
+9|	Geyser el Tatio|
+10|	De Los Ríos|
+10|	Los Lagos|
+11|	Magallanes Y De La Antártica Chilena|
+11|	Punta Arenas|
+11|	Puerto Natales|
+12|	Magallanes Y De La Antártica Chilena|
+12|	Punta Arenas|
+13|	Del Libertador Gral. Bernardo O'Higgins|
+13|	Santa Cruz|
+14|	Del Libertador Gral. Bernardo O'Higgins|
+14|	Rancagua|
+15|	Valparaíso|
+15|	Viña Del Mar|
+16|	De Los Lagos|
+16|	Puerto Varas|
+17|	De Los Lagos|
+17|	Puerto Montt|
+17|	Puerto Varas|
+18|	De Los Lagos|
+18|	Ancud|
+18|	Castro|
+19|	Magallanes Y De La Antártica Chilena|
+19|	Punta Arenas|
+19|	Puerto Natales|
+20|	Metropolitana De Santiago|
+20|	Santiago|
+21|	Valparaíso|
+21|	Viña Del Mar|
+22|	Metropolitana De Santiago|
+22|	Santiago|
+23|	Metropolitana De Santiago|
+23|	Talagante|
+24|	Metropolitana De Santiago|
+24|	Santiago|
+25|	Metropolitana De Santiago|
+25|	Santiago|
+26|	Metropolitana De Santiago|
+26|	Santiago|
+27|	Metropolitana De Santiago|
+27|	Santiago|
+28|	Valparaíso|
+28|	Hanga Roa|
+29|	De Los Lagos|
+29|	Puerto Varas|
+30|	Valparaíso|
+30|	Hanga Roa|
+31|	Magallanes Y De La Antártica Chilena|
+31|	Punta Arenas|
+32|	Metropolitana De Santiago|
+32|	Santiago|
+33|	Valparaíso|
+33|	Hanga Roa|
+34|	Magallanes Y De La Antártica Chilena|
+34|	Puerto Natales|
+35|	Magallanes Y De La Antártica Chilena|
+35|	Puerto Natales|
+36|	Valparaíso|
+37|	Magallanes Y De La Antártica Chilena|
+37|	Puerto Natales|
+38|	Valparaíso|
+38|	Hanga Roa|
+39|	Valparaíso|
+40|	De Los Lagos|
+40|	Puerto Varas|
+41|	De Los Lagos|
+41|	Puerto Varas|
+42|	De Los Lagos|
+42|	Puerto Varas|
+43|	Magallanes Y De La Antártica Chilena|
+43|	Punta Arenas|
+44|	Magallanes Y De La Antártica Chilena|
+44|	Puerto Natales|
+45|	Metropolitana De Santiago|
+45|	Santiago|
+46|	Metropolitana De Santiago|
+46|	Santiago|
+47|	Metropolitana De Santiago|
+47|	Santiago|
+48|	Valparaíso|
+49|	Metropolitana De Santiago|
+49|	Santiago|
+50|	Valparaíso|
+51|	Metropolitana De Santiago|
+51|	Santiago|
+52|	Metropolitana De Santiago|
+52|	Santiago|
+53|	De Los Lagos|
+53|	Puerto Varas|
+54|	Magallanes Y De La Antártica Chilena|
+54|	Punta Arenas|
+55|	Magallanes Y De La Antártica Chilena|
+55|	Punta Arenas|
+56|	Magallanes Y De La Antártica Chilena|
+56|	Punta Arenas|
+57|	Magallanes Y De La Antártica Chilena|
+57|	Punta Arenas|
+58|	Metropolitana De Santiago|
+58|	Santiago|
+59|	Metropolitana De Santiago|
+59|	Santiago|
+60|	Metropolitana De Santiago|
+60|	Santiago|
+61|	De Los Lagos|
+61|	Puerto Varas|
+62|	De Los Lagos|
+62|	Puerto Varas|
+63|	Metropolitana De Santiago|
+63|	Santiago|
+64|	Valparaíso|
+64|	Hanga Roa|
+65|	Metropolitana De Santiago|
+65|	Santiago|
+66|	Metropolitana De Santiago|
+66|	Santiago|
+67|	Metropolitana De Santiago|
+67|	Santiago|
+68|	Metropolitana De Santiago|
+68|	Santiago|
+69|	Magallanes Y De La Antártica Chilena|
+69|	Puerto Natales|
+70|	Aysén|
+70|	Chile chico|
+70|	Puerto Tranquilo|
+71|	Valparaíso|
+72|	Coquimbo|
+72|	Vicuña|
+73|	Coquimbo|
+73|	Andacollo|
+73|	Vicuña|
+74|	Aysén|
+74|	Chile chico|
+75|	Coquimbo|
+75|	La Serena|
+76|	Coquimbo|
+76|	Andacollo|
+77|	Magallanes Y De La Antártica Chilena|
+77|	Punta Arenas|
+78|	Atacama|
+78|	Caldera|
+79|	Arica Y Parinacota|
+79|	Poblado de Putre|
+80|	Arica Y Parinacota|
+80|	Poblado de Putre|
+81|	Arica Y Parinacota|
+81|	Poblado de Putre|
+82|	Arica Y Parinacota|
+82|	Poblado de Putre|
+83|	Arica Y Parinacota|
+83|	Poblado de Putre|
+83|	Arica|
+84|	De Los Ríos|
+84|	Panguipulli|
+85|	Arica Y Parinacota|
+85|	Arica|
+86|	Arica Y Parinacota|
+86|	Arica|
+87|	Arica Y Parinacota|
+87|	Poblado de Putre|
+87|	Arica|
+88|	Arica Y Parinacota|
+88|	Poblado de Putre|
+89|	Arica Y Parinacota|
+89|	Poblado de Putre|
+90|	Arica Y Parinacota|
+90|	Poblado de Putre|
+91|	Arica Y Parinacota|
+91|	Poblado de Putre|
+92|	Arica Y Parinacota|
+92|	Poblado de Putre|
+93|	Arica Y Parinacota|
+93|	Poblado de Putre|
+94|	Arica Y Parinacota|
+94|	Poblado de Putre|
+95|	Arica Y Parinacota|
+95|	Poblado de Putre|
+96|	Arica Y Parinacota|
+96|	Poblado de Putre|
+96|	Arica|
+97|	Arica Y Parinacota|
+97|	Poblado de Putre|
+98|	Arica Y Parinacota|
+98|	Poblado de Putre|
+99|	Arica Y Parinacota|
+99|	Poblado de Putre|
+100|	Valparaíso|
+100|	Algarrobo|
+100|	Cartagena|
+101|	Antofagasta|
+101|	San Pedro de Atacama|
+102|	Valparaíso|
+103|	Metropolitana De Santiago|
+103|	San José De Maipo|
+104|	Antofagasta|
+104|	San Pedro de Atacama|
+105|	Antofagasta|
+105|	San Pedro de Atacama|
+106|	Valparaíso|
+106|	Quintero|
+107|	De Los Ríos|
+107|	Futrono|
+108|	Antofagasta|
+108|	San Pedro de Atacama|
+109|	Aisén Del Gral. Carlos Ibáñez Del Campo|
+109|	Coihaique|
+109|	Río Baker |
+109|	Santuario de la Naturaleza Capilla de Mármol |
+109|	Caleta Tortel |
+109|	Lago General Carrera|
+110|	De Los Lagos|
+110|	Puerto Montt|
+111|	Antofagasta|
+111|	San Pedro de Atacama|
+112|	Aisén Del Gral. Carlos Ibáñez Del Campo|
+112|	Coihaique|
+113|	Valparaíso|
+113|	Viña Del Mar|
+114|	Antofagasta|
+114|	San Pedro de Atacama|
+115|	Metropolitana De Santiago|
+115|	Santiago|
+116|	Antofagasta|
+116|	San Pedro de Atacama|
+117|	Valparaíso|
+117|	Viña Del Mar|
+118|	Antofagasta|
+118|	San Pedro de Atacama|
+119|	Antofagasta|
+119|	San Pedro de Atacama|
+120|	Aisén Del Gral. Carlos Ibáñez Del Campo|
+120|	Coihaique|
+121|	Aisén Del Gral. Carlos Ibáñez Del Campo|
+121|	Chile Chico|
+121|	Coihaique|
+121|	Río Baker |
+121|	Santuario de la Naturaleza Capilla de Mármol |
+121|	Parque Nacional Queulat|
+121|	Lago General Carrera|
+121|	Aysén|
+121|	Puerto Tranquilo|
+122|	Arica Y Parinacota|
+122|	Arica|
+123|	Aisén Del Gral. Carlos Ibáñez Del Campo|
+123|	Puerto Aisén|
+123|	Coihaique|
+124|	Magallanes Y De La Antártica Chilena|
+124|	Punta Arenas|
+125|	Metropolitana De Santiago|
+125|	San José De Maipo|
+126|	De La Araucanía|
+126|	Pucón|
+127|	Valparaíso|
+127|	Cartagena|
+128|	Arica Y Parinacota|
+128|	Arica|
+129|	Arica Y Parinacota|
+129|	Arica|
+130|	De Los Ríos|
+130|	Futrono|
+131|	Del Biobío |
+131|	Chillán|
+132|	Del Biobío |
+132|	Lebu|
+133|	Valparaíso|
+134|	Aysén|
+134|	Chile chico|
+135|	Valparaíso|
+135|	Viña Del Mar|
+136|	Aisén Del Gral. Carlos Ibáñez Del Campo|
+136|	Coihaique|
+137|	Valparaíso|
+138|	Valparaíso|
+138|	Viña Del Mar|
+139|	Valparaíso|
+140|	Valparaíso|
+140|	Concón|
+141|	Antofagasta|
+141|	San Pedro de Atacama|
+142|	Valparaíso|
+142|	Olmué|
+143|	Metropolitana De Santiago|
+143|	Santiago|
+144|	Aisén Del Gral. Carlos Ibáñez Del Campo|
+144|	Coihaique|
+144|	Aysén|
+144|	Chile chico|
+144|	Puerto Tranquilo|
+145|	Metropolitana De Santiago|
+145|	Santiago|
+146|	Metropolitana De Santiago|
+146|	Santiago|
+147|	Metropolitana De Santiago|
+147|	Santiago|
+148|	Metropolitana De Santiago|
+148|	Santiago|
+149|	De Los Lagos|
+149|	De Los Ríos|
+149|	Osorno|
+149|	Futrono|
+150|	De Los Ríos|
+150|	Futrono|
+151|	De Los Ríos|
+151|	Futrono|
+152|	De Los Ríos|
+152|	Futrono|
+153|	Valparaíso|
+154|	De Los Lagos|
+154|	De Los Ríos|
+154|	Osorno|
+154|	Futrono|
+155|	Antofagasta|
+156|	Valparaíso|
+156|	Algarrobo|
+157|	Valparaíso|
+157|	Algarrobo|
+157|	Viña Del Mar|
+158|	Valparaíso|
+158|	Algarrobo|
+158|	Casablanca|
+159|	Del Biobío |
+159|	Chillán|
+160|	Magallanes Y De La Antártica Chilena|
+160|	Punta Arenas|
+160|	Puerto Natales|
+161|	De La Araucanía|
+161|	De Los Ríos|
+161|	Pucón|
+161|	Villarrica|
+161|	Panguipulli|
+162|	Tarapacá|
+162|	Iquique|
+163|	Antofagasta|
+164|	De Los Ríos|
+164|	Panguipulli|
+165|	Valparaíso|
+166|	Valparaíso|
+167|	Valparaíso|
+167|	Quillota|
+168|	Valparaíso|
+169|	De La Araucanía|
+169|	Pucón|
+169|	Villarrica|
+170|	Antofagasta|
+171|	De La Araucanía|
+171|	Pucón|
+171|	Villarrica|
+172|	De La Araucanía|
+172|	Pucón|
+172|	Villarrica|
+173|	De Los Ríos|
+173|	Panguipulli|
+174|	Atacama|
+174|	Caldera|
+175|	Del Biobío |
+175|	Chillán|
+176|	Del Biobío |
+176|	Chillán|
+177|	Del Biobío |
+177|	Chillán|
+178|	Coquimbo|
+178|	La Serena|
+179|	De Los Ríos|
+179|	Futrono|
+180|	Magallanes Y De La Antártica Chilena|
+180|	Punta Arenas|
+180|	Puerto Natales|
+181|	Aisén Del Gral. Carlos Ibáñez Del Campo|
+181|	Coihaique|
+181|	Santuario de la Naturaleza Capilla de Mármol |
+181|	Parque Nacional Laguna San Rafael|
+181|	Parque Nacional Queulat|
+181|	Aysén|
+181|	Puerto Tranquilo|
+182|	Antofagasta|
+182|	San Pedro de Atacama|
+183|	De Los Ríos|
+183|	La Unión|
+184|	Antofagasta|
+184|	San Pedro de Atacama|
+185|	De Los Lagos|
+185|	Castro|
+186|	Valparaíso|
+186|	Viña Del Mar|
+187|	Valparaíso|
+188|	Antofagasta|
+189|	Antofagasta|
+190|	Valparaíso|
+191|	De La Araucanía|
+191|	Pucón|
+191|	Villarrica|
+192|	Valparaíso|
+193|	Valparaíso|
+193|	Concón|
+193|	Viña Del Mar|
+194|	De La Araucanía|
+194|	Pucón|
+194|	Villarrica|
+195|	Metropolitana De Santiago|
+195|	Santiago|
+196|	Arica Y Parinacota|
+196|	Arica|
+197|	Arica Y Parinacota|
+197|	Arica|
+198|	Antofagasta|
+198|	Valle de la Luna|
+198|	San Pedro de Atacama|
+199|	Antofagasta|
+199|	San Pedro de Atacama|
+200|	Magallanes Y De La Antártica Chilena|
+200|	Punta Arenas|
+201|	Tarapacá|
+201|	Iquique|
+202|	Valparaíso|
+203|	Magallanes Y De La Antártica Chilena|
+203|	Punta Arenas|
+204|	Magallanes Y De La Antártica Chilena|
+204|	Punta Arenas|
+205|	Antofagasta|
+205|	San Pedro de Atacama|
+206|	Antofagasta|
+206|	San Pedro de Atacama|
+207|	Valparaíso|
+207|	Hanga Roa|
+208|	Antofagasta|
+208|	San Pedro de Atacama|
+209|	Antofagasta|
+209|	San Pedro de Atacama|
+210|	Valparaíso|
+210|	Viña Del Mar|
+211|	Valparaíso|
+211|	Hanga Roa|
+212|	Antofagasta|
+212|	San Pedro de Atacama|
+213|	Valparaíso|
+213|	Hanga Roa|
+214|	Magallanes Y De La Antártica Chilena|
+214|	Punta Arenas|
+215|	Antofagasta|
+215|	Metropolitana De Santiago|
+215|	Santiago|
+215|	San Pedro de Atacama|
+216|	Valparaíso|
+216|	Hanga Roa|
+217|	Antofagasta|
+217|	Metropolitana De Santiago|
+217|	Santiago|
+217|	San Pedro de Atacama|
+218|	Valparaíso|
+218|	Los Andes|
+219|	Coquimbo|
+219|	La Serena|
+220|	De La Araucanía|
+220|	Villarrica|
+221|	Magallanes Y De La Antártica Chilena|
+221|	Puerto Natales|
+222|	De La Araucanía|
+222|	Pucón|
+222|	Villarrica|
+223|	Magallanes Y De La Antártica Chilena|
+223|	Puerto Natales|
+224|	Arica Y Parinacota|
+224|	Arica|
+225|	Arica Y Parinacota|
+225|	Arica|
+226|	Coquimbo|
+226|	Vicuña|
+227|	Coquimbo|
+227|	Vicuña|
+228|	Valparaíso|
+229|	Antofagasta|
+229|	San Pedro de Atacama|
+230|	Antofagasta|
+230|	San Pedro de Atacama|
+231|	Antofagasta|
+231|	San Pedro de Atacama|
+232|	Metropolitana De Santiago|
+232|	Santiago|
+233|	Coquimbo|
+233|	Ovalle|
+234|	Antofagasta|
+234|	San Pedro de Atacama|
+235|	Atacama|
+235|	Caldera|
+235|	Copiapó|
+235|	Laguna Santa Rosa|
+235|	Laguna Verde|
+235|	Bahia Inglesa|
+236|	Valparaíso|
+236|	Viña Del Mar|
+237|	Metropolitana De Santiago|
+237|	Santiago|
+238|	Valparaíso|
+238|	Casablanca|
+239|	Valparaíso|
+239|	Casablanca|
+240|	Valparaíso|
+241|	Valparaíso|
+241|	Casablanca|
+242|	Valparaíso|
+242|	Casablanca|
+243|	Valparaíso|
+243|	Casablanca|
+244|	Valparaíso|
+244|	Casablanca|
+245|	Coquimbo|
+245|	La Serena|
+246|	Valparaíso|
+246|	Casablanca|
+247|	Valparaíso|
+247|	Casablanca|
+248|	Valparaíso|
+248|	El Quisco|
+248|	San Antonio|
+249|	Metropolitana De Santiago|
+249|	Pirque|
+250|	Metropolitana De Santiago|
+250|	Pirque|
+251|	Atacama|
+251|	Caldera|
+251|	Copiapó|
+251|	Laguna Santa Rosa|
+251|	Laguna Verde|
+251|	Playa La Piscina de Bahía Inglesa|
+252|	Metropolitana De Santiago|
+252|	Pirque|
+253|	Metropolitana De Santiago|
+253|	Colina|
+253|	Santiago|
+254|	Metropolitana De Santiago|
+254|	San José De Maipo|
+255|	De La Araucanía|
+255|	Pucón|
+256|	Atacama|
+256|	Copiapó|
+257|	Valparaíso|
+257|	Limache|
+258|	Valparaíso|
+259|	Valparaíso|
+259|	Viña Del Mar|
+260|	Valparaíso|
+260|	Viña Del Mar|
+261|	Valparaíso|
+261|	Casablanca|
+261|	Viña Del Mar|
+262|	Arica Y Parinacota|
+262|	Poblado de Putre|
+262|	Lago Chungará|
+262|	Salar de Surire|
+263|	Valparaíso|
+263|	Hanga Roa|
+264|	De Los Lagos|
+264|	Castro|
+265|	Antofagasta|
+265|	San Pedro de Atacama|
+266|	Metropolitana De Santiago|
+266|	Santiago|
+267|	De Los Lagos|
+267|	Puerto Varas|
+268|	De La Araucanía|
+268|	Temuco|
+269|	De La Araucanía|
+269|	Temuco|
+270|	De Los Lagos|
+270|	Puerto Varas|
+271|	Valparaíso|
+272|	Valparaíso|
+272|	Viña Del Mar|
+273|	Antofagasta|
+273|	San Pedro de Atacama|
+274|	Antofagasta|
+274|	San Pedro de Atacama|
+275|	Antofagasta|
+275|	San Pedro de Atacama|
+276|	Arica Y Parinacota|
+276|	Poblado de Putre|
+277|	Tarapacá|
+277|	Iquique|
+278|	De La Araucanía|
+278|	Villarrica|
+279|	Valparaíso|
+280|	Valparaíso|
+280|	Viña Del Mar|
+281|	Metropolitana De Santiago|
+281|	Santiago|
+282|	Metropolitana De Santiago|
+282|	Santiago|
+283|	Metropolitana De Santiago|
+283|	Santiago|
+284|	Metropolitana De Santiago|
+284|	Santiago|
+285|	Metropolitana De Santiago|
+285|	Santiago|
+286|	Metropolitana De Santiago|
+286|	Santiago|
+287|	Metropolitana De Santiago|
+287|	Santiago|
+288|	Metropolitana De Santiago|
+288|	Santiago|
+289|	Metropolitana De Santiago|
+289|	Santiago|
+290|	Metropolitana De Santiago|
+290|	Santiago|
+291|	Metropolitana De Santiago|
+291|	Santiago|
+292|	Metropolitana De Santiago|
+292|	Santiago|
+293|	Metropolitana De Santiago|
+293|	Santiago|
+294|	Metropolitana De Santiago|
+294|	Santiago|
+295|	Metropolitana De Santiago|
+295|	Santiago|
+296|	Metropolitana De Santiago|
+296|	Santiago|
+297|	Metropolitana De Santiago|
+297|	Santiago|
+298|	Metropolitana De Santiago|
+298|	Santiago|
+299|	Metropolitana De Santiago|
+299|	Santiago|
+300|	Metropolitana De Santiago|
+300|	Santiago|
+301|	Metropolitana De Santiago|
+301|	Santiago|
+302|	Metropolitana De Santiago|
+302|	Santiago|
+303|	Metropolitana De Santiago|
+303|	Santiago|
+304|	Metropolitana De Santiago|
+304|	Santiago|
+305|	Metropolitana De Santiago|
+305|	Santiago|
+306|	Metropolitana De Santiago|
+306|	Santiago|
+307|	Metropolitana De Santiago|
+307|	Santiago|
+308|	Metropolitana De Santiago|
+308|	Santiago|
+309|	Metropolitana De Santiago|
+309|	Santiago|
+310|	Metropolitana De Santiago|
+310|	Valparaíso|
+310|	Santiago|
+310|	Algarrobo|
+310|	El Quisco|
+310|	El Tabo|
+310|	San Antonio|
+310|	Santo Domingo|
+311|	De La Araucanía|
+311|	Pucón|
+312|	Atacama|
+312|	Caldera|
+313|	Magallanes Y De La Antártica Chilena|
+313|	Puerto Natales|
+314|	Coquimbo|
+314|	La Serena|
+315|	Tarapacá|
+315|	Iquique|
+316|	Tarapacá|
+316|	Iquique|
+317|	Tarapacá|
+317|	Iquique|
+318|	Tarapacá|
+318|	Iquique|
+319|	Tarapacá|
+319|	Iquique|
+320|	Tarapacá|
+320|	Iquique|
+321|	Tarapacá|
+321|	Iquique|
+322|	Tarapacá|
+322|	Iquique|
+323|	De La Araucanía|
+323|	Curacautín|
+324|	De La Araucanía|
+324|	Temuco|
+325|	De La Araucanía|
+325|	Temuco|
+326|	Coquimbo|
+327|	Coquimbo|
+328|	Coquimbo|
+328|	La Serena|
+329|	Antofagasta|
+329|	San Pedro de Atacama|
+330|	Antofagasta|
+330|	San Pedro de Atacama|
+331|	Valparaíso|
+332|	Magallanes Y De La Antártica Chilena|
+332|	Punta Arenas|
+333|	Magallanes Y De La Antártica Chilena|
+333|	Punta Arenas|
+333|	Puerto Natales|
+334|	Valparaíso|
+335|	Tarapacá|
+335|	Iquique|
+336|	Aysén|
+336|	Coyhaique|
+337|	Aysén|
+337|	Coyhaique|
+338|	Aysén|
+338|	Coyhaique|
+339|	Valparaíso|
+339|	Isla de Pascua|
+340|	De Los Lagos|
+340|	Castro|
+341|	De Los Lagos|
+341|	Castro|
+342|	De Los Lagos|
+342|	Castro|
+343|	De Los Lagos|
+343|	Castro|
+344|	De Los Lagos|
+344|	Castro|
+345|	De Los Lagos|
+345|	Castro|
+346|	De Los Lagos|
+346|	Castro|
+347|	Magallanes Y De La Antártica Chilena|
+347|	Puerto Natales|
+348|	Magallanes Y De La Antártica Chilena|
+348|	Puerto Natales|
+349|	Aysén|
+349|	Puerto Rio Tranquilo|
+350|	Magallanes Y De La Antártica Chilena|
+350|	Punta Arenas|
+351|	De Los Lagos|
+351|	Puerto Montt|
+351|	Puerto Varas|
+352|	De Los Lagos|
+352|	Puerto Varas|
+353|	De Los Lagos|
+353|	Puerto Montt|
+353|	Puerto Varas|
+354|	De Los Lagos|
+354|	Puerto Varas|
+355|	De Los Lagos|
+355|	Puerto Varas|
+356|	De Los Lagos|
+356|	Puerto Varas|
+357|	Aysén|
+357|	Coyhaique|
+358|	Coquimbo|
+359|	Coquimbo|
+360|	De La Araucanía|
+360|	Pucón|
+361|	De La Araucanía|
+361|	Temuco|
+361|	Angol|
+362|	De La Araucanía|
+362|	Pucón|
+362|	Temuco|
+362|	Villarrica|
+363|	De La Araucanía|
+363|	Temuco|
+364|	De La Araucanía|
+364|	Temuco|
+365|	De La Araucanía|
+365|	Temuco|
+366|	Tarapacá|
+366|	Iquique|
+367|	Tarapacá|
+367|	Iquique|
+368|	Del Maule|
+368|	Linares|
+369|	Del Maule|
+369|	Linares|
+370|	Arica Y Parinacota|
+370|	Arica|
+371|	Arica Y Parinacota|
+371|	Arica|
+372|	Arica Y Parinacota|
+372|	Arica|
+373|	Magallanes Y De La Antártica Chilena|
+373|	Torres de Paine|
+374|	De La Araucanía|
+374|	Temuco|
+375|	Valparaíso|
+375|	Viña Del Mar|
+376|	Valparaíso|
+377|	Valparaíso|
+378|	Valparaíso|
+378|	Viña Del Mar|
+379|	Valparaíso|
+379|	Viña Del Mar|
+380|	Valparaíso|
+380|	Viña Del Mar|
+381|	Arica Y Parinacota|
+381|	Arica|
+382|	Antofagasta|
+382|	San Pedro de Atacama|
+383|	Antofagasta|
+383|	San Pedro de Atacama|
+384|	Metropolitana De Santiago|
+384|	Santiago|
+385|	Metropolitana De Santiago|
+385|	Santiago|
+386|	Metropolitana De Santiago|
+386|	Santiago|
+387|	Metropolitana De Santiago|
+387|	Santiago|
+388|	Metropolitana De Santiago|
+388|	Santiago|
+389|	Metropolitana De Santiago|
+389|	Santiago|
+390|	Metropolitana De Santiago|
+390|	Santiago|
+391|	Metropolitana De Santiago|
+391|	Santiago|
+392|	Metropolitana De Santiago|
+392|	Valparaíso|
+392|	Santiago|
+392|	Viña Del Mar|
+393|	Metropolitana De Santiago|
+393|	Santiago|
+394|	Metropolitana De Santiago|
+394|	Santiago|
+395|	Metropolitana De Santiago|
+395|	Santiago|
+396|	Metropolitana De Santiago|
+396|	Santiago|
+397|	Metropolitana De Santiago|
+397|	Santiago|
+398|	Metropolitana De Santiago|
+398|	Santiago|
+399|	Metropolitana De Santiago|
+399|	Santiago|
+400|	Coquimbo|
+401|	Coquimbo|
+402|	Coquimbo|
+403|	Coquimbo|

@@ -1,6 +1,7 @@
 tour_id
 tour_user_id
 tour_name
+tour_description
 tour_starter_point
 URL
 tour_price

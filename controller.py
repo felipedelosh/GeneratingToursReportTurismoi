@@ -13,6 +13,7 @@ class Controller:
         self.countryINFO = {}  # {nameOfCountry : data, nameOfCountry : data ...}
         # This is a specifed header i need calculate
         self._peruCitiesNames = {}
+        self._chileCitiesnames = {}
         self.generalHeaders = ""
         self.generalHeadersOthers = ""
         self.specifed_headers = "name of tour operator|tour_distribution|pago nulo|pago aprobado|pago expirado|pago extornado|pago no procesado|pago pendiente|por pagar\n" 
@@ -71,6 +72,24 @@ class Controller:
             city_of_tour = city_of_tour.rstrip()
             self._peruCitiesNames[id_tour] = city_of_tour
 
+        info = self.rtnArcheveInfo("resources/cities_packages_chile.csv")
+        info = info.split("\n")
+        info = info[1:len(info)-2]
+        # Save in peru cities
+        for i in info:
+            data = i.split("|")
+            id_tour = data[0]
+            id_tour = id_tour.lstrip()
+            id_tour = id_tour.rstrip()
+            city_of_tour = data[1]
+            city_of_tour = city_of_tour.lstrip()
+            city_of_tour = city_of_tour.rstrip()
+            if id_tour not in self._chileCitiesnames.keys():
+                self._chileCitiesnames[id_tour] = city_of_tour
+
+
+        
+
     def loadHostCountriesNames(self):
         info = self.rtnArcheveInfo("resources/paises_host.txt")
         for i in info.split("\n"):
@@ -81,7 +100,7 @@ class Controller:
         # Load Excel info
         for i in self.rtnArchieveFilesNames():
             try:
-                if i != "otros.csv":
+                if i != "otros.csv": # Si no es otros paises.
                     print("cargando info de ...", i)
 
                     # Load tour information
@@ -119,6 +138,15 @@ class Controller:
                                 self.temporalSaveTours[id].add_tour_city = "perú"
                                 print("Error en :", i, ">>", id, "No se encontro CIty... Reload info plz")
 
+                        if 'chile' in str(i).lower():
+                            try:
+                                self.temporalSaveTours[id].add_tour_city = self._chileCitiesnames[id]
+                            except:
+                                self.temporalSaveTours[id].add_tour_city = "chile"
+                                print("Error en :", i, ">>", id, "No se encontro CIty... Reload info plz")
+                        
+
+                        
                         # Caching name of tour operator
                         name_of_tour_op = data[-3]
                         name_of_tour_op = name_of_tour_op.lstrip()
@@ -174,6 +202,7 @@ class Controller:
 
                     self.saveTourDataInCountry(i, self.temporalSaveTours)
                     self.temporalSaveTours = {} # ReStart
+                    print("Termine de cargar la info.", i)
 
 
                 else:
