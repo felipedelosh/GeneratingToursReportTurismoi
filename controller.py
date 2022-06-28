@@ -14,6 +14,10 @@ class Controller:
         # This is a specifed header i need calculate
         self._peruCitiesNames = {}
         self._chileCitiesnames = {}
+        self._mexicoCitiesnames = {}
+        self._colombiaCitiesNames = {}
+        self._ecuadorCitiesNames = {}
+        self._espanaCitiesNames = {}
         self.generalHeaders = ""
         self.generalHeadersOthers = ""
         self.specifed_headers = "name of tour operator|tour_distribution|pago nulo|pago aprobado|pago expirado|pago extornado|pago no procesado|pago pendiente|por pagar\n" 
@@ -75,7 +79,7 @@ class Controller:
         info = self.rtnArcheveInfo("resources/cities_packages_chile.csv")
         info = info.split("\n")
         info = info[1:len(info)-2]
-        # Save in peru cities
+        # Save in chile cities
         for i in info:
             data = i.split("|")
             id_tour = data[0]
@@ -86,6 +90,70 @@ class Controller:
             city_of_tour = city_of_tour.rstrip()
             if id_tour not in self._chileCitiesnames.keys():
                 self._chileCitiesnames[id_tour] = city_of_tour
+
+        info = self.rtnArcheveInfo("resources/cities_packages_mexico.csv")
+        info = info.split("\n")
+        info = info[1:len(info)-2]
+
+        # Save in mexico cities
+        for i in info:
+            data = i.split("|")
+            id_tour = data[0]
+            id_tour = id_tour.lstrip()
+            id_tour = id_tour.rstrip()
+            city_of_tour = data[1]
+            city_of_tour = city_of_tour.lstrip()
+            city_of_tour = city_of_tour.rstrip()
+            if id_tour not in self._mexicoCitiesnames.keys():
+                self._mexicoCitiesnames[id_tour] = city_of_tour
+
+        info = self.rtnArcheveInfo("resources/cities_packages_colombia.csv")
+        info = info.split("\n")
+        info = info[1:len(info)-2]
+
+        # Save in colombia cities
+        for i in info:
+            data = i.split("|")
+            id_tour = data[0]
+            id_tour = id_tour.lstrip()
+            id_tour = id_tour.rstrip()
+            city_of_tour = data[1]
+            city_of_tour = city_of_tour.lstrip()
+            city_of_tour = city_of_tour.rstrip()
+            if id_tour not in self._colombiaCitiesNames.keys():
+                self._colombiaCitiesNames[id_tour] = city_of_tour
+
+        info = self.rtnArcheveInfo("resources/cities_packages_ecuador.csv")
+        info = info.split("\n")
+        info = info[1:len(info)-2]
+
+        # Save in ecuador cities
+        for i in info:
+            data = i.split("|")
+            id_tour = data[0]
+            id_tour = id_tour.lstrip()
+            id_tour = id_tour.rstrip()
+            city_of_tour = data[1]
+            city_of_tour = city_of_tour.lstrip()
+            city_of_tour = city_of_tour.rstrip()
+            if id_tour not in self._ecuadorCitiesNames.keys():
+                self._ecuadorCitiesNames[id_tour] = city_of_tour
+
+        info = self.rtnArcheveInfo("resources/cities_packages_espana.csv")
+        info = info.split("\n")
+        info = info[1:len(info)-2]
+
+        # Save in espana cities
+        for i in info:
+            data = i.split("|")
+            id_tour = data[0]
+            id_tour = id_tour.lstrip()
+            id_tour = id_tour.rstrip()
+            city_of_tour = data[1]
+            city_of_tour = city_of_tour.lstrip()
+            city_of_tour = city_of_tour.rstrip()
+            if id_tour not in self._espanaCitiesNames.keys():
+                self._espanaCitiesNames[id_tour] = city_of_tour
 
 
         
@@ -144,9 +212,38 @@ class Controller:
                             except:
                                 self.temporalSaveTours[id].add_tour_city = "chile"
                                 print("Error en :", i, ">>", id, "No se encontro CIty... Reload info plz")
-                        
 
-                        
+                        if 'mexico' in str(i).lower() or 'mejico' in str(i).lower():
+                            try:
+                                self.temporalSaveTours[id].add_tour_city = self._mexicoCitiesnames[id]
+                            except:
+                                self.temporalSaveTours[id].add_tour_city = "mexico"
+                                print("Error en :", i, ">>", id, "No se encontro CIty... Reload info plz")
+
+                        if 'colombia' in str(i).lower():
+                            try:
+                                self.temporalSaveTours[id].add_tour_city = self._colombiaCitiesNames[id]
+                            except:
+                                self.temporalSaveTours[id].add_tour_city = "colombia"
+                                print("Error en :", i, ">>", id, "No se encontro CIty... Reload info plz")                        
+                     
+                        if 'ecuador' in str(i).lower():
+                            try:
+                                self.temporalSaveTours[id].add_tour_city = self._ecuadorCitiesNames[id]
+                            except:
+                                self.temporalSaveTours[id].add_tour_city = "ecuador"
+                                print("Error en :", i, ">>", id, "No se encontro CIty... Reload info plz")  
+                       
+                        if 'espana' in str(i).lower() or 'españa' in str(i).lower():
+                            try:
+                                self.temporalSaveTours[id].add_tour_city = self._espanaCitiesNames[id]
+                            except:
+                                self.temporalSaveTours[id].add_tour_city = "espana"
+                                print("Error en :", i, ">>", id, "No se encontro CIty... Reload info plz")  
+                                                
+
+
+
                         # Caching name of tour operator
                         name_of_tour_op = data[-3]
                         name_of_tour_op = name_of_tour_op.lstrip()

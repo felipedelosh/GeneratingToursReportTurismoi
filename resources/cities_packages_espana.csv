@@ -1,0 +1,3392 @@
+CONCAT(pck.id, '|')	CONCAT(plz.name, '|')
+1137|	Castilla - León|
+1137|	Ávila|
+1137|	Segovia|
+1138|	Castilla - La Mancha|
+1138|	Toledo|
+1139|	Madrid|
+1140|	Andalucía|
+1140|	Córdoba|
+1140|	Sevilla|
+1141|	Andalucía|
+1141|	Granada|
+1142|	Andalucía|
+1142|	Sevilla|
+1143|	Andalucía|
+1143|	Málaga|
+1144|	Cataluña|
+1144|	Barcelona|
+1145|	País Vasco|
+1145|	San Sebastián|
+1146|	País Vasco|
+1146|	Bilbao|
+1147|	Madrid|
+1148|	Andalucía|
+1148|	Córdoba|
+1150|	Cataluña|
+1150|	Barcelona|
+1151|	Cataluña|
+1151|	Barcelona|
+1152|	Andalucía|
+1152|	Sevilla|
+1153|	Andalucía|
+1153|	Málaga|
+1154|	Andalucía|
+1154|	Islas Baleares|
+1154|	Valencia|
+1154|	Málaga|
+1154|	Palma de Mallorca|
+1155|	Galicia|
+1155|	La Coruña|
+1155|	Catedral de Santiago de Compostela|
+1156|	Aragón|
+1156|	Cataluña|
+1156|	Valencia|
+1156|	Zaragoza|
+1156|	Barcelona|
+1157|	Andalucía|
+1157|	Castilla - La Mancha|
+1157|	Extremadura|
+1157|	Madrid|
+1157|	Córdoba|
+1157|	Granada|
+1157|	Sevilla|
+1157|	Toledo|
+1157|	Cáceres|
+1158|	Andalucía|
+1158|	Granada|
+1158|	Málaga|
+1159|	Madrid|
+1160|	Madrid|
+1161|	Valencia|
+1162|	Islas Baleares|
+1162|	Palma de Mallorca|
+1163|	Madrid|
+1164|	Cataluña|
+1164|	Barcelona|
+1165|	Valencia|
+1166|	Madrid|
+1167|	Madrid|
+1168|	Castilla - La Mancha|
+1168|	Castilla - León|
+1168|	Madrid|
+1168|	Ávila|
+1168|	Toledo|
+1168|	Segovia|
+1169|	Galicia|
+1169|	Lugo|
+1170|	Galicia|
+1170|	La Coruña|
+1171|	Extremadura|
+1171|	Badajoz|
+1172|	Navarra|
+1172|	Pamplona|
+1173|	Madrid|
+1174|	Castilla - León|
+1174|	León|
+1175|	Castilla - León|
+1175|	Salamanca|
+1176|	Cataluña|
+1176|	Barcelona|
+1177|	Andalucía|
+1177|	Málaga|
+1178|	Castilla - León|
+1178|	Segovia|
+1179|	Valencia|
+1179|	Peníscola|
+1179|	Castellón de la Plana|
+1180|	Andalucía|
+1180|	Sevilla|
+1181|	Cataluña|
+1181|	Alp|
+1181|	Puigcerdá|
+1181|	Gerona|
+1182|	Extremadura|
+1182|	Badajoz|
+1183|	País Vasco|
+1183|	Bilbao|
+1184|	Castilla - León|
+1184|	Astorga|
+1184|	Ponferrada|
+1184|	León|
+1184|	Camino de Santiago|
+1185|	Castilla - León|
+1185|	Salamanca|
+1186|	Castilla - La Mancha|
+1186|	Daimiel|
+1186|	Ciudad Real|
+1187|	Andalucía|
+1187|	Madrid|
+1187|	Sevilla|
+1188|	Cataluña|
+1188|	Barcelona|
+1188|	Gerona|
+1189|	Cataluña|
+1189|	Barcelona|
+1190|	Valencia|
+1191|	Castilla - La Mancha|
+1191|	Castilla - León|
+1191|	Ávila|
+1191|	Toledo|
+1191|	Segovia|
+1192|	Extremadura|
+1192|	Badajoz|
+1193|	Andalucía|
+1193|	Córdoba|
+1194|	Andalucía|
+1194|	Córdoba|
+1195|	Andalucía|
+1195|	Sevilla|
+1196|	Andalucía|
+1196|	Cádiz|
+1197|	Cantabria|
+1197|	Santander|
+1198|	Andalucía|
+1198|	Cádiz|
+1200|	Cataluña|
+1200|	Madrid|
+1200|	Barcelona|
+1201|	Andalucía|
+1201|	Jaén|
+1202|	País Vasco|
+1202|	San Sebastián|
+1203|	Madrid|
+1204|	Cataluña|
+1204|	Barcelona|
+1205|	Andalucía|
+1205|	Cataluña|
+1205|	Madrid|
+1205|	Sevilla|
+1205|	Barcelona|
+1206|	Castilla - León|
+1206|	Valladolid|
+1207|	Castilla - León|
+1207|	Soria|
+1208|	Madrid|
+1209|	Castilla - León|
+1209|	Ávila|
+1209|	Segovia|
+1210|	Madrid|
+1211|	Madrid|
+1212|	Castilla - La Mancha|
+1212|	Toledo|
+1213|	Madrid|
+1214|	Andalucía|
+1214|	Málaga|
+1215|	Cataluña|
+1215|	Barcelona|
+1216|	Islas Baleares|
+1216|	Palma de Mallorca|
+1217|	Islas Baleares|
+1217|	Palma de Mallorca|
+1218|	Islas Baleares|
+1218|	Palma de Mallorca|
+1219|	Islas Baleares|
+1219|	Palma de Mallorca|
+1220|	Cataluña|
+1220|	Barcelona|
+1221|	Islas Baleares|
+1221|	Palma de Mallorca|
+1222|	Islas Baleares|
+1222|	Palma de Mallorca|
+1223|	Islas Baleares|
+1223|	Palma de Mallorca|
+1224|	Islas Baleares|
+1224|	Palma de Mallorca|
+1226|	Islas Baleares|
+1226|	Palma de Mallorca|
+1227|	Islas Baleares|
+1227|	Palma de Mallorca|
+1228|	Islas Baleares|
+1228|	Palma de Mallorca|
+1229|	Extremadura|
+1229|	Badajoz|
+1230|	Madrid|
+1231|	Islas Baleares|
+1231|	Palma de Mallorca|
+1232|	Cataluña|
+1232|	Madrid|
+1232|	Valencia|
+1232|	Barcelona|
+1233|	Andalucía|
+1233|	Cataluña|
+1233|	Madrid|
+1233|	Valencia|
+1233|	Córdoba|
+1233|	Granada|
+1233|	Sevilla|
+1233|	Barcelona|
+1234|	Castilla - La Mancha|
+1234|	Madrid|
+1234|	Toledo|
+1235|	Aragón|
+1235|	Castilla - León|
+1235|	Galicia|
+1235|	Madrid|
+1235|	País Vasco|
+1235|	Zaragoza|
+1235|	Salamanca|
+1235|	La Coruña|
+1235|	San Sebastián|
+1235|	Bilbao|
+1236|	Andalucía|
+1236|	Madrid|
+1236|	Córdoba|
+1236|	Granada|
+1236|	Sevilla|
+1237|	Andalucía|
+1237|	Sevilla|
+1238|	Aragón|
+1238|	Teruel|
+1239|	Madrid|
+1240|	Asturias|
+1240|	Oviedo|
+1241|	Asturias|
+1241|	Oviedo|
+1242|	Galicia|
+1242|	La Coruña|
+1243|	Andalucía|
+1243|	Cádiz|
+1244|	Galicia|
+1244|	La Coruña|
+1245|	Madrid|
+1246|	Castilla - La Mancha|
+1246|	Albacete|
+1247|	Madrid|
+1248|	Madrid|
+1249|	Madrid|
+1250|	Canarias|
+1250|	Santa Cruz de Tenerife|
+1251|	Andalucía|
+1251|	Córdoba|
+1252|	Valencia|
+1252|	Alicante|
+1253|	Andalucía|
+1253|	Almería|
+1254|	Cataluña|
+1254|	Gerona|
+1255|	Aragón|
+1255|	Huesca|
+1256|	Galicia|
+1256|	La Coruña|
+1257|	Valencia|
+1257|	Alicante|
+1258|	Galicia|
+1258|	Pontevedra|
+1259|	Valencia|
+1259|	Alicante|
+1260|	Valencia|
+1260|	Alicante|
+1261|	Valencia|
+1261|	Alicante|
+1262|	Andalucía|
+1262|	Sanlúcar de Barrameda|
+1263|	Andalucía|
+1263|	Sanlúcar de Barrameda|
+1264|	Andalucía|
+1264|	Sanlúcar de Barrameda|
+1265|	Valencia|
+1266|	Castilla - La Mancha|
+1266|	Cuenca|
+1267|	Madrid|
+1268|	Madrid|
+1269|	Madrid|
+1270|	Madrid|
+1271|	Madrid|
+1272|	Madrid|
+1273|	Islas Baleares|
+1273|	Palma de Mallorca|
+1274|	Cataluña|
+1274|	Lérida|
+1275|	Castilla - León|
+1275|	Segovia|
+1276|	Cantabria|
+1276|	Santander|
+1277|	Madrid|
+1277|	Villanueva de la Cañada|
+1278|	Asturias|
+1278|	Oviedo|
+1279|	Madrid|
+1279|	Aranjuez|
+1280|	Castilla - La Mancha|
+1280|	Toledo|
+1281|	Madrid|
+1282|	Asturias|
+1282|	Oviedo|
+1283|	Castilla - León|
+1283|	Madrid|
+1283|	Segovia|
+1283|	Aranjuez|
+1284|	Aragón|
+1284|	Huesca|
+1285|	Galicia|
+1285|	La Coruña|
+1285|	Lugo|
+1285|	Orense|
+1285|	Pontevedra|
+1286|	Islas Baleares|
+1286|	Palma de Mallorca|
+1287|	Murcia|
+1288|	Asturias|
+1288|	Oviedo|
+1290|	Galicia|
+1290|	Pontevedra|
+1291|	Galicia|
+1291|	Pontevedra|
+1292|	Canarias|
+1292|	Las Palmas de Gran Canaria|
+1293|	Canarias|
+1293|	Santa Cruz de Tenerife|
+1294|	Canarias|
+1294|	Santa Cruz de Tenerife|
+1295|	Canarias|
+1295|	Las Palmas de Gran Canaria|
+1295|	Santa Cruz de Tenerife|
+1296|	Canarias|
+1296|	Las Palmas de Gran Canaria|
+1296|	Santa Cruz de Tenerife|
+1297|	Canarias|
+1297|	Las Palmas de Gran Canaria|
+1298|	Canarias|
+1298|	Santa Cruz de Tenerife|
+1299|	Canarias|
+1299|	Las Palmas de Gran Canaria|
+1300|	Canarias|
+1300|	Las Palmas de Gran Canaria|
+1301|	Canarias|
+1301|	Las Palmas de Gran Canaria|
+1302|	Andalucía|
+1302|	Sevilla|
+1303|	Andalucía|
+1303|	Málaga|
+1304|	Andalucía|
+1304|	Málaga|
+1305|	Cataluña|
+1305|	Barcelona|
+1306|	Cataluña|
+1306|	Barcelona|
+1307|	Andalucía|
+1307|	Córdoba|
+1308|	Andalucía|
+1308|	Córdoba|
+1309|	Andalucía|
+1309|	Córdoba|
+1310|	Valencia|
+1311|	Cataluña|
+1311|	Sitges|
+1312|	Cataluña|
+1312|	Sitges|
+1313|	Cataluña|
+1313|	Sitges|
+1314|	Madrid|
+1315|	Andalucía|
+1315|	Granada|
+1316|	Asturias|
+1316|	Gijón|
+1316|	Avilés|
+1317|	Asturias|
+1317|	Ribadesella|
+1318|	Asturias|
+1318|	Ribadesella|
+1319|	Asturias|
+1319|	Ribadesella|
+1320|	Asturias|
+1320|	Gijón|
+1321|	Aragón|
+1321|	Huesca|
+1322|	Valencia|
+1323|	Andalucía|
+1323|	Málaga|
+1324|	Andalucía|
+1324|	Málaga|
+1325|	Cataluña|
+1325|	Barcelona|
+1326|	Andalucía|
+1326|	Marbella|
+1327|	País Vasco|
+1327|	Bilbao|
+1328|	Cataluña|
+1328|	Gerona|
+1329|	Cataluña|
+1329|	Gerona|
+1330|	Cataluña|
+1330|	Gerona|
+1331|	Cataluña|
+1331|	Gerona|
+1332|	Andalucía|
+1332|	Marbella|
+1333|	Cataluña|
+1333|	Barcelona|
+1334|	Cataluña|
+1334|	Barcelona|
+1335|	Canarias|
+1335|	Adeje|
+1336|	Andalucía|
+1336|	Ronda|
+1337|	Andalucía|
+1337|	Sevilla|
+1338|	Andalucía|
+1338|	Fuengirola|
+1339|	Canarias|
+1339|	Puerto de la Cruz|
+1340|	Canarias|
+1340|	Puerto de la Cruz|
+1341|	Canarias|
+1341|	Puerto de la Cruz|
+1342|	Canarias|
+1342|	Puerto de la Cruz|
+1343|	Canarias|
+1343|	Puerto del Carmen|
+1343|	Playa Blanca|
+1344|	Canarias|
+1344|	Puerto del Carmen|
+1344|	Playa Blanca|
+1345|	Cataluña|
+1345|	Barcelona|
+1346|	Andalucía|
+1346|	Sevilla|
+1347|	Cataluña|
+1347|	Barcelona|
+1348|	Castilla - La Mancha|
+1348|	Cuenca|
+1349|	Castilla - La Mancha|
+1349|	Cuenca|
+1350|	Andalucía|
+1350|	Sevilla|
+1351|	Andalucía|
+1351|	Marbella|
+1352|	Andalucía|
+1352|	Ronda|
+1353|	Andalucía|
+1353|	Sevilla|
+1354|	Valencia|
+1354|	Alicante|
+1355|	Andalucía|
+1355|	Sevilla|
+1356|	Madrid|
+1357|	Madrid|
+1358|	Madrid|
+1359|	Madrid|
+1360|	Madrid|
+1361|	Cataluña|
+1361|	Barcelona|
+1362|	Madrid|
+1363|	Andalucía|
+1363|	Sevilla|
+1364|	Andalucía|
+1364|	Sevilla|
+1365|	Madrid|
+1366|	Madrid|
+1367|	Madrid|
+1368|	Madrid|
+1368|	El Escorial|
+1369|	Madrid|
+1370|	Canarias|
+1370|	Puerto del Carmen|
+1370|	Playa Blanca|
+1371|	Canarias|
+1371|	Puerto del Carmen|
+1371|	Playa Blanca|
+1372|	Galicia|
+1372|	Santiago de Compostela|
+1373|	Castilla - La Mancha|
+1373|	Toledo|
+1374|	Castilla - La Mancha|
+1374|	Toledo|
+1375|	Madrid|
+1376|	Cataluña|
+1376|	Barcelona|
+1377|	Cataluña|
+1377|	Barcelona|
+1378|	Aragón|
+1378|	Huesca|
+1379|	Aragón|
+1379|	Huesca|
+1380|	Aragón|
+1380|	Huesca|
+1381|	País Vasco|
+1381|	Bilbao|
+1382|	Aragón|
+1382|	Huesca|
+1383|	Aragón|
+1383|	Huesca|
+1384|	Madrid|
+1385|	Madrid|
+1386|	Madrid|
+1387|	Madrid|
+1388|	Islas Baleares|
+1388|	Palma de Mallorca|
+1389|	Islas Baleares|
+1389|	Palma de Mallorca|
+1390|	Islas Baleares|
+1390|	Palma de Mallorca|
+1391|	Islas Baleares|
+1391|	Palma de Mallorca|
+1392|	Cataluña|
+1392|	Barcelona|
+1393|	Cataluña|
+1393|	Barcelona|
+1394|	Canarias|
+1394|	Playa Blanca|
+1395|	Madrid|
+1396|	Madrid|
+1397|	Castilla - La Mancha|
+1397|	Toledo|
+1398|	Andalucía|
+1398|	Ronda|
+1399|	Islas Baleares|
+1399|	Palma de Mallorca|
+1400|	Andalucía|
+1400|	Sevilla|
+1401|	Madrid|
+1402|	Madrid|
+1403|	Madrid|
+1404|	Madrid|
+1405|	Madrid|
+1406|	Aragón|
+1406|	Huesca|
+1407|	Madrid|
+1408|	Andalucía|
+1408|	Granada|
+1409|	Madrid|
+1410|	Asturias|
+1410|	Llanes|
+1411|	Aragón|
+1411|	Huesca|
+1412|	Castilla - León|
+1412|	Zamora|
+1413|	Murcia|
+1414|	Murcia|
+1415|	Cantabria|
+1415|	Santander|
+1416|	Castilla - León|
+1416|	Segovia|
+1417|	Andalucía|
+1417|	Granada|
+1418|	Castilla - León|
+1418|	Segovia|
+1419|	Castilla - León|
+1419|	Segovia|
+1420|	Andalucía|
+1420|	Granada|
+1422|	Islas Baleares|
+1422|	Ibiza|
+1423|	Madrid|
+1424|	Andalucía|
+1424|	Granada|
+1425|	Cataluña|
+1425|	Barcelona|
+1426|	Cataluña|
+1426|	Barcelona|
+1427|	Andalucía|
+1427|	Sevilla|
+1428|	Cataluña|
+1428|	Barcelona|
+1429|	Cataluña|
+1429|	Barcelona|
+1430|	Castilla - La Mancha|
+1430|	Cuenca|
+1431|	Andalucía|
+1431|	Sevilla|
+1432|	Madrid|
+1433|	Andalucía|
+1433|	Córdoba|
+1433|	Granada|
+1433|	Málaga|
+1433|	Sevilla|
+1433|	Ronda|
+1434|	Madrid|
+1435|	Andalucía|
+1435|	Castilla - La Mancha|
+1435|	Madrid|
+1435|	Córdoba|
+1435|	Granada|
+1435|	Sevilla|
+1435|	Toledo|
+1435|	Ronda|
+1435|	Jerez de la Frontera|
+1436|	Andalucía|
+1436|	Granada|
+1437|	Andalucía|
+1437|	Málaga|
+1438|	Andalucía|
+1438|	Córdoba|
+1439|	Cataluña|
+1439|	Madrid|
+1439|	Valencia|
+1439|	Barcelona|
+1440|	Andalucía|
+1440|	Granada|
+1441|	Extremadura|
+1441|	Cáceres|
+1442|	Andalucía|
+1442|	Granada|
+1443|	Andalucía|
+1443|	Granada|
+1444|	Andalucía|
+1444|	Granada|
+1445|	Aragón|
+1445|	Castilla - La Mancha|
+1445|	Cataluña|
+1445|	Madrid|
+1445|	Zaragoza|
+1445|	Toledo|
+1445|	Barcelona|
+1445|	Tarragona|
+1449|	Andalucía|
+1449|	Almería|
+1450|	Andalucía|
+1450|	Almería|
+1451|	Andalucía|
+1451|	Almería|
+1452|	Extremadura|
+1452|	Badajoz|
+1453|	Asturias|
+1453|	Cantabria|
+1453|	Galicia|
+1453|	País Vasco|
+1453|	Santander|
+1453|	La Coruña|
+1453|	Lugo|
+1453|	Pontevedra|
+1453|	Oviedo|
+1453|	Bilbao|
+1453|	Santiago de Compostela|
+1453|	Gijón|
+1454|	Andalucía|
+1454|	Córdoba|
+1455|	Andalucía|
+1455|	Aragón|
+1455|	Cataluña|
+1455|	Madrid|
+1455|	Valencia|
+1455|	Córdoba|
+1455|	Granada|
+1455|	Sevilla|
+1455|	Zaragoza|
+1455|	Barcelona|
+1456|	Canarias|
+1456|	Lanzarote|
+1457|	Castilla - León|
+1457|	León|
+1458|	Valencia|
+1459|	Valencia|
+1460|	Valencia|
+1461|	Valencia|
+1462|	Castilla - La Mancha|
+1462|	Toledo|
+1463|	Castilla - León|
+1463|	Segovia|
+1464|	Castilla - La Mancha|
+1464|	Toledo|
+1465|	Madrid|
+1466|	Madrid|
+1467|	Cantabria|
+1467|	Santander|
+1468|	Cantabria|
+1468|	Santander|
+1469|	Cantabria|
+1469|	Santander|
+1470|	Andalucía|
+1470|	Ronda|
+1471|	Andalucía|
+1471|	Mojácar|
+1472|	Madrid|
+1473|	Valencia|
+1474|	Madrid|
+1475|	Valencia|
+1476|	Madrid|
+1477|	Madrid|
+1478|	Madrid|
+1479|	Galicia|
+1479|	Santiago de Compostela|
+1480|	Galicia|
+1480|	Santiago de Compostela|
+1481|	Cataluña|
+1481|	Barcelona|
+1481|	Gerona|
+1482|	Cataluña|
+1482|	Barcelona|
+1482|	Gerona|
+1483|	Valencia|
+1484|	Valencia|
+1485|	Valencia|
+1486|	Valencia|
+1487|	Valencia|
+1488|	Cataluña|
+1488|	Barcelona|
+1489|	Andalucía|
+1489|	Sevilla|
+1490|	Madrid|
+1491|	Galicia|
+1491|	Santiago de Compostela|
+1492|	Canarias|
+1492|	Playa Blanca|
+1493|	Galicia|
+1493|	Santiago de Compostela|
+1494|	Castilla - León|
+1494|	León|
+1495|	Castilla - León|
+1495|	León|
+1496|	Galicia|
+1496|	Santiago de Compostela|
+1497|	Islas Baleares|
+1497|	Ibiza|
+1498|	Castilla - León|
+1498|	Salamanca|
+1499|	Extremadura|
+1499|	Cáceres|
+1500|	Galicia|
+1500|	Santiago de Compostela|
+1501|	Castilla - León|
+1501|	Salamanca|
+1502|	Castilla - León|
+1502|	Salamanca|
+1503|	Castilla - León|
+1503|	Salamanca|
+1504|	País Vasco|
+1504|	Bilbao|
+1505|	Castilla - León|
+1505|	Salamanca|
+1506|	Castilla - León|
+1506|	Salamanca|
+1507|	Castilla - León|
+1507|	Ciudad Rodrigo|
+1508|	Andalucía|
+1508|	Sevilla|
+1509|	Andalucía|
+1509|	Granada|
+1510|	Madrid|
+1512|	Andalucía|
+1512|	Sevilla|
+1513|	Andalucía|
+1513|	Sevilla|
+1514|	Andalucía|
+1514|	Sevilla|
+1515|	Madrid|
+1516|	Madrid|
+1517|	Andalucía|
+1517|	Granada|
+1518|	Andalucía|
+1518|	Málaga|
+1519|	Andalucía|
+1519|	Málaga|
+1520|	Islas Baleares|
+1520|	Menorca|
+1521|	Madrid|
+1522|	Madrid|
+1523|	Murcia|
+1524|	Madrid|
+1525|	Madrid|
+1526|	Madrid|
+1527|	Murcia|
+1527|	Cartagena|
+1528|	Madrid|
+1529|	Madrid|
+1530|	Valencia|
+1531|	Valencia|
+1532|	Valencia|
+1533|	Valencia|
+1540|	Valencia|
+1541|	Valencia|
+1542|	Valencia|
+1543|	Canarias|
+1543|	Playa Blanca|
+1544|	Murcia|
+1544|	Cartagena|
+1545|	Murcia|
+1545|	Cartagena|
+1546|	Madrid|
+1547|	Canarias|
+1547|	Lanzarote|
+1548|	Madrid|
+1549|	Madrid|
+1550|	Murcia|
+1550|	Cartagena|
+1551|	Castilla - La Mancha|
+1551|	Toledo|
+1552|	Castilla - La Mancha|
+1552|	Toledo|
+1553|	Castilla - La Mancha|
+1553|	Toledo|
+1554|	Castilla - La Mancha|
+1554|	Toledo|
+1555|	Castilla - La Mancha|
+1555|	Toledo|
+1556|	Castilla - La Mancha|
+1556|	Toledo|
+1557|	Castilla - La Mancha|
+1557|	Toledo|
+1558|	Castilla - La Mancha|
+1558|	Toledo|
+1559|	Castilla - La Mancha|
+1559|	Toledo|
+1560|	Castilla - La Mancha|
+1560|	Toledo|
+1561|	Castilla - La Mancha|
+1561|	Toledo|
+1562|	Castilla - La Mancha|
+1562|	Toledo|
+1563|	Canarias|
+1563|	Fuerteventura|
+1564|	Madrid|
+1565|	Madrid|
+1566|	Madrid|
+1567|	Madrid|
+1568|	Madrid|
+1569|	Andalucía|
+1569|	Córdoba|
+1570|	Castilla - León|
+1570|	Ávila|
+1570|	Segovia|
+1571|	Castilla - León|
+1571|	Ávila|
+1571|	Segovia|
+1572|	Castilla - León|
+1572|	Ávila|
+1572|	Segovia|
+1573|	Madrid|
+1574|	Castilla - La Mancha|
+1574|	Madrid|
+1574|	Toledo|
+1574|	El Escorial|
+1575|	Castilla - La Mancha|
+1575|	Madrid|
+1575|	Toledo|
+1575|	El Escorial|
+1576|	Valencia|
+1577|	Valencia|
+1578|	Valencia|
+1579|	Valencia|
+1580|	Valencia|
+1581|	Valencia|
+1582|	País Vasco|
+1582|	San Sebastián|
+1583|	Canarias|
+1583|	Fuerteventura|
+1584|	Islas Baleares|
+1584|	Palma de Mallorca|
+1585|	Canarias|
+1585|	Lanzarote|
+1586|	Madrid|
+1587|	Madrid|
+1587|	Aranjuez|
+1588|	Canarias|
+1588|	Playa Blanca|
+1589|	Asturias|
+1589|	Oviedo|
+1589|	Gijón|
+1589|	Avilés|
+1590|	Asturias|
+1590|	Oviedo|
+1590|	Gijón|
+1590|	Avilés|
+1591|	Asturias|
+1591|	Oviedo|
+1591|	Gijón|
+1591|	Avilés|
+1592|	Aragón|
+1592|	Huesca|
+1593|	Andalucía|
+1593|	Cádiz|
+1594|	Madrid|
+1595|	Andalucía|
+1595|	Cádiz|
+1595|	El Puerto de Santa María|
+1596|	Galicia|
+1596|	Santiago de Compostela|
+1597|	Galicia|
+1597|	Santiago de Compostela|
+1598|	Galicia|
+1598|	Santiago de Compostela|
+1599|	Andalucía|
+1599|	Córdoba|
+1600|	Canarias|
+1600|	Lanzarote|
+1601|	Canarias|
+1601|	Lanzarote|
+1602|	Valencia|
+1602|	Alicante|
+1603|	Canarias|
+1603|	Lanzarote|
+1604|	Canarias|
+1604|	Fuerteventura|
+1605|	Canarias|
+1605|	Lanzarote|
+1606|	Andalucía|
+1606|	Sevilla|
+1607|	Andalucía|
+1607|	Sevilla|
+1608|	Andalucía|
+1608|	Sevilla|
+1609|	Andalucía|
+1609|	Sevilla|
+1610|	Andalucía|
+1610|	Sevilla|
+1611|	Extremadura|
+1611|	Cáceres|
+1612|	Extremadura|
+1612|	Cáceres|
+1613|	Castilla - La Mancha|
+1613|	Toledo|
+1614|	Castilla - La Mancha|
+1614|	Toledo|
+1615|	Castilla - La Mancha|
+1615|	Toledo|
+1616|	Islas Baleares|
+1616|	Palma de Mallorca|
+1617|	Islas Baleares|
+1617|	Palma de Mallorca|
+1618|	Islas Baleares|
+1618|	Palma de Mallorca|
+1619|	Andalucía|
+1619|	Sevilla|
+1620|	Andalucía|
+1620|	Sevilla|
+1621|	Cataluña|
+1621|	Barcelona|
+1622|	Cataluña|
+1622|	Barcelona|
+1623|	Cataluña|
+1623|	Barcelona|
+1624|	País Vasco|
+1624|	Bilbao|
+1625|	País Vasco|
+1625|	Bilbao|
+1626|	País Vasco|
+1626|	Bilbao|
+1627|	Castilla - León|
+1627|	Salamanca|
+1628|	Castilla - León|
+1628|	Salamanca|
+1629|	Canarias|
+1629|	Las Palmas de Gran Canaria|
+1630|	Valencia|
+1631|	Valencia|
+1632|	Valencia|
+1633|	Murcia|
+1633|	Cartagena|
+1634|	Asturias|
+1634|	Gijón|
+1635|	Asturias|
+1635|	Gijón|
+1636|	Asturias|
+1636|	Gijón|
+1637|	Extremadura|
+1637|	Cáceres|
+1638|	Extremadura|
+1638|	Cáceres|
+1639|	Andalucía|
+1639|	Granada|
+1640|	Andalucía|
+1640|	Sevilla|
+1641|	Andalucía|
+1641|	Córdoba|
+1642|	Andalucía|
+1642|	Sevilla|
+1643|	Andalucía|
+1643|	Sevilla|
+1644|	Andalucía|
+1644|	Sevilla|
+1645|	Andalucía|
+1645|	Sevilla|
+1646|	Andalucía|
+1646|	Sevilla|
+1647|	Andalucía|
+1647|	Sevilla|
+1648|	Andalucía|
+1648|	Sevilla|
+1649|	Andalucía|
+1649|	Sevilla|
+1650|	Andalucía|
+1650|	Sevilla|
+1651|	Andalucía|
+1651|	Sevilla|
+1652|	Andalucía|
+1652|	Sevilla|
+1653|	Andalucía|
+1653|	Granada|
+1654|	Castilla - León|
+1654|	Madrid|
+1654|	Ávila|
+1654|	Salamanca|
+1655|	Castilla - La Mancha|
+1655|	Castilla - León|
+1655|	Madrid|
+1655|	Toledo|
+1655|	Segovia|
+1656|	Madrid|
+1657|	Madrid|
+1658|	Madrid|
+1659|	Castilla - León|
+1659|	Madrid|
+1659|	Ávila|
+1659|	Salamanca|
+1660|	Cataluña|
+1660|	Barcelona|
+1661|	Cataluña|
+1661|	Barcelona|
+1662|	Cataluña|
+1662|	Barcelona|
+1663|	Cataluña|
+1663|	Barcelona|
+1664|	Cataluña|
+1664|	Barcelona|
+1665|	Cataluña|
+1665|	Barcelona|
+1666|	Castilla - La Mancha|
+1666|	Toledo|
+1667|	Cataluña|
+1667|	Barcelona|
+1668|	Cataluña|
+1668|	Barcelona|
+1670|	País Vasco|
+1670|	Bilbao|
+1671|	País Vasco|
+1671|	Bilbao|
+1672|	Castilla - La Mancha|
+1672|	Toledo|
+1673|	Castilla - La Mancha|
+1673|	Toledo|
+1674|	País Vasco|
+1674|	Bilbao|
+1675|	País Vasco|
+1675|	Bilbao|
+1676|	País Vasco|
+1676|	Bilbao|
+1677|	Cataluña|
+1677|	Tarragona|
+1678|	Cataluña|
+1678|	Barcelona|
+1679|	Cataluña|
+1679|	Barcelona|
+1680|	Cataluña|
+1680|	Barcelona|
+1681|	Madrid|
+1682|	Madrid|
+1683|	Madrid|
+1684|	Valencia|
+1685|	Valencia|
+1686|	País Vasco|
+1686|	Bilbao|
+1687|	Andalucía|
+1687|	Sevilla|
+1688|	Andalucía|
+1688|	Sevilla|
+1689|	Andalucía|
+1689|	Sevilla|
+1690|	Andalucía|
+1690|	Sevilla|
+1691|	Andalucía|
+1691|	Sevilla|
+1692|	Andalucía|
+1692|	Sevilla|
+1693|	Andalucía|
+1693|	Sevilla|
+1694|	Andalucía|
+1694|	Sevilla|
+1695|	Andalucía|
+1695|	Sevilla|
+1696|	Andalucía|
+1696|	Sevilla|
+1697|	Andalucía|
+1697|	Sevilla|
+1698|	Andalucía|
+1698|	Sevilla|
+1699|	Andalucía|
+1699|	Córdoba|
+1699|	Sevilla|
+1700|	Andalucía|
+1700|	Granada|
+1701|	Andalucía|
+1701|	Córdoba|
+1702|	Andalucía|
+1702|	Granada|
+1703|	Andalucía|
+1703|	Sevilla|
+1704|	Andalucía|
+1704|	Granada|
+1705|	Madrid|
+1706|	Andalucía|
+1706|	Cádiz|
+1706|	Sevilla|
+1707|	Andalucía|
+1707|	Sevilla|
+1707|	Ronda|
+1708|	Andalucía|
+1708|	Huelva|
+1709|	Andalucía|
+1709|	Córdoba|
+1710|	Andalucía|
+1710|	Córdoba|
+1711|	Andalucía|
+1711|	Córdoba|
+1712|	Andalucía|
+1712|	Córdoba|
+1713|	Andalucía|
+1713|	Granada|
+1714|	Madrid|
+1715|	Galicia|
+1715|	La Coruña|
+1715|	Lugo|
+1715|	Santiago de Compostela|
+1717|	Cataluña|
+1717|	Tarragona|
+1718|	Galicia|
+1718|	La Coruña|
+1719|	Cataluña|
+1719|	Barcelona|
+1720|	Andalucía|
+1720|	Granada|
+1721|	Andalucía|
+1721|	Granada|
+1722|	Andalucía|
+1722|	Granada|
+1723|	Andalucía|
+1723|	Granada|
+1724|	Andalucía|
+1724|	Sevilla|
+1725|	Andalucía|
+1725|	Sevilla|
+1726|	Andalucía|
+1726|	Sevilla|
+1727|	Andalucía|
+1727|	Sevilla|
+1728|	Andalucía|
+1728|	Sevilla|
+1729|	Andalucía|
+1729|	Sevilla|
+1730|	Andalucía|
+1730|	Sevilla|
+1731|	Andalucía|
+1731|	Granada|
+1732|	Andalucía|
+1732|	Granada|
+1733|	Andalucía|
+1733|	Córdoba|
+1734|	Andalucía|
+1734|	Granada|
+1735|	Canarias|
+1735|	Las Palmas de Gran Canaria|
+1736|	Canarias|
+1736|	Las Palmas de Gran Canaria|
+1737|	Canarias|
+1737|	Las Palmas de Gran Canaria|
+1738|	Galicia|
+1738|	Camino de Santiago|
+1738|	Santiago de Compostela|
+1739|	Andalucía|
+1739|	Córdoba|
+1740|	Andalucía|
+1740|	Córdoba|
+1741|	Valencia|
+1741|	Alicante|
+1742|	Madrid|
+1743|	Castilla - La Mancha|
+1743|	Toledo|
+1744|	Madrid|
+1745|	Andalucía|
+1745|	Sevilla|
+1746|	Andalucía|
+1746|	Sevilla|
+1747|	Andalucía|
+1747|	Sevilla|
+1748|	Andalucía|
+1748|	Granada|
+1749|	Madrid|
+1750|	Madrid|
+1751|	Madrid|
+1752|	Madrid|
+1752|	El Escorial|
+1752|	Collado Villalba|
+1752|	Cercedilla|
+1752|	Becerril de la Sierra|
+1752|	Navacerrada|
+1753|	Valencia|
+1753|	Alicante|
+1753|	Altea|
+1754|	Andalucía|
+1754|	Jaén|
+1754|	Villacarrillo|
+1755|	Cataluña|
+1755|	Gerona|
+1756|	Cataluña|
+1756|	Gerona|
+1757|	Cataluña|
+1757|	Gerona|
+1758|	Cataluña|
+1758|	Gerona|
+1759|	Cataluña|
+1759|	Gerona|
+1760|	Cataluña|
+1760|	Gerona|
+1761|	Canarias|
+1761|	Santa Cruz de Tenerife|
+1762|	Canarias|
+1762|	Santa Cruz de Tenerife|
+1763|	Andalucía|
+1763|	Granada|
+1764|	Andalucía|
+1764|	Córdoba|
+1765|	Andalucía|
+1765|	Granada|
+1766|	Andalucía|
+1766|	Málaga|
+1767|	Andalucía|
+1767|	Córdoba|
+1768|	Andalucía|
+1768|	Córdoba|
+1769|	Andalucía|
+1769|	Córdoba|
+1770|	Andalucía|
+1770|	Córdoba|
+1771|	Cataluña|
+1771|	Tarragona|
+1772|	Andalucía|
+1772|	Córdoba|
+1773|	Cataluña|
+1773|	Barcelona|
+1774|	Andalucía|
+1774|	Córdoba|
+1775|	Castilla - León|
+1775|	León|
+1776|	Madrid|
+1777|	Andalucía|
+1777|	Sevilla|
+1778|	La Rioja|
+1778|	Haro|
+1779|	Asturias|
+1779|	Gijón|
+1780|	País Vasco|
+1780|	Bilbao|
+1781|	País Vasco|
+1781|	Bilbao|
+1782|	País Vasco|
+1782|	Bilbao|
+1784|	País Vasco|
+1784|	Bilbao|
+1785|	Andalucía|
+1785|	Córdoba|
+1786|	Andalucía|
+1786|	Córdoba|
+1787|	Galicia|
+1787|	La Coruña|
+1787|	Pontevedra|
+1787|	Santiago de Compostela|
+1787|	Vigo|
+1788|	Canarias|
+1788|	Adeje|
+1789|	Galicia|
+1789|	La Coruña|
+1789|	Pontevedra|
+1789|	Santiago de Compostela|
+1789|	Vigo|
+1790|	Castilla - León|
+1790|	Galicia|
+1790|	León|
+1790|	Lugo|
+1790|	Orense|
+1791|	Galicia|
+1791|	Lugo|
+1791|	Orense|
+1791|	Santiago de Compostela|
+1792|	Madrid|
+1794|	Madrid|
+1795|	Madrid|
+1796|	Madrid|
+1797|	Madrid|
+1798|	Castilla - León|
+1798|	Madrid|
+1798|	Ávila|
+1798|	Segovia|
+1799|	Madrid|
+1800|	Galicia|
+1800|	La Coruña|
+1800|	Pontevedra|
+1800|	Santiago de Compostela|
+1800|	Vigo|
+1801|	Madrid|
+1802|	Madrid|
+1803|	Madrid|
+1804|	Aragón|
+1804|	Huesca|
+1805|	Aragón|
+1805|	Huesca|
+1806|	Aragón|
+1806|	Huesca|
+1807|	Aragón|
+1807|	Huesca|
+1808|	Aragón|
+1808|	Huesca|
+1809|	Cantabria|
+1809|	Santander|
+1810|	Cantabria|
+1810|	Santander|
+1811|	Madrid|
+1812|	Madrid|
+1813|	Madrid|
+1814|	Cantabria|
+1814|	Santander|
+1815|	Madrid|
+1816|	Madrid|
+1817|	Madrid|
+1818|	Madrid|
+1819|	Madrid|
+1820|	Andalucía|
+1820|	Córdoba|
+1821|	Valencia|
+1821|	Guardamar del Segura|
+1822|	Andalucía|
+1822|	Córdoba|
+1823|	Andalucía|
+1823|	Córdoba|
+1824|	Andalucía|
+1824|	Córdoba|
+1825|	Castilla - León|
+1825|	Segovia|
+1826|	Cataluña|
+1826|	Barcelona|
+1827|	Cataluña|
+1827|	Barcelona|
+1828|	Cataluña|
+1828|	Barcelona|
+1829|	Cataluña|
+1829|	Barcelona|
+1830|	Andalucía|
+1830|	Córdoba|
+1830|	Sevilla|
+1831|	Cataluña|
+1831|	Barcelona|
+1832|	Cataluña|
+1832|	Barcelona|
+1833|	Cataluña|
+1833|	Barcelona|
+1834|	Cataluña|
+1834|	Barcelona|
+1835|	Andalucía|
+1835|	Madrid|
+1835|	Córdoba|
+1835|	Sevilla|
+1835|	Torremolinos|
+1837|	Cataluña|
+1837|	Madrid|
+1837|	Valencia|
+1837|	Barcelona|
+1838|	Andalucía|
+1838|	Castilla - La Mancha|
+1838|	Madrid|
+1838|	Córdoba|
+1838|	Granada|
+1838|	Sevilla|
+1838|	Toledo|
+1838|	Torremolinos|
+1839|	Andalucía|
+1839|	Cataluña|
+1839|	Madrid|
+1839|	Valencia|
+1839|	Córdoba|
+1839|	Granada|
+1839|	Sevilla|
+1839|	Barcelona|
+1840|	Andalucía|
+1840|	Castilla - La Mancha|
+1840|	Madrid|
+1840|	Córdoba|
+1840|	Granada|
+1840|	Sevilla|
+1840|	Toledo|
+1841|	Andalucía|
+1841|	Cataluña|
+1841|	Madrid|
+1841|	Valencia|
+1841|	Córdoba|
+1841|	Granada|
+1841|	Sevilla|
+1841|	Barcelona|
+1842|	Andalucía|
+1842|	Sevilla|
+1843|	Galicia|
+1843|	Finisterre|
+1843|	Mugía|
+1843|	Muros|
+1844|	Canarias|
+1844|	Maspalomas|
+1845|	Canarias|
+1845|	Maspalomas|
+1846|	Canarias|
+1846|	Maspalomas|
+1847|	Canarias|
+1847|	Maspalomas|
+1848|	Canarias|
+1848|	Maspalomas|
+1849|	Galicia|
+1849|	Pontevedra|
+1849|	Cambados|
+1849|	Combarro|
+1850|	Canarias|
+1850|	Las Palmas de Gran Canaria|
+1851|	Andalucía|
+1851|	Granada|
+1852|	Canarias|
+1852|	Maspalomas|
+1853|	Canarias|
+1853|	Las Palmas de Gran Canaria|
+1854|	Canarias|
+1854|	Las Palmas de Gran Canaria|
+1854|	Maspalomas|
+1855|	Canarias|
+1855|	Maspalomas|
+1856|	Madrid|
+1857|	Madrid|
+1858|	Valencia|
+1858|	Alicante|
+1859|	Cataluña|
+1859|	Barcelona|
+1860|	Andalucía|
+1860|	Granada|
+1861|	Andalucía|
+1861|	Cádiz|
+1862|	Andalucía|
+1862|	Huelva|
+1863|	Andalucía|
+1863|	Córdoba|
+1864|	Asturias|
+1864|	Gijón|
+1865|	Asturias|
+1865|	Gijón|
+1866|	Andalucía|
+1866|	Granada|
+1867|	Canarias|
+1867|	Puerto del Carmen|
+1868|	Castilla - León|
+1868|	Segovia|
+1869|	Castilla - La Mancha|
+1869|	Cuenca|
+1870|	Madrid|
+1871|	Castilla - León|
+1871|	Madrid|
+1871|	Segovia|
+1872|	Andalucía|
+1872|	Sevilla|
+1873|	Andalucía|
+1873|	Sevilla|
+1874|	Andalucía|
+1874|	Sevilla|
+1875|	Andalucía|
+1875|	Sevilla|
+1876|	Andalucía|
+1876|	Sevilla|
+1877|	Andalucía|
+1877|	Sevilla|
+1878|	Andalucía|
+1878|	Granada|
+1878|	Sevilla|
+1879|	Andalucía|
+1879|	Córdoba|
+1879|	Sevilla|
+1880|	Andalucía|
+1880|	Sevilla|
+1880|	Ronda|
+1881|	Andalucía|
+1881|	Cádiz|
+1882|	Andalucía|
+1882|	Cádiz|
+1883|	Andalucía|
+1883|	Sevilla|
+1884|	Andalucía|
+1884|	Cádiz|
+1885|	Andalucía|
+1885|	Cádiz|
+1886|	Andalucía|
+1886|	Cádiz|
+1887|	Andalucía|
+1887|	Cádiz|
+1887|	Sevilla|
+1888|	Andalucía|
+1888|	Cádiz|
+1888|	Jerez de la Frontera|
+1889|	Andalucía|
+1889|	Cádiz|
+1889|	Ronda|
+1890|	Andalucía|
+1890|	Málaga|
+1891|	Andalucía|
+1891|	Málaga|
+1892|	Andalucía|
+1892|	Málaga|
+1892|	Sevilla|
+1893|	Andalucía|
+1893|	Córdoba|
+1893|	Málaga|
+1894|	Andalucía|
+1894|	Málaga|
+1894|	Ronda|
+1895|	Andalucía|
+1895|	Granada|
+1896|	Andalucía|
+1896|	Jerez de la Frontera|
+1897|	Andalucía|
+1897|	Cádiz|
+1897|	Jerez de la Frontera|
+1898|	Andalucía|
+1898|	Sevilla|
+1898|	Jerez de la Frontera|
+1899|	Andalucía|
+1899|	Ronda|
+1899|	Jerez de la Frontera|
+1900|	Andalucía|
+1900|	Cádiz|
+1900|	Sevilla|
+1901|	Valencia|
+1901|	Javea|
+1902|	Madrid|
+1903|	Madrid|
+1904|	Cataluña|
+1904|	Barcelona|
+1905|	Madrid|
+1905|	Aranjuez|
+1906|	Madrid|
+1907|	Madrid|
+1908|	Madrid|
+1909|	Andalucía|
+1909|	Sevilla|
+1910|	Castilla - La Mancha|
+1910|	Madrid|
+1910|	Toledo|
+1911|	Cataluña|
+1911|	Barcelona|
+1912|	Madrid|
+1913|	Andalucía|
+1913|	Granada|
+1914|	Castilla - León|
+1914|	Madrid|
+1914|	Segovia|
+1915|	Andalucía|
+1915|	Madrid|
+1915|	Córdoba|
+1916|	Castilla - León|
+1916|	Madrid|
+1916|	Segovia|
+1917|	Andalucía|
+1917|	Madrid|
+1917|	Córdoba|
+1917|	Sevilla|
+1918|	Andalucía|
+1918|	Granada|
+1919|	Andalucía|
+1919|	Sevilla|
+1920|	Andalucía|
+1920|	Sevilla|
+1921|	Cataluña|
+1921|	Barcelona|
+1922|	Cataluña|
+1922|	Barcelona|
+1923|	Cataluña|
+1923|	Barcelona|
+1924|	Madrid|
+1925|	Madrid|
+1926|	Cataluña|
+1926|	Barcelona|
+1927|	Cataluña|
+1927|	Barcelona|
+1928|	Cataluña|
+1928|	Barcelona|
+1929|	Cataluña|
+1929|	Barcelona|
+1930|	Cataluña|
+1930|	Barcelona|
+1931|	Cataluña|
+1931|	Barcelona|
+1932|	Andalucía|
+1932|	Sevilla|
+1933|	Canarias|
+1933|	Las Palmas de Gran Canaria|
+1934|	Canarias|
+1934|	Maspalomas|
+1935|	Canarias|
+1935|	Las Palmas de Gran Canaria|
+1936|	Canarias|
+1936|	Puerto de la Cruz|
+1936|	Maspalomas|
+1937|	Canarias|
+1937|	Fuerteventura|
+1938|	Andalucía|
+1938|	Granada|
+1940|	Valencia|
+1941|	Valencia|
+1942|	Andalucía|
+1942|	Granada|
+1943|	Andalucía|
+1943|	Córdoba|
+1944|	Andalucía|
+1944|	Córdoba|
+1945|	Madrid|
+1946|	Andalucía|
+1946|	Sevilla|
+1947|	Andalucía|
+1947|	Sevilla|
+1948|	Cataluña|
+1948|	Gerona|
+1949|	Cataluña|
+1949|	Gerona|
+1950|	Cataluña|
+1950|	Gerona|
+1951|	Cataluña|
+1951|	Gerona|
+1951|	Lloret de Mar|
+1952|	Cataluña|
+1952|	Gerona|
+1953|	Canarias|
+1953|	Lanzarote|
+1954|	Cataluña|
+1954|	Barcelona|
+1955|	Canarias|
+1955|	Puerto del Carmen|
+1956|	Islas Baleares|
+1956|	Palma de Mallorca|
+1957|	Andalucía|
+1957|	Jerez de la Frontera|
+1958|	La Rioja|
+1958|	Haro|
+1959|	La Rioja|
+1959|	Haro|
+1960|	Islas Baleares|
+1960|	Palma de Mallorca|
+1961|	Andalucía|
+1961|	Sevilla|
+1962|	Andalucía|
+1962|	Sevilla|
+1963|	Andalucía|
+1963|	Sevilla|
+1964|	Andalucía|
+1964|	Sevilla|
+1965|	Andalucía|
+1965|	Córdoba|
+1966|	Andalucía|
+1966|	Córdoba|
+1967|	Andalucía|
+1967|	Córdoba|
+1968|	La Rioja|
+1968|	Haro|
+1969|	Castilla - La Mancha|
+1969|	Ciudad Real|
+1970|	Castilla - La Mancha|
+1970|	Ciudad Real|
+1971|	Cataluña|
+1971|	Barcelona|
+1972|	Cataluña|
+1972|	Barcelona|
+1973|	Andalucía|
+1973|	Aragón|
+1973|	Castilla - León|
+1973|	Cataluña|
+1973|	Extremadura|
+1973|	Galicia|
+1973|	Madrid|
+1973|	Murcia|
+1973|	País Vasco|
+1973|	Valencia|
+1973|	Almería|
+1973|	Sevilla|
+1973|	Zaragoza|
+1973|	Burgos|
+1973|	Valladolid|
+1973|	Barcelona|
+1973|	La Coruña|
+1973|	Vitoria|
+1973|	San Sebastián|
+1973|	Bilbao|
+1973|	Vigo|
+1973|	Mérida|
+1974|	Andalucía|
+1974|	Sevilla|
+1975|	Andalucía|
+1975|	Sevilla|
+1976|	Andalucía|
+1976|	Sevilla|
+1977|	Andalucía|
+1977|	Sevilla|
+1978|	Andalucía|
+1978|	Sevilla|
+1979|	Andalucía|
+1979|	Sevilla|
+1980|	Cataluña|
+1980|	Barcelona|
+1981|	Andalucía|
+1981|	Córdoba|
+1982|	Andalucía|
+1982|	Córdoba|
+1983|	Andalucía|
+1983|	Córdoba|
+1984|	Andalucía|
+1984|	Córdoba|
+1985|	Canarias|
+1985|	La Palma|
+1986|	Andalucía|
+1986|	Mojácar|
+1987|	Andalucía|
+1987|	Mojácar|
+1988|	Andalucía|
+1988|	Granada|
+1989|	Asturias|
+1989|	Oviedo|
+1990|	Asturias|
+1990|	Oviedo|
+1991|	Andalucía|
+1991|	Sevilla|
+1992|	Andalucía|
+1992|	Mojácar|
+1993|	Andalucía|
+1993|	Córdoba|
+1994|	Andalucía|
+1994|	Sevilla|
+1995|	Andalucía|
+1995|	Sevilla|
+1996|	Andalucía|
+1996|	Córdoba|
+1997|	Andalucía|
+1997|	Sevilla|
+1998|	Andalucía|
+1998|	Sevilla|
+1999|	Andalucía|
+1999|	Granada|
+2000|	Andalucía|
+2000|	Huelva|
+2001|	Andalucía|
+2001|	Sevilla|
+2002|	Andalucía|
+2002|	Málaga|
+2003|	Andalucía|
+2003|	Córdoba|
+2004|	Valencia|
+2004|	Alicante|
+2005|	Andalucía|
+2005|	Jerez de la Frontera|
+2006|	Andalucía|
+2006|	Sevilla|
+2007|	Andalucía|
+2007|	Sevilla|
+2008|	Andalucía|
+2008|	Sevilla|
+2009|	Andalucía|
+2009|	Sevilla|
+2010|	Valencia|
+2010|	Alicante|
+2011|	Castilla - La Mancha|
+2011|	Toledo|
+2012|	Andalucía|
+2012|	Granada|
+2013|	Madrid|
+2014|	Valencia|
+2015|	Valencia|
+2016|	Andalucía|
+2016|	Castilla - León|
+2016|	Madrid|
+2016|	Ávila|
+2016|	Benalmádena|
+2017|	Castilla - León|
+2017|	Madrid|
+2017|	Ávila|
+2017|	Segovia|
+2018|	Canarias|
+2018|	Maspalomas|
+2019|	Castilla - León|
+2019|	Madrid|
+2019|	Ávila|
+2019|	Segovia|
+2020|	Castilla - La Mancha|
+2020|	Madrid|
+2020|	Toledo|
+2021|	Castilla - La Mancha|
+2021|	Madrid|
+2021|	Toledo|
+2022|	Castilla - La Mancha|
+2022|	Madrid|
+2022|	Toledo|
+2023|	Castilla - La Mancha|
+2023|	Madrid|
+2023|	Toledo|
+2024|	Canarias|
+2024|	Maspalomas|
+2025|	Canarias|
+2025|	Maspalomas|
+2026|	Canarias|
+2026|	Maspalomas|
+2027|	Canarias|
+2027|	Maspalomas|
+2028|	Canarias|
+2028|	Maspalomas|
+2029|	Canarias|
+2029|	Maspalomas|
+2030|	Canarias|
+2030|	Maspalomas|
+2031|	Murcia|
+2032|	Andalucía|
+2032|	Córdoba|
+2033|	Andalucía|
+2033|	Córdoba|
+2034|	Andalucía|
+2034|	Córdoba|
+2035|	Andalucía|
+2035|	Córdoba|
+2036|	Andalucía|
+2036|	Córdoba|
+2037|	Andalucía|
+2037|	Córdoba|
+2038|	Andalucía|
+2038|	Córdoba|
+2039|	Andalucía|
+2039|	Málaga|
+2040|	Andalucía|
+2040|	Málaga|
+2041|	Andalucía|
+2041|	Málaga|
+2042|	Andalucía|
+2042|	Málaga|
+2043|	Andalucía|
+2043|	Málaga|
+2044|	Madrid|
+2045|	Cataluña|
+2045|	Barcelona|
+2046|	Andalucía|
+2046|	Córdoba|
+2047|	Andalucía|
+2047|	Córdoba|
+2048|	Andalucía|
+2048|	Sevilla|
+2049|	Andalucía|
+2049|	Málaga|
+2049|	Marbella|
+2050|	Islas Baleares|
+2050|	Palma de Mallorca|
+2051|	Cataluña|
+2051|	Barcelona|
+2052|	Cataluña|
+2052|	Barcelona|
+2053|	Cataluña|
+2053|	Barcelona|
+2054|	Cataluña|
+2054|	Barcelona|
+2055|	Andalucía|
+2055|	Sevilla|
+2056|	Andalucía|
+2056|	Sevilla|
+2057|	Andalucía|
+2057|	Sevilla|
+2058|	Andalucía|
+2058|	Sevilla|
+2059|	Andalucía|
+2059|	Málaga|
+2060|	Cataluña|
+2060|	Barcelona|
+2061|	Cataluña|
+2061|	Barcelona|
+2062|	Valencia|
+2063|	Valencia|
+2064|	Valencia|
+2065|	Valencia|
+2066|	Valencia|
+2067|	Cataluña|
+2067|	Barcelona|
+2068|	Andalucía|
+2068|	Málaga|
+2069|	Madrid|
+2070|	Andalucía|
+2070|	Sevilla|
+2071|	Valencia|
+2072|	Valencia|
+2073|	Cataluña|
+2073|	Barcelona|
+2074|	Cataluña|
+2074|	Barcelona|
+2075|	Murcia|
+2075|	Cartagena|
+2076|	Murcia|
+2076|	Cartagena|
+2077|	Cataluña|
+2077|	Barcelona|
+2078|	Cataluña|
+2078|	Barcelona|
+2079|	Andalucía|
+2079|	Sevilla|
+2080|	La Rioja|
+2080|	País Vasco|
+2080|	Logroño|
+2080|	Vitoria|
+2080|	San Sebastián|
+2081|	País Vasco|
+2081|	San Sebastián|
+2082|	País Vasco|
+2082|	San Sebastián|
+2083|	País Vasco|
+2083|	San Sebastián|
+2084|	País Vasco|
+2084|	San Sebastián|
+2085|	Madrid|
+2086|	Madrid|
+2087|	Madrid|
+2088|	Madrid|
+2089|	Madrid|
+2090|	Madrid|
+2091|	Madrid|
+2092|	Madrid|
+2093|	Madrid|
+2094|	Madrid|
+2095|	Andalucía|
+2095|	Sevilla|
+2096|	Andalucía|
+2096|	Baeza|
+2097|	Andalucía|
+2097|	Sevilla|
+2098|	Andalucía|
+2098|	Úbeda|
+2099|	Cataluña|
+2099|	Barcelona|
+2100|	Andalucía|
+2100|	Málaga|
+2101|	Andalucía|
+2101|	Sevilla|
+2102|	Andalucía|
+2102|	Sevilla|
+2103|	Andalucía|
+2103|	Sevilla|
+2104|	Valencia|
+2104|	Alicante|
+2105|	Andalucía|
+2105|	Sevilla|
+2106|	Andalucía|
+2106|	Sevilla|
+2107|	Andalucía|
+2107|	Sevilla|
+2108|	Andalucía|
+2108|	Sevilla|
+2109|	Andalucía|
+2109|	Sevilla|
+2110|	País Vasco|
+2110|	Bilbao|
+2111|	País Vasco|
+2111|	Bilbao|
+2112|	País Vasco|
+2112|	San Sebastián|
+2113|	País Vasco|
+2113|	San Sebastián|
+2114|	País Vasco|
+2114|	San Sebastián|
+2115|	Andalucía|
+2115|	Granada|
+2116|	Andalucía|
+2116|	Granada|
+2117|	Andalucía|
+2117|	Granada|
+2118|	Andalucía|
+2118|	Sevilla|
+2119|	Andalucía|
+2119|	Sevilla|
+2120|	Andalucía|
+2120|	Sevilla|
+2121|	Andalucía|
+2121|	Sevilla|
+2122|	Andalucía|
+2122|	Almería|
+2123|	Castilla - La Mancha|
+2123|	Madrid|
+2123|	Toledo|
+2124|	Andalucía|
+2124|	Sevilla|
+2125|	Andalucía|
+2125|	Sevilla|
+2126|	Madrid|
+2127|	Castilla - La Mancha|
+2127|	Madrid|
+2127|	Toledo|
+2128|	Valencia|
+2129|	Valencia|
+2130|	Valencia|
+2131|	Castilla - La Mancha|
+2131|	Castilla - León|
+2131|	Madrid|
+2131|	Toledo|
+2131|	Segovia|
+2132|	Castilla - León|
+2132|	Madrid|
+2132|	Segovia|
+2133|	Castilla - La Mancha|
+2133|	Madrid|
+2133|	Toledo|
+2134|	Madrid|
+2134|	El Escorial|
+2135|	Castilla - La Mancha|
+2135|	Madrid|
+2135|	Toledo|
+2136|	Valencia|
+2137|	Valencia|
+2138|	Valencia|
+2139|	Galicia|
+2139|	Catedral de Santiago de Compostela|
+2139|	Santiago de Compostela|
+2140|	Galicia|
+2140|	Catedral de Santiago de Compostela|
+2140|	Santiago de Compostela|
+2141|	Galicia|
+2141|	Catedral de Santiago de Compostela|
+2141|	Santiago de Compostela|
+2142|	Islas Baleares|
+2142|	Palma de Mallorca|
+2143|	Madrid|
+2144|	Galicia|
+2144|	Finisterre|
+2145|	Cataluña|
+2145|	Barcelona|
+2146|	Islas Baleares|
+2146|	Palma de Mallorca|
+2147|	Galicia|
+2147|	Catedral de Santiago de Compostela|
+2147|	Santiago de Compostela|
+2148|	Galicia|
+2148|	Catedral de Santiago de Compostela|
+2148|	Santiago de Compostela|
+2149|	Galicia|
+2149|	Santiago de Compostela|
+2150|	Galicia|
+2150|	Catedral de Santiago de Compostela|
+2150|	Santiago de Compostela|
+2151|	Galicia|
+2151|	Catedral de Santiago de Compostela|
+2151|	Santiago de Compostela|
+2152|	Galicia|
+2152|	Catedral de Santiago de Compostela|
+2152|	Santiago de Compostela|
+2153|	Galicia|
+2153|	Catedral de Santiago de Compostela|
+2153|	Santiago de Compostela|
+2154|	Canarias|
+2154|	Santa Cruz de Tenerife|
+2155|	Castilla - La Mancha|
+2155|	Madrid|
+2155|	Toledo|
+2156|	Castilla - La Mancha|
+2156|	Madrid|
+2156|	Toledo|
+2157|	Castilla - La Mancha|
+2157|	Madrid|
+2157|	Toledo|
+2158|	Madrid|
+2159|	Madrid|
+2160|	Andalucía|
+2160|	Granada|
+2161|	Andalucía|
+2161|	Granada|
+2162|	Castilla - León|
+2162|	Madrid|
+2162|	Soria|
+2163|	Castilla - León|
+2163|	Madrid|
+2163|	Soria|
+2164|	Andalucía|
+2164|	Sevilla|
+2165|	Islas Baleares|
+2165|	Palma de Mallorca|
+2166|	Islas Baleares|
+2166|	Palma de Mallorca|
+2167|	Islas Baleares|
+2167|	Palma de Mallorca|
+2168|	Andalucía|
+2168|	Córdoba|
+2169|	Andalucía|
+2169|	Granada|
+2170|	Andalucía|
+2170|	Sevilla|
+2171|	Andalucía|
+2171|	Granada|
+2172|	Andalucía|
+2172|	Granada|
+2173|	Andalucía|
+2173|	Extremadura|
+2173|	Sevilla|
+2173|	Mérida|
+2174|	Andalucía|
+2174|	Córdoba|
+2174|	Sevilla|
+2175|	Andalucía|
+2175|	Sevilla|
+2176|	Cataluña|
+2176|	Barcelona|
+2177|	Cataluña|
+2177|	Barcelona|
+2178|	Cataluña|
+2178|	Barcelona|
+2179|	Cataluña|
+2179|	Barcelona|
+2180|	Cataluña|
+2180|	Barcelona|
+2181|	Cataluña|
+2181|	Barcelona|
+2182|	Cataluña|
+2182|	Barcelona|
+2183|	Cataluña|
+2183|	Barcelona|
+2183|	Sitges|
+2184|	Cataluña|
+2184|	Barcelona|
+2185|	Cataluña|
+2185|	Barcelona|
+2186|	Andalucía|
+2186|	Cádiz|
+2186|	Sevilla|
+2187|	Andalucía|
+2187|	Granada|
+2188|	Castilla - La Mancha|
+2188|	Madrid|
+2188|	Toledo|
+2189|	Castilla - La Mancha|
+2189|	Madrid|
+2189|	Toledo|
+2190|	Castilla - La Mancha|
+2190|	Madrid|
+2190|	Toledo|
+2190|	Aranjuez|
+2191|	Madrid|
+2191|	Aranjuez|
+2191|	El Escorial|
+2192|	Madrid|
+2193|	Madrid|
+2194|	Madrid|
+2195|	Madrid|
+2196|	Madrid|
+2197|	Madrid|
+2198|	Castilla - La Mancha|
+2198|	Castilla - León|
+2198|	Madrid|
+2198|	Toledo|
+2198|	Segovia|
+2199|	Madrid|
+2200|	Madrid|
+2201|	Madrid|
+2202|	Cataluña|
+2202|	Barcelona|
+2203|	Cataluña|
+2203|	Barcelona|
+2203|	Sitges|
+2204|	Andalucía|
+2204|	Sevilla|
+2205|	Andalucía|
+2205|	Sevilla|
+2206|	Castilla - La Mancha|
+2206|	Toledo|
+2207|	Castilla - La Mancha|
+2207|	Toledo|
+2208|	Cataluña|
+2208|	Barcelona|
+2209|	Andalucía|
+2209|	Granada|
+2210|	Andalucía|
+2210|	Granada|
+2211|	Andalucía|
+2211|	Granada|
+2212|	Andalucía|
+2212|	Granada|
+2213|	Andalucía|
+2213|	Granada|
+2214|	Andalucía|
+2214|	Granada|
+2215|	Islas Baleares|
+2215|	Palma de Mallorca|
+2216|	Andalucía|
+2216|	Sevilla|
+2217|	Andalucía|
+2217|	Sevilla|
+2218|	Castilla - La Mancha|
+2218|	Castilla - León|
+2218|	Toledo|
+2218|	Segovia|
+2219|	Andalucía|
+2219|	Málaga|
+2220|	Andalucía|
+2220|	Málaga|
+2221|	Andalucía|
+2221|	Málaga|
+2222|	Canarias|
+2222|	Fuerteventura|
+2222|	La Oliva|
+2223|	Canarias|
+2223|	Santa Cruz de Tenerife|
+2224|	Andalucía|
+2224|	Sevilla|
+2225|	Andalucía|
+2225|	Sevilla|
+2226|	Andalucía|
+2226|	Sevilla|
+2227|	Andalucía|
+2227|	Sevilla|
+2228|	Andalucía|
+2228|	Sevilla|
+2229|	Cataluña|
+2229|	Barcelona|
+2230|	Andalucía|
+2230|	Cádiz|
+2231|	Cataluña|
+2231|	Barcelona|
+2232|	Cataluña|
+2232|	Barcelona|
+2233|	Madrid|
+2233|	El Escorial|
+2234|	Castilla - La Mancha|
+2234|	Castilla - León|
+2234|	Madrid|
+2234|	Toledo|
+2234|	Segovia|
+2235|	Castilla - León|
+2235|	Madrid|
+2235|	Ávila|
+2235|	Segovia|
+2236|	Castilla - La Mancha|
+2236|	Madrid|
+2236|	Toledo|
+2237|	Castilla - La Mancha|
+2237|	Madrid|
+2237|	Toledo|
+2238|	Castilla - León|
+2238|	Madrid|
+2238|	Segovia|
+2239|	Cataluña|
+2239|	Barcelona|
+2240|	Andalucía|
+2240|	Cádiz|
+2241|	Cataluña|
+2241|	Barcelona|
+2242|	Cataluña|
+2242|	Barcelona|
+2243|	Andalucía|
+2243|	Málaga|
+2244|	Valencia|
+2245|	Cataluña|
+2245|	Barcelona|
+2245|	Gerona|
+2246|	Cataluña|
+2246|	Barcelona|
+2246|	Gerona|
+2247|	Andalucía|
+2247|	Málaga|
+2248|	Madrid|
+2249|	Castilla - La Mancha|
+2249|	Madrid|
+2249|	Toledo|
+2250|	Castilla - La Mancha|
+2250|	Madrid|
+2250|	Toledo|
+2251|	Madrid|
+2252|	Andalucía|
+2252|	Sevilla|
+2253|	Andalucía|
+2253|	Málaga|
+2254|	Andalucía|
+2254|	Sevilla|
+2255|	Andalucía|
+2255|	Málaga|
+2256|	Andalucía|
+2256|	Málaga|
+2257|	Andalucía|
+2257|	Málaga|
+2258|	Andalucía|
+2258|	Málaga|
+2259|	Andalucía|
+2259|	Sevilla|
+2260|	Andalucía|
+2260|	Sevilla|
+2261|	Andalucía|
+2261|	Sevilla|
+2262|	Andalucía|
+2262|	Sevilla|
+2263|	Cataluña|
+2263|	Gerona|
+2264|	Cataluña|
+2264|	Gerona|
+2265|	Canarias|
+2265|	Fuerteventura|
+2265|	La Oliva|
+2266|	Cataluña|
+2266|	Gerona|
+2267|	Cataluña|
+2267|	Gerona|
+2268|	Cataluña|
+2268|	Gerona|
+2269|	Cataluña|
+2269|	Gerona|
+2270|	Cataluña|
+2270|	Gerona|
+2271|	Cataluña|
+2271|	Gerona|
+2272|	Cataluña|
+2272|	Barcelona|
+2273|	Andalucía|
+2273|	Córdoba|
+2274|	Andalucía|
+2274|	Córdoba|
+2275|	Canarias|
+2275|	Fuerteventura|
+2275|	La Oliva|
+2276|	Madrid|
+2277|	Canarias|
+2277|	Fuerteventura|
+2277|	La Oliva|
+2278|	Madrid|
+2279|	Cataluña|
+2279|	Barcelona|
+2280|	Cataluña|
+2280|	Barcelona|
+2280|	Gerona|
+2281|	Madrid|
+2282|	Cataluña|
+2282|	Barcelona|
+2283|	Cataluña|
+2283|	Barcelona|
+2284|	Cataluña|
+2284|	Barcelona|
+2285|	Cataluña|
+2285|	Barcelona|
+2286|	Cataluña|
+2286|	Barcelona|
+2287|	Andalucía|
+2287|	Sevilla|
+2288|	Cataluña|
+2288|	Barcelona|
+2289|	Andalucía|
+2289|	Málaga|
+2290|	Cataluña|
+2290|	Barcelona|
+2291|	Andalucía|
+2291|	Sevilla|
+2292|	Cataluña|
+2292|	Barcelona|
+2293|	Cataluña|
+2293|	Barcelona|
+2294|	Cataluña|
+2294|	Barcelona|
+2295|	Cataluña|
+2295|	Barcelona|
+2296|	Cataluña|
+2296|	Barcelona|
+2297|	Cataluña|
+2297|	Barcelona|
+2298|	Cataluña|
+2298|	Barcelona|
+2299|	Cataluña|
+2299|	Barcelona|
+2300|	Madrid|
+2301|	Cataluña|
+2301|	Barcelona|
+2302|	Cataluña|
+2302|	Barcelona|
+2303|	Madrid|
+2304|	Cataluña|
+2304|	Barcelona|
+2305|	Cataluña|
+2305|	Barcelona|
+2306|	Madrid|
+2307|	Andalucía|
+2307|	Córdoba|
+2308|	Madrid|
+2309|	Cataluña|
+2309|	Barcelona|
+2310|	Cataluña|
+2310|	Barcelona|
+2311|	Madrid|
+2312|	Cataluña|
+2312|	Barcelona|
+2313|	Cataluña|
+2313|	Barcelona|
+2314|	Madrid|
+2315|	Cataluña|
+2315|	Barcelona|
+2316|	Madrid|
+2317|	Madrid|
+2318|	Madrid|
+2319|	Madrid|
+2320|	Madrid|
+2321|	Madrid|
+2322|	Madrid|
+2323|	Madrid|
+2324|	Castilla - León|
+2324|	Madrid|
+2324|	Segovia|
+2325|	Castilla - León|
+2325|	Madrid|
+2325|	Segovia|
+2326|	Castilla - León|
+2326|	Madrid|
+2326|	Segovia|
+2327|	Castilla - La Mancha|
+2327|	Castilla - León|
+2327|	Madrid|
+2327|	Ávila|
+2327|	Toledo|
+2327|	Segovia|
+2328|	Madrid|
+2329|	Castilla - La Mancha|
+2329|	Madrid|
+2329|	Toledo|
+2330|	Castilla - La Mancha|
+2330|	Madrid|
+2330|	Toledo|
+2331|	Castilla - La Mancha|
+2331|	Madrid|
+2331|	Toledo|
+2332|	Andalucía|
+2332|	Benalmádena|
+2333|	Cataluña|
+2333|	Barcelona|
+2334|	Madrid|
+2335|	Madrid|
+2336|	Andalucía|
+2336|	Sevilla|
+2337|	Andalucía|
+2337|	Sevilla|
+2338|	Andalucía|
+2338|	Sevilla|
+2339|	Andalucía|
+2339|	Granada|
+2340|	Andalucía|
+2340|	Granada|
+2341|	Andalucía|
+2341|	Granada|
+2342|	Andalucía|
+2342|	Sevilla|
+2343|	Madrid|
+2344|	Andalucía|
+2344|	Sevilla|
+2345|	Castilla - La Mancha|
+2345|	Madrid|
+2345|	Cuenca|
+2346|	Castilla - La Mancha|
+2346|	Cuenca|
+2347|	Cataluña|
+2347|	Barcelona|
+2348|	Andalucía|
+2348|	Sevilla|
+2349|	Cataluña|
+2349|	Barcelona|
+2350|	Cataluña|
+2350|	Barcelona|
+2351|	Castilla - La Mancha|
+2351|	Cuenca|
+2352|	Andalucía|
+2352|	Córdoba|
+2353|	Andalucía|
+2353|	Sevilla|
+2354|	Castilla - La Mancha|
+2354|	Madrid|
+2354|	Cuenca|
+2355|	Castilla - La Mancha|
+2355|	Cuenca|
+2356|	Castilla - La Mancha|
+2356|	Cuenca|
+2357|	Castilla - La Mancha|
+2357|	Cuenca|
+2358|	Castilla - La Mancha|
+2358|	Cuenca|
+2359|	Castilla - La Mancha|
+2359|	Cuenca|
+2360|	Castilla - La Mancha|
+2360|	Cuenca|
+2361|	Castilla - La Mancha|
+2361|	Cuenca|
+2362|	Castilla - La Mancha|
+2362|	Cuenca|
+2363|	Castilla - La Mancha|
+2363|	Castilla - León|
+2363|	Madrid|
+2363|	Toledo|
+2363|	Segovia|
+2364|	Castilla - León|
+2364|	Madrid|
+2364|	Ávila|
+2364|	Salamanca|
+2365|	Castilla - León|
+2365|	Madrid|
+2365|	Ávila|
+2365|	Segovia|
+2365|	El Escorial|
+2366|	Madrid|
+2367|	Madrid|
+2368|	Andalucía|
+2368|	Córdoba|
+2369|	Galicia|
+2369|	Santiago de Compostela|
+2370|	Andalucía|
+2370|	Sevilla|
+2371|	Andalucía|
+2371|	Sevilla|
+2372|	Andalucía|
+2372|	Sevilla|
+2373|	Andalucía|
+2373|	Sevilla|
+2374|	Andalucía|
+2374|	Granada|
+2375|	Canarias|
+2375|	Puerto de la Cruz|
+2376|	Galicia|
+2376|	Finisterre|
+2377|	Canarias|
+2377|	Puerto de la Cruz|
+2378|	Extremadura|
+2378|	Cáceres|
+2379|	Canarias|
+2379|	Santa Cruz de Tenerife|
+2380|	Extremadura|
+2380|	Cáceres|
+2381|	Extremadura|
+2381|	Cáceres|
+2382|	Extremadura|
+2382|	Cáceres|
+2383|	Extremadura|
+2383|	Cáceres|
+2384|	Extremadura|
+2384|	Cáceres|
+2385|	Extremadura|
+2385|	Cáceres|
+2386|	Extremadura|
+2386|	Cáceres|
+2387|	Extremadura|
+2387|	Cáceres|
+2388|	Extremadura|
+2388|	Cáceres|
+2389|	Extremadura|
+2389|	Cáceres|
+2390|	Extremadura|
+2390|	Cáceres|
+2391|	Extremadura|
+2391|	Cáceres|
+2392|	Extremadura|
+2392|	Badajoz|
+2393|	Canarias|
+2393|	Puerto de la Cruz|
+2394|	Canarias|
+2394|	Santa Cruz de Tenerife|
+2395|	Castilla - La Mancha|
+2395|	Cuenca|
+2395|	Toledo|
+2396|	Andalucía|
+2396|	Sevilla|
+2397|	Madrid|
+2398|	Madrid|
+2399|	Cataluña|
+2399|	Barcelona|
+2400|	Cataluña|
+2400|	Barcelona|
+2401|	Cataluña|
+2401|	Barcelona|
+2402|	Cataluña|
+2402|	Barcelona|
+2403|	Cataluña|
+2403|	Barcelona|
+2404|	Cataluña|
+2404|	Barcelona|
+2405|	Andalucía|
+2405|	Málaga|
+2406|	Andalucía|
+2406|	Málaga|
+2407|	Andalucía|
+2407|	Málaga|
+2408|	Andalucía|
+2408|	Málaga|
+2409|	Andalucía|
+2409|	Málaga|
+2410|	Andalucía|
+2410|	Málaga|
+2411|	Andalucía|
+2411|	Córdoba|
+2412|	Castilla - La Mancha|
+2412|	Toledo|
+2413|	Andalucía|
+2413|	Córdoba|
+2414|	Andalucía|
+2414|	Córdoba|
+2415|	Andalucía|
+2415|	Córdoba|
+2416|	Castilla - La Mancha|
+2416|	Castilla - León|
+2416|	Madrid|
+2416|	Toledo|
+2416|	Segovia|
+2417|	Andalucía|
+2417|	Córdoba|
+2418|	Castilla - León|
+2418|	Segovia|
+2419|	Andalucía|
+2419|	Córdoba|
+2420|	Andalucía|
+2420|	Sevilla|
+2421|	Andalucía|
+2421|	Granada|
+2422|	Andalucía|
+2422|	Granada|
+2423|	Andalucía|
+2423|	Granada|
+2424|	Andalucía|
+2424|	Granada|
+2425|	La Rioja|
+2425|	País Vasco|
+2425|	Logroño|
+2425|	Vitoria|
+2425|	San Sebastián|
+2425|	Bilbao|
+2426|	Andalucía|
+2426|	Granada|
+2427|	Andalucía|
+2427|	Granada|
+2428|	Andalucía|
+2428|	Granada|
+2429|	Andalucía|
+2429|	Sevilla|
+2429|	Catedral de Sevilla|
+2430|	Madrid|
+2431|	Madrid|
+2432|	Andalucía|
+2432|	Sevilla|
+2433|	Andalucía|
+2433|	Sevilla|
+2434|	Andalucía|
+2434|	Cádiz|
+2435|	Andalucía|
+2435|	Granada|
+2436|	Galicia|
+2436|	Santiago de Compostela|
+2437|	Galicia|
+2437|	Santiago de Compostela|
+2438|	Galicia|
+2438|	Santiago de Compostela|
+2439|	Andalucía|
+2439|	Sevilla|
+2440|	Andalucía|
+2440|	Sevilla|
+2441|	Andalucía|
+2441|	Sevilla|
+2442|	Andalucía|
+2442|	Córdoba|
+2443|	Canarias|
+2443|	Lanzarote|
+2444|	Canarias|
+2444|	Lanzarote|
+2445|	Andalucía|
+2445|	Córdoba|
+2446|	Andalucía|
+2446|	Córdoba|
+2447|	Andalucía|
+2447|	Córdoba|
+2448|	Andalucía|
+2448|	Córdoba|
+2449|	Andalucía|
+2449|	Córdoba|
+2450|	Andalucía|
+2450|	Córdoba|
+2451|	Andalucía|
+2451|	Córdoba|
+2452|	Andalucía|
+2452|	Málaga|
+2453|	Andalucía|
+2453|	Málaga|
+2454|	Andalucía|
+2454|	Málaga|
+2455|	Andalucía|
+2455|	Málaga|
+2456|	Andalucía|
+2456|	Málaga|
+2457|	Andalucía|
+2457|	Málaga|
+2458|	Andalucía|
+2458|	Málaga|
+2459|	Andalucía|
+2459|	Málaga|
+2460|	Andalucía|
+2460|	Málaga|
+2461|	Andalucía|
+2461|	Málaga|
+2462|	Andalucía|
+2462|	Málaga|
+2463|	Andalucía|
+2463|	Huelva|
+2464|	Andalucía|
+2464|	Ayamonte|
+2465|	Andalucía|
+2465|	Punta Umbría|
+2466|	Andalucía|
+2466|	Granada|
+2467|	Andalucía|
+2467|	Granada|
+2468|	Andalucía|
+2468|	Málaga|
+2469|	Andalucía|
+2469|	Málaga|
+2470|	Andalucía|
+2470|	Málaga|
+2471|	Aragón|
+2471|	Huesca|
+2472|	Andalucía|
+2472|	Sevilla|
+2473|	Madrid|
+2474|	Andalucía|
+2474|	Málaga|
+2475|	Andalucía|
+2475|	Granada|
+2476|	Andalucía|
+2476|	Sevilla|
+2477|	Canarias|
+2477|	Adeje|
+2478|	País Vasco|
+2478|	Bilbao|
+2479|	Canarias|
+2479|	Fuerteventura|
+2479|	La Oliva|
+2480|	País Vasco|
+2480|	Bilbao|
+2481|	País Vasco|
+2481|	Bilbao|
+2482|	País Vasco|
+2482|	Bilbao|
+2483|	País Vasco|
+2483|	Bilbao|
+2484|	País Vasco|
+2484|	Bilbao|
+2485|	Cataluña|
+2485|	Barcelona|
+2485|	Gerona|
+2486|	País Vasco|
+2486|	Bilbao|
+2487|	País Vasco|
+2487|	Bilbao|
+2488|	País Vasco|
+2488|	Bilbao|
+2489|	Islas Baleares|
+2489|	Ibiza|
+2490|	Islas Baleares|
+2490|	Ibiza|
+2491|	Islas Baleares|
+2491|	Ibiza|
+2492|	Islas Baleares|
+2492|	Ibiza|
+2493|	Islas Baleares|
+2493|	Ibiza|
+2494|	Islas Baleares|
+2494|	Ibiza|
+2495|	Islas Baleares|
+2495|	Ibiza|
+2496|	Islas Baleares|
+2496|	Ibiza|
+2497|	Andalucía|
+2497|	Granada|
+2498|	País Vasco|
+2498|	Bilbao|
+2499|	Cataluña|
+2499|	Barcelona|
+2500|	País Vasco|
+2500|	Bilbao|
+2501|	Cataluña|
+2501|	Barcelona|
+2502|	Cataluña|
+2502|	Barcelona|
+2503|	Cataluña|
+2503|	Barcelona|
+2504|	Cataluña|
+2504|	Barcelona|
+2505|	País Vasco|
+2505|	Bilbao|
+2506|	Andalucía|
+2506|	Sevilla|
+2507|	Andalucía|
+2507|	Granada|
+2508|	Andalucía|
+2508|	Granada|
+2509|	Andalucía|
+2509|	Granada|
+2510|	Cataluña|
+2510|	Barcelona|
+2511|	Cataluña|
+2511|	Tarragona|
+2512|	Andalucía|
+2512|	Granada|
+2513|	Andalucía|
+2513|	Granada|
+2514|	Andalucía|
+2514|	Granada|
+2515|	Andalucía|
+2515|	Granada|
+2516|	Andalucía|
+2516|	Granada|
+2517|	Andalucía|
+2517|	Granada|
+2518|	Andalucía|
+2518|	Granada|
+2519|	Andalucía|
+2519|	Granada|
+2520|	Andalucía|
+2520|	Granada|
+2521|	Andalucía|
+2521|	Granada|
+2522|	Andalucía|
+2522|	Granada|
+2523|	Andalucía|
+2523|	Granada|
+2524|	Andalucía|
+2524|	Granada|
+2525|	Andalucía|
+2525|	Granada|
+2526|	Andalucía|
+2526|	Granada|
+2527|	Andalucía|
+2527|	Granada|
+2528|	Andalucía|
+2528|	Granada|
+2529|	Andalucía|
+2529|	Granada|
+2530|	Cataluña|
+2530|	Tarragona|
+2531|	Cataluña|
+2531|	Barcelona|
+2532|	Cataluña|
+2532|	Barcelona|
+2533|	Cataluña|
+2533|	Barcelona|
+2534|	Andalucía|
+2534|	Granada|
+2535|	Andalucía|
+2535|	Granada|
+2536|	Cataluña|
+2536|	Barcelona|
+2537|	Cataluña|
+2537|	Barcelona|
+2538|	Cataluña|
+2538|	Barcelona|
+2539|	Cataluña|
+2539|	Barcelona|
+2540|	Cataluña|
+2540|	Barcelona|
+2541|	Madrid|
+2542|	Madrid|
+2543|	Madrid|
+2544|	Madrid|
+2545|	Madrid|
+2546|	Cataluña|
+2546|	Barcelona|
+2547|	Andalucía|
+2547|	Sevilla|
+2548|	Cataluña|
+2548|	Barcelona|
+2549|	Cataluña|
+2549|	Barcelona|
+2550|	Cataluña|
+2550|	Barcelona|
+2551|	Islas Baleares|
+2551|	Menorca|
+2552|	Islas Baleares|
+2552|	Menorca|
+2553|	Andalucía|
+2553|	Granada|
+2554|	Andalucía|
+2554|	Granada|
+2555|	Andalucía|
+2555|	Granada|
+2556|	Andalucía|
+2556|	Granada|
+2557|	Andalucía|
+2557|	Granada|
+2558|	Andalucía|
+2558|	Granada|
+2559|	Canarias|
+2559|	Santa Cruz de Tenerife|
+2560|	Andalucía|
+2560|	Sevilla|
+2561|	Andalucía|
+2561|	Granada|
+2562|	Islas Baleares|
+2562|	Ibiza|
+2563|	Islas Baleares|
+2563|	Ibiza|
+2564|	Valencia|
+2565|	Islas Baleares|
+2565|	Ibiza|
+2566|	Castilla - La Mancha|
+2566|	Castilla - León|
+2566|	Madrid|
+2566|	Ávila|
+2566|	Toledo|
+2566|	Segovia|
+2567|	Andalucía|
+2567|	Córdoba|
+2568|	Andalucía|
+2568|	Córdoba|
+2569|	Andalucía|
+2569|	Córdoba|
+2570|	Andalucía|
+2570|	Córdoba|
+2571|	Andalucía|
+2571|	Córdoba|
+2572|	Andalucía|
+2572|	Málaga|
+2573|	Andalucía|
+2573|	Málaga|
+2574|	Cataluña|
+2574|	Barcelona|
+2575|	Cataluña|
+2575|	Barcelona|
+2576|	Cataluña|
+2576|	Barcelona|
+2577|	Canarias|
+2577|	Adeje|
+2578|	Andalucía|
+2578|	Almería|
+2579|	Andalucía|
+2579|	Almería|
+2580|	Andalucía|
+2580|	Almería|
+2581|	Andalucía|
+2581|	Almería|
+2582|	Andalucía|
+2582|	Almería|
+2582|	Granada|
+2582|	Roquetas de Mar|
+2583|	Andalucía|
+2583|	Almería|
+2583|	Roquetas de Mar|
+2584|	Andalucía|
+2584|	Baeza|
+2584|	Úbeda|
+2585|	Cataluña|
+2585|	Barcelona|
+2586|	Cataluña|
+2586|	Barcelona|
+2587|	Cataluña|
+2587|	Barcelona|
+2588|	Canarias|
+2588|	Adeje|
+2589|	Canarias|
+2589|	Adeje|
+2590|	Cataluña|
+2590|	Barcelona|
+2591|	Cataluña|
+2591|	Barcelona|
+2592|	Cataluña|
+2592|	Barcelona|
+2593|	Andalucía|
+2593|	Córdoba|
+2594|	Andalucía|
+2594|	Málaga|
+2595|	Andalucía|
+2595|	Málaga|
+2596|	Andalucía|
+2596|	Málaga|
+2597|	Andalucía|
+2597|	Málaga|
+2598|	Andalucía|
+2598|	Córdoba|
+2599|	Andalucía|
+2599|	Málaga|
+2600|	Andalucía|
+2600|	Málaga|
+2601|	Andalucía|
+2601|	Málaga|
+2602|	Andalucía|
+2602|	Extremadura|
+2602|	Madrid|
+2602|	Sevilla|
+2602|	Cáceres|
+2603|	Andalucía|
+2603|	Extremadura|
+2603|	Madrid|
+2603|	Sevilla|
+2603|	Cáceres|
+2604|	Andalucía|
+2604|	Extremadura|
+2604|	Madrid|
+2604|	Córdoba|
+2604|	Sevilla|
+2604|	Cáceres|
+2604|	Ronda|
+2605|	Andalucía|
+2605|	Extremadura|
+2605|	Madrid|
+2605|	Córdoba|
+2605|	Sevilla|
+2605|	Cáceres|
+2606|	Andalucía|
+2606|	Castilla - La Mancha|
+2606|	Madrid|
+2606|	Córdoba|
+2606|	Granada|
+2606|	Sevilla|
+2606|	Toledo|
+2607|	Andalucía|
+2607|	Castilla - La Mancha|
+2607|	Extremadura|
+2607|	Madrid|
+2607|	Granada|
+2607|	Sevilla|
+2607|	Toledo|
+2607|	Cáceres|
+2607|	Torremolinos|
+2607|	Ronda|
+2608|	Andalucía|
+2608|	Castilla - La Mancha|
+2608|	Madrid|
+2608|	Córdoba|
+2608|	Granada|
+2608|	Sevilla|
+2608|	Toledo|
+2608|	Torremolinos|
+2608|	Ronda|
+2609|	Andalucía|
+2609|	Castilla - La Mancha|
+2609|	Madrid|
+2609|	Córdoba|
+2609|	Granada|
+2609|	Sevilla|
+2609|	Toledo|
+2609|	Torremolinos|
+2609|	Ronda|
+2610|	Andalucía|
+2610|	Castilla - La Mancha|
+2610|	Madrid|
+2610|	Córdoba|
+2610|	Granada|
+2610|	Sevilla|
+2610|	Toledo|
+2610|	Torremolinos|
+2611|	Andalucía|
+2611|	Aragón|
+2611|	Cataluña|
+2611|	Extremadura|
+2611|	Madrid|
+2611|	Valencia|
+2611|	Córdoba|
+2611|	Granada|
+2611|	Sevilla|
+2611|	Zaragoza|
+2611|	Barcelona|
+2611|	Cáceres|
+2611|	Torremolinos|
+2612|	Asturias|
+2612|	Castilla - León|
+2612|	Galicia|
+2612|	Madrid|
+2612|	León|
+2612|	Salamanca|
+2612|	La Coruña|
+2612|	Oviedo|
+2612|	Santiago de Compostela|
+2612|	Vigo|
+2613|	Castilla - León|
+2613|	Segovia|
+2614|	Andalucía|
+2614|	Ronda|
+2615|	Andalucía|
+2615|	Ronda|
+2616|	Cataluña|
+2616|	Barcelona|
+2617|	Cataluña|
+2617|	Barcelona|
+2618|	Andalucía|
+2618|	Málaga|
+2619|	Andalucía|
+2619|	Málaga|
+2620|	Andalucía|
+2620|	Málaga|
+2621|	Andalucía|
+2621|	Málaga|
+2622|	Andalucía|
+2622|	Málaga|
+2623|	Andalucía|
+2623|	Málaga|
+2624|	Andalucía|
+2624|	Málaga|
+2625|	Andalucía|
+2625|	Málaga|
+2626|	Andalucía|
+2626|	Málaga|
+2627|	Cataluña|
+2627|	Barcelona|
+2628|	Islas Baleares|
+2628|	Ibiza|
+2629|	Canarias|
+2629|	La Oliva|
+2630|	Canarias|
+2630|	La Oliva|
+2631|	Canarias|
+2631|	La Oliva|
+2632|	Islas Baleares|
+2632|	Menorca|
+2633|	Islas Baleares|
+2633|	Menorca|
+2634|	Islas Baleares|
+2634|	Menorca|
+2635|	Islas Baleares|
+2635|	Menorca|
+2636|	Islas Baleares|
+2636|	Menorca|
+2637|	Islas Baleares|
+2637|	Menorca|
+2638|	Islas Baleares|
+2638|	Menorca|
+2639|	Islas Baleares|
+2639|	Menorca|
+2640|	Islas Baleares|
+2640|	Menorca|
+2641|	Islas Baleares|
+2641|	Menorca|
+2642|	Castilla - La Mancha|
+2642|	Cuenca|
+2643|	Castilla - La Mancha|
+2643|	Cuenca|
+2644|	Madrid|
+2644|	Becerril de la Sierra|
+2645|	Madrid|
+2645|	Becerril de la Sierra|
+2646|	País Vasco|
+2646|	San Sebastián|
+2647|	País Vasco|
+2647|	San Sebastián|
+2648|	País Vasco|
+2648|	San Sebastián|
+2649|	País Vasco|
+2649|	San Sebastián|
+2650|	Madrid|
+2651|	Madrid|
+2652|	Madrid|
+2653|	Madrid|
+2654|	Madrid|
+2655|	Madrid|
+2656|	Madrid|
+2657|	Madrid|
+2658|	Madrid|
+2659|	Madrid|
+2660|	Madrid|
+2661|	Madrid|
+2662|	Madrid|
+2663|	Andalucía|
+2663|	Cádiz|
+2664|	Madrid|
+2665|	Cataluña|
+2665|	Barcelona|
+2666|	Madrid|
+2667|	Cataluña|
+2667|	Barcelona|
+2668|	Cataluña|
+2668|	Barcelona|
+2669|	Cataluña|
+2669|	Barcelona|
+2670|	Madrid|
+2671|	Madrid|
+2672|	Cataluña|
+2672|	Barcelona|
+2673|	Cataluña|
+2673|	Barcelona|
+2674|	Cataluña|
+2674|	Barcelona|
+2675|	Cataluña|
+2675|	Barcelona|
+2676|	Cataluña|
+2676|	Barcelona|
+2677|	Cataluña|
+2677|	Barcelona|
+2678|	Cataluña|
+2678|	Barcelona|
+2679|	Cataluña|
+2679|	Barcelona|
+2680|	Cataluña|
+2680|	Barcelona|
+2681|	Madrid|
+2682|	Andalucía|
+2682|	Cádiz|
+2683|	Madrid|
+2684|	Andalucía|
+2684|	Cádiz|
+2685|	Madrid|
+2686|	Madrid|
+2687|	Madrid|
+2688|	Madrid|
+2689|	Madrid|
+2690|	Madrid|
+2691|	Islas Baleares|
+2691|	Palma de Mallorca|
+2692|	Islas Baleares|
+2692|	Palma de Mallorca|
+2693|	Andalucía|
+2693|	Sevilla|
+2694|	Andalucía|
+2694|	Málaga|
+2695|	Andalucía|
+2695|	Málaga|
+2696|	Andalucía|
+2696|	Málaga|
+2697|	Andalucía|
+2697|	Málaga|
+2698|	Madrid|
+2699|	Cataluña|
+2699|	Barcelona|
+2699|	Gerona|
+2700|	Castilla - León|
+2700|	Ávila|
+2701|	Cataluña|
+2701|	Barcelona|
+2702|	Cataluña|
+2702|	Barcelona|
+2703|	Madrid|
+2704|	Castilla - La Mancha|
+2704|	Madrid|
+2704|	Toledo|
+2705|	Madrid|
+2706|	Madrid|
+2707|	Cataluña|
+2707|	Barcelona|
+2708|	Cataluña|
+2708|	Barcelona|
+2709|	Cataluña|
+2709|	Barcelona|
+2710|	Cataluña|
+2710|	Barcelona|
+2711|	Cataluña|
+2711|	Barcelona|
+2712|	Cataluña|
+2712|	Barcelona|
+2713|	Cataluña|
+2713|	Barcelona|
+2714|	Cataluña|
+2714|	Barcelona|
+2715|	Cataluña|
+2715|	Barcelona|
+2716|	Cataluña|
+2716|	Barcelona|
+2717|	Cataluña|
+2717|	Barcelona|
+2718|	Madrid|
+2719|	Cataluña|
+2719|	Barcelona|
+2720|	Cataluña|
+2720|	Barcelona|
+2721|	Cataluña|
+2721|	Barcelona|
+2722|	Cataluña|
+2722|	Barcelona|
+2723|	Madrid|
+2724|	Cataluña|
+2724|	Barcelona|
+2725|	Cataluña|
+2725|	Barcelona|
+2726|	Cataluña|
+2726|	Barcelona|
+2727|	Cataluña|
+2727|	Barcelona|
+2728|	Cataluña|
+2728|	Barcelona|
+2729|	Cataluña|
+2729|	Barcelona|
+2730|	Cataluña|
+2730|	Barcelona|
+2731|	Cataluña|
+2731|	Barcelona|
+2732|	Cataluña|
+2732|	Barcelona|
+2733|	Andalucía|
+2733|	Córdoba|
+2733|	Granada|
+2733|	Sevilla|
+2734|	Andalucía|
+2734|	Cataluña|
+2734|	Valencia|
+2734|	Granada|
+2734|	Sevilla|
+2734|	Barcelona|
+2735|	Madrid|
+2736|	Madrid|
+2737|	Andalucía|
+2737|	Madrid|
+2737|	Córdoba|
+2737|	Granada|
+2737|	Sevilla|
+2738|	Cataluña|
+2738|	Madrid|
+2738|	Barcelona|
+2739|	Madrid|
+2740|	Madrid|
+2741|	Andalucía|
+2741|	Córdoba|
+2742|	Andalucía|
+2742|	Castilla - La Mancha|
+2742|	Madrid|
+2742|	Córdoba|
+2742|	Toledo|
+2743|	Andalucía|
+2743|	Cataluña|
+2743|	Madrid|
+2743|	Valencia|
+2743|	Córdoba|
+2743|	Granada|
+2743|	Sevilla|
+2743|	Barcelona|
+2744|	Castilla - León|
+2744|	Madrid|
+2744|	Salamanca|
+2745|	Castilla - La Mancha|
+2745|	Toledo|
+2746|	Madrid|
+2747|	Castilla - La Mancha|
+2747|	Madrid|
+2747|	Toledo|
+2748|	Madrid|
+2749|	Madrid|
+2750|	Cataluña|
+2750|	Barcelona|
+2751|	Cataluña|
+2751|	Barcelona|
+2752|	Cataluña|
+2752|	Barcelona|
+2753|	Cataluña|
+2753|	Barcelona|
+2754|	Navarra|
+2754|	Pamplona|
+2755|	Cataluña|
+2755|	Barcelona|
+2756|	Cataluña|
+2756|	Barcelona|
+2757|	Cataluña|
+2757|	Barcelona|
+2758|	Castilla - La Mancha|
+2758|	Madrid|
+2758|	Toledo|
+2759|	Madrid|
+2760|	Castilla - León|
+2760|	Madrid|
+2760|	Ávila|
+2760|	Segovia|
+2761|	Cataluña|
+2761|	Valencia|
+2761|	Barcelona|
+2762|	Andalucía|
+2762|	Castilla - La Mancha|
+2762|	Madrid|
+2762|	Granada|
+2762|	Sevilla|
+2762|	Toledo|
+2763|	Andalucía|
+2763|	Castilla - La Mancha|
+2763|	Madrid|
+2763|	Córdoba|
+2763|	Granada|
+2763|	Sevilla|
+2763|	Toledo|
+2764|	Cataluña|
+2764|	Barcelona|
+2765|	Cataluña|
+2765|	Barcelona|
+2766|	Cataluña|
+2766|	Barcelona|
+2767|	Cataluña|
+2767|	Barcelona|
+2768|	Cataluña|
+2768|	Barcelona|
+2769|	Cataluña|
+2769|	Barcelona|
+2770|	Castilla - La Mancha|
+2770|	Madrid|
+2770|	Toledo|
+2771|	Madrid|
+2772|	Madrid|
+2773|	Madrid|

@@ -1,0 +1,3564 @@
+CONCAT(pck.id, '|')	CONCAT(plz.name, '|')
+1|	Bolívar|
+1|	Cartagena de Indias|
+2|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+2|	San Andrés|
+3|	Bolívar|
+3|	Cartagena de Indias|
+8|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+8|	San Andrés|
+9|	Atlántico|
+9|	Barranquilla|
+10|	Atlántico|
+10|	Barranquilla|
+11|	Bogotá|
+11|	Bogotá D.C.|
+12|	Bolívar|
+12|	Cartagena de Indias|
+13|	Bogotá|
+13|	Bogotá D.C.|
+14|	Bolívar|
+14|	Cartagena de Indias|
+15|	Bogotá|
+15|	Bogotá D.C.|
+16|	Bolívar|
+16|	Cartagena de Indias|
+17|	Cundinamarca|
+17|	Zipaquirá|
+18|	Bogotá|
+18|	Bogotá D.C.|
+18|	Cundinamarca|
+18|	Zipaquirá|
+19|	Meta|
+19|	Villavicencio|
+21|	Quindio|
+21|	Armenia|
+21|	Calarca|
+22|	Valle Del Cauca|
+22|	Cali|
+23|	Magdalena|
+23|	Santa Marta|
+24|	Bogotá|
+24|	Bogotá D.C.|
+24|	Boyacá|
+24|	Magdalena|
+24|	Jenesano|
+24|	Cerro San Antonio|
+25|	Bogotá|
+25|	Bogotá D.C.|
+25|	Choco|
+25|	Cantón De San Pablo|
+26|	Bogotá|
+26|	Bogotá D.C.|
+27|	Bogotá|
+27|	Bogotá D.C.|
+28|	Sucre|
+28|	Sincelejo|
+29|	Antioquía|
+29|	Jericó|
+30|	Magdalena|
+30|	Santa Marta|
+31|	Bogotá|
+31|	Bogotá D.C.|
+32|	Valle Del Cauca|
+32|	Florida|
+33|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+33|	San Andrés|
+34|	Bolívar|
+34|	Cartagena de Indias|
+35|	Magdalena|
+35|	Santa Marta|
+36|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+36|	San Andrés|
+37|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+37|	San Andrés|
+38|	Magdalena|
+38|	Santa Marta|
+39|	Magdalena|
+39|	Santa Marta|
+40|	Caldas|
+40|	Manizales|
+40|	Quindio|
+40|	Armenia|
+40|	Risaralda|
+40|	Pereira|
+40|	Valle Del Cauca|
+40|	Cali|
+41|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+41|	San Andrés|
+42|	Quindio|
+42|	Calarca|
+43|	Quindio|
+43|	Valle Del Cauca|
+43|	Cali|
+43|	Salento|
+44|	Antioquía|
+44|	Medellín|
+45|	Bolívar|
+45|	Cartagena de Indias|
+46|	Cundinamarca|
+46|	Girardot|
+47|	Antioquía|
+47|	Medellín|
+48|	Valle Del Cauca|
+48|	Buga|
+49|	Tolima|
+49|	Melgar|
+50|	Cundinamarca|
+50|	Choachí|
+51|	La Guajira|
+51|	Riohacha|
+52|	Meta|
+52|	La Macarena|
+53|	Magdalena|
+53|	Santa Marta|
+57|	Bolívar|
+57|	Cartagena de Indias|
+58|	Antioquía|
+58|	Medellín|
+59|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+59|	San Andrés|
+60|	Bolívar|
+60|	Margarita|
+61|	Bolívar|
+61|	Cartagena de Indias|
+62|	Magdalena|
+62|	Santa Marta|
+63|	Antioquía|
+63|	Medellín|
+63|	San Francisco|
+64|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+64|	San Andrés|
+65|	Cundinamarca|
+65|	San Antonio De Tequendama|
+66|	Cundinamarca|
+66|	San Antonio De Tequendama|
+67|	La Guajira|
+67|	Riohacha|
+68|	Boyacá|
+68|	Villa De Leyva|
+69|	Bolívar|
+69|	Cartagena de Indias|
+70|	Boyacá|
+70|	Soracá|
+71|	Cundinamarca|
+71|	La Vega|
+72|	Bogotá|
+72|	Bogotá D.C.|
+73|	Valle Del Cauca|
+73|	Guadalajara De Buga|
+74|	Magdalena|
+74|	Santa Marta|
+75|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+75|	San Andrés|
+76|	Cundinamarca|
+76|	La Mesa|
+77|	Antioquía|
+77|	Guatape|
+78|	Nariño|
+78|	San Juan De Pasto|
+78|	Ipiales|
+78|	Sandoná|
+79|	Nariño|
+79|	San Juan De Pasto|
+79|	Ipiales|
+79|	Sandoná|
+80|	Antioquía|
+80|	Guatape|
+81|	Magdalena|
+81|	Santa Marta|
+82|	Antioquía|
+82|	Jardín|
+83|	Santander|
+83|	Bucaramanga|
+84|	Magdalena|
+84|	Santa Marta|
+85|	Meta|
+85|	La Macarena|
+86|	Bolívar|
+86|	Cartagena de Indias|
+87|	Magdalena|
+87|	Santa Marta|
+88|	Quindio|
+88|	Quimbaya|
+89|	Quindio|
+89|	Quimbaya|
+90|	Magdalena|
+90|	Santa Marta|
+91|	Caldas|
+91|	Chinchiná|
+91|	Manizales|
+92|	Antioquía|
+92|	Medellín|
+93|	Atlántico|
+93|	Barranquilla|
+93|	Bolívar|
+93|	Cartagena de Indias|
+94|	Antioquía|
+94|	La Estrella|
+94|	Medellín|
+95|	Cundinamarca|
+95|	La Calera|
+96|	Magdalena|
+96|	Santa Marta|
+97|	Bolívar|
+97|	Cartagena de Indias|
+98|	La Guajira|
+98|	Riohacha|
+99|	Meta|
+99|	La Macarena|
+100|	Quindio|
+100|	Pijao|
+101|	Meta|
+101|	La Macarena|
+102|	Antioquía|
+102|	San Jerónimo|
+103|	Magdalena|
+103|	Santa Marta|
+104|	Huila|
+104|	San Agustín|
+105|	Huila|
+105|	San Agustín|
+106|	Quindio|
+106|	Montenegro|
+107|	Valle Del Cauca|
+107|	Buenaventura|
+107|	Cali|
+108|	Sucre|
+108|	Coveñas|
+109|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+109|	San Andrés|
+110|	Antioquía|
+110|	Medellín|
+110|	Atlántico|
+110|	Barranquilla|
+110|	Bolívar|
+110|	Cartagena de Indias|
+110|	Córdoba|
+110|	Magdalena|
+110|	Santa Marta|
+110|	Sucre|
+110|	San Antero|
+110|	Coveñas|
+110|	Santiago De Tolú|
+111|	Valle Del Cauca|
+111|	Cali|
+112|	Guainía|
+112|	Inirida|
+112|	Vichada|
+112|	Puerto Carreño|
+113|	Bolívar|
+113|	Cartagena de Indias|
+113|	Turbaco|
+114|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+114|	San Andrés|
+115|	Magdalena|
+115|	Santa Marta|
+116|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+116|	San Andrés|
+117|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+117|	San Andrés|
+118|	Antioquía|
+118|	Santa Fe De Antioquía|
+119|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+119|	San Andrés|
+120|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+120|	San Andrés|
+121|	Meta|
+121|	Villavicencio|
+122|	Amazonas|
+122|	Leticia|
+123|	Amazonas|
+123|	Leticia|
+124|	Cundinamarca|
+124|	Tocaima|
+125|	Magdalena|
+125|	Santa Marta|
+126|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+126|	San Andrés|
+127|	Magdalena|
+127|	Santa Marta|
+128|	Bogotá|
+128|	Bogotá D.C.|
+129|	Bogotá|
+129|	Bogotá D.C.|
+130|	César|
+130|	Valledupar|
+130|	La Guajira|
+130|	San Juan Del Cesar|
+131|	Amazonas|
+131|	Leticia|
+132|	Boyacá|
+132|	El Cocuy|
+133|	Antioquía|
+133|	Envigado|
+133|	Medellín|
+134|	La Guajira|
+134|	Riohacha|
+135|	Putumayo|
+135|	Mocoa|
+136|	Quindio|
+136|	Armenia|
+137|	Vaupés|
+137|	Mitú|
+138|	Risaralda|
+138|	Pereira|
+139|	Huila|
+139|	San Agustín|
+140|	Huila|
+140|	San Agustín|
+141|	Tolima|
+141|	Ibague|
+142|	Quindio|
+142|	Armenia|
+143|	Santander|
+143|	Aratoca|
+143|	Los Santos|
+144|	Quindio|
+144|	Armenia|
+144|	Quimbaya|
+145|	Bolívar|
+145|	Cartagena de Indias|
+146|	Antioquía|
+146|	Medellín|
+146|	Bolívar|
+146|	Cartagena de Indias|
+146|	La Guajira|
+146|	Riohacha|
+146|	Magdalena|
+146|	Santa Marta|
+146|	Sucre|
+146|	Coveñas|
+147|	Risaralda|
+147|	Pereira|
+148|	Antioquía|
+148|	San Andrés|
+149|	Amazonas|
+149|	Leticia|
+150|	Quindio|
+150|	Montenegro|
+151|	Meta|
+151|	Villavicencio|
+152|	Meta|
+152|	Villavicencio|
+153|	Magdalena|
+153|	Santa Marta|
+154|	Magdalena|
+154|	Santa Marta|
+155|	Bogotá|
+155|	Bogotá D.C.|
+156|	Magdalena|
+156|	Santa Marta|
+157|	Boyacá|
+157|	Villa De Leyva|
+158|	Antioquía|
+158|	Santo Domingo|
+159|	Magdalena|
+159|	Santa Marta|
+160|	Magdalena|
+160|	Santa Marta|
+161|	Magdalena|
+161|	Santa Marta|
+162|	Magdalena|
+162|	Santa Marta|
+163|	Magdalena|
+163|	Santa Marta|
+164|	Magdalena|
+164|	Santa Marta|
+165|	Magdalena|
+165|	Santa Marta|
+166|	Magdalena|
+166|	Santa Marta|
+167|	Antioquía|
+167|	Medellín|
+168|	Antioquía|
+168|	Bolívar|
+168|	Cartagena de Indias|
+168|	Boyacá|
+168|	Santa Fe De Antioquía|
+168|	Villa De Leyva|
+169|	Antioquía|
+169|	Bolívar|
+169|	Cartagena de Indias|
+169|	Boyacá|
+169|	Santa Fe De Antioquía|
+169|	Villa De Leyva|
+170|	Bogotá|
+170|	Bogotá D.C.|
+171|	Atlántico|
+171|	Barranquilla|
+171|	Bolívar|
+171|	Cartagena de Indias|
+172|	Meta|
+172|	Villavicencio|
+172|	La Macarena|
+173|	Quindio|
+173|	Armenia|
+173|	Calarca|
+173|	Salento|
+174|	Bolívar|
+174|	Mompós|
+175|	Magdalena|
+175|	Aracataca|
+176|	Amazonas|
+176|	Leticia|
+177|	Amazonas|
+177|	Leticia|
+178|	Quindio|
+178|	Armenia|
+179|	Cundinamarca|
+179|	Girardot|
+179|	Tolima|
+179|	Tocaima|
+179|	Melgar|
+180|	Magdalena|
+180|	Santa Marta|
+181|	La Guajira|
+181|	Riohacha|
+182|	Magdalena|
+182|	Santa Marta|
+183|	Quindio|
+183|	Buenavista|
+183|	Cordoba |
+183|	Pijao|
+183|	Salento|
+184|	Caldas|
+184|	Manizales|
+184|	Quindio|
+184|	Montenegro|
+185|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+185|	San Andrés|
+186|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+186|	San Andrés|
+187|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+187|	San Andrés|
+188|	Bogotá|
+188|	Bogotá D.C.|
+189|	Antioquía|
+189|	Medellín|
+189|	Guatape|
+189|	Piedra del Peñol|
+190|	Quindio|
+190|	Montenegro|
+191|	Quindio|
+191|	Buenavista|
+191|	Cordoba |
+191|	Pijao|
+192|	Quindio|
+192|	Montenegro|
+193|	Quindio|
+193|	Buenavista|
+193|	Cordoba |
+193|	Pijao|
+193|	Salento|
+193|	Montenegro|
+194|	Quindio|
+194|	Buenavista|
+194|	Cordoba |
+194|	Pijao|
+194|	Salento|
+194|	Montenegro|
+195|	Magdalena|
+195|	Santa Marta|
+196|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+196|	San Andrés|
+197|	Bolívar|
+197|	Mompós|
+198|	Antioquía|
+198|	Medellín|
+199|	Quindio|
+199|	Montenegro|
+200|	Magdalena|
+200|	Santa Marta|
+201|	Antioquía|
+201|	Armenia|
+202|	Norte De Santander|
+202|	Puerto Santander|
+203|	Huila|
+203|	Neiva|
+204|	Quindio|
+204|	Filandia|
+205|	Quindio|
+205|	Filandia|
+206|	Magdalena|
+206|	Santa Marta|
+207|	Bogotá|
+207|	Bogotá D.C.|
+208|	Caldas|
+208|	Manizales|
+209|	Meta|
+209|	Villavicencio|
+209|	Acacias|
+210|	Bolívar|
+210|	Cartagena de Indias|
+211|	Magdalena|
+211|	Santa Marta|
+212|	Meta|
+212|	Villavicencio|
+212|	Acacias|
+213|	Bogotá|
+213|	Bogotá D.C.|
+214|	Magdalena|
+214|	Santa Marta|
+215|	Caldas|
+215|	Manizales|
+216|	Caldas|
+216|	Manizales|
+217|	Caldas|
+217|	Riosucio|
+218|	Caldas|
+218|	Manizales|
+219|	Caldas|
+219|	Manizales|
+220|	Bolívar|
+220|	Cartagena de Indias|
+221|	Cundinamarca|
+221|	Guatavita|
+222|	Cundinamarca|
+222|	Guatavita|
+223|	Cundinamarca|
+223|	Guatavita|
+224|	Cundinamarca|
+224|	Villapinzón|
+225|	Caldas|
+225|	La Dorada|
+226|	Magdalena|
+226|	Santa Marta|
+227|	Bolívar|
+227|	Cartagena de Indias|
+228|	Bolívar|
+228|	Cartagena de Indias|
+229|	Bolívar|
+229|	Cartagena de Indias|
+230|	Magdalena|
+230|	Santa Marta|
+231|	Magdalena|
+231|	Santa Marta|
+232|	Magdalena|
+232|	Santa Marta|
+233|	Magdalena|
+233|	Santa Marta|
+234|	Magdalena|
+234|	Santa Marta|
+235|	Magdalena|
+235|	Santa Marta|
+236|	César|
+236|	Valledupar|
+236|	La Guajira|
+236|	Magdalena|
+236|	Santa Marta|
+236|	La Jagua Del Pilar|
+237|	Meta|
+237|	Villavicencio|
+238|	Antioquía|
+238|	Marinilla|
+238|	Guatape|
+238|	Peñol|
+239|	Magdalena|
+239|	Santa Marta|
+240|	Bogotá|
+240|	Bogotá D.C.|
+241|	Cundinamarca|
+241|	Guatavita|
+242|	Quindio|
+242|	Armenia|
+242|	Montenegro|
+242|	Quimbaya|
+243|	Antioquía|
+243|	Medellín|
+244|	Antioquía|
+244|	Guatape|
+244|	Peñol|
+245|	Antioquía|
+245|	San Jerónimo|
+245|	Santa Fe De Antioquía|
+246|	Antioquía|
+246|	Hispania|
+246|	Jardín|
+247|	Santander|
+247|	San Gil|
+248|	Bolívar|
+248|	Cartagena de Indias|
+249|	Quindio|
+249|	Filandia|
+249|	Salento|
+249|	Quimbaya|
+252|	Bogotá|
+252|	Bogotá D.C.|
+253|	Quindio|
+253|	Armenia|
+255|	Bogotá|
+255|	Bogotá D.C.|
+258|	Magdalena|
+258|	Santa Marta|
+259|	La Guajira|
+259|	Riohacha|
+260|	Magdalena|
+260|	Santa Marta|
+261|	Antioquía|
+261|	Magdalena|
+261|	Santa Marta|
+261|	Yondó|
+262|	Magdalena|
+262|	Santa Marta|
+264|	Quindio|
+264|	Buenavista|
+264|	Cordoba |
+264|	Pijao|
+265|	Risaralda|
+265|	Pereira|
+265|	Pueblo Rico|
+275|	Huila|
+275|	Neiva|
+289|	La Guajira|
+289|	Riohacha|
+289|	Uribia|
+290|	Magdalena|
+290|	Santa Marta|
+291|	La Guajira|
+291|	Riohacha|
+291|	Uribia|
+292|	Bolívar|
+292|	Cartagena de Indias|
+293|	Guaviare|
+293|	San José De Guaviare|
+294|	Magdalena|
+294|	Santa Marta|
+295|	Amazonas|
+295|	Leticia|
+296|	Magdalena|
+296|	Santa Marta|
+297|	Magdalena|
+297|	Santa Marta|
+298|	Quindio|
+298|	Filandia|
+298|	Quimbaya|
+299|	Cundinamarca|
+299|	Ricaurte|
+300|	Magdalena|
+300|	Santa Marta|
+301|	Guaviare|
+301|	San José De Guaviare|
+302|	Bogotá|
+302|	Bogotá D.C.|
+303|	Bogotá|
+303|	Bogotá D.C.|
+304|	Quindio|
+304|	Armenia|
+304|	Salento|
+305|	Sucre|
+305|	Coveñas|
+306|	Huila|
+306|	Neiva|
+307|	Putumayo|
+307|	Mocoa|
+308|	Putumayo|
+308|	Mocoa|
+309|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+309|	San Andrés|
+312|	Quindio|
+312|	Buenavista|
+313|	Magdalena|
+313|	Santa Marta|
+314|	Magdalena|
+314|	Santa Marta|
+315|	Magdalena|
+315|	Santa Marta|
+315|	Aracataca|
+316|	Cundinamarca|
+316|	Granada|
+317|	Antioquía|
+317|	Medellín|
+317|	Guatape|
+318|	Antioquía|
+318|	Medellín|
+318|	Puerto Triunfo|
+319|	Magdalena|
+319|	Ciénaga|
+319|	Zona Bananera|
+319|	Santa Marta|
+319|	Aracataca|
+320|	Magdalena|
+320|	Ciénaga|
+320|	Santa Marta|
+321|	Magdalena|
+321|	Ciénaga|
+321|	Santa Marta|
+322|	Guaviare|
+322|	San José De Guaviare|
+323|	Guaviare|
+323|	San José De Guaviare|
+324|	Magdalena|
+324|	Ciénaga|
+324|	Santa Marta|
+325|	Putumayo|
+325|	Mocoa|
+325|	Villa Garzon|
+326|	Cundinamarca|
+326|	Ubate|
+327|	Antioquía|
+327|	Medellín|
+328|	Bolívar|
+328|	Cartagena de Indias|
+329|	Bolívar|
+329|	Cartagena de Indias|
+330|	Bolívar|
+330|	Cartagena de Indias|
+331|	Antioquía|
+331|	Medellín|
+332|	Antioquía|
+332|	Medellín|
+333|	Antioquía|
+333|	Medellín|
+334|	Bogotá|
+334|	Bogotá D.C.|
+334|	Cundinamarca|
+334|	Zipaquirá|
+335|	Meta|
+335|	Villavicencio|
+336|	Meta|
+336|	Villavicencio|
+337|	Meta|
+337|	Villavicencio|
+352|	Bogotá|
+352|	Bogotá D.C.|
+352|	Cundinamarca|
+352|	Zipaquirá|
+359|	Bogotá|
+359|	Bogotá D.C.|
+359|	Cundinamarca|
+359|	Guatavita|
+360|	Bogotá|
+360|	Bogotá D.C.|
+360|	Cundinamarca|
+360|	Nemocón|
+361|	Bogotá|
+361|	Bogotá D.C.|
+361|	Cundinamarca|
+361|	Choachí|
+362|	Bogotá|
+362|	Bogotá D.C.|
+362|	Cundinamarca|
+362|	Guasca|
+363|	Bogotá|
+363|	Bogotá D.C.|
+363|	Boyacá|
+363|	Ráquira|
+363|	Villa De Leyva|
+364|	Bogotá|
+364|	Bogotá D.C.|
+364|	Cundinamarca|
+364|	Fusagasugá|
+365|	Bolívar|
+365|	Cartagena de Indias|
+365|	Sucre|
+365|	Tolú Viejo|
+366|	Bolívar|
+366|	Cartagena de Indias|
+367|	Bolívar|
+367|	Cartagena de Indias|
+368|	Bolívar|
+368|	Cartagena de Indias|
+369|	Antioquía|
+369|	Medellín|
+369|	Guatape|
+370|	Bogotá|
+370|	Bogotá D.C.|
+371|	Bogotá|
+371|	Bogotá D.C.|
+372|	Bolívar|
+372|	Cartagena de Indias|
+373|	Antioquía|
+373|	Medellín|
+374|	Antioquía|
+374|	Medellín|
+375|	Antioquía|
+375|	Medellín|
+376|	Antioquía|
+376|	Medellín|
+377|	Antioquía|
+377|	Medellín|
+378|	Antioquía|
+378|	Medellín|
+379|	Antioquía|
+379|	Medellín|
+380|	Antioquía|
+380|	Jardín|
+381|	Valle Del Cauca|
+381|	Cali|
+382|	Magdalena|
+382|	Santa Marta|
+383|	Valle Del Cauca|
+383|	Buenaventura|
+383|	Cali|
+384|	Valle Del Cauca|
+384|	Buenaventura|
+384|	Cali|
+385|	Cauca|
+385|	Valle Del Cauca|
+385|	Cali|
+385|	Silvia|
+386|	Valle Del Cauca|
+386|	Cali|
+387|	Valle Del Cauca|
+387|	Cali|
+388|	Valle Del Cauca|
+388|	Cali|
+389|	Valle Del Cauca|
+389|	Cali|
+390|	Valle Del Cauca|
+390|	Cali|
+391|	Valle Del Cauca|
+391|	Cali|
+392|	Valle Del Cauca|
+392|	Cali|
+392|	Jamundí|
+393|	Valle Del Cauca|
+393|	Buenaventura|
+393|	Cali|
+394|	Valle Del Cauca|
+394|	Cali|
+394|	Calima|
+395|	Magdalena|
+395|	Santa Marta|
+396|	Magdalena|
+396|	Santa Marta|
+397|	Magdalena|
+397|	Santa Marta|
+398|	Magdalena|
+398|	Santa Marta|
+399|	Magdalena|
+399|	Santa Marta|
+400|	Valle Del Cauca|
+400|	Buenaventura|
+401|	Antioquía|
+401|	Bolívar|
+401|	Cartagena de Indias|
+401|	San Andrés|
+402|	Antioquía|
+402|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+402|	San Andrés|
+402|	Providencia Y Santa Catalina|
+403|	Antioquía|
+403|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+403|	San Andrés|
+403|	Providencia Y Santa Catalina|
+404|	Antioquía|
+404|	San Andrés|
+405|	Bolívar|
+405|	Cartagena de Indias|
+406|	Bolívar|
+406|	Cartagena de Indias|
+407|	Bolívar|
+407|	Cartagena de Indias|
+407|	Santa Catalina|
+408|	Bolívar|
+408|	Cartagena de Indias|
+408|	Mahates|
+409|	Bolívar|
+409|	Cartagena de Indias|
+409|	Turbaco|
+410|	Meta|
+410|	La Macarena|
+411|	Magdalena|
+411|	Santa Marta|
+417|	Bogotá|
+417|	Bogotá D.C.|
+418|	Bogotá|
+418|	Bogotá D.C.|
+419|	Cundinamarca|
+419|	Chía|
+420|	Bogotá|
+420|	Bogotá D.C.|
+421|	Bogotá|
+421|	Bogotá D.C.|
+422|	Bogotá|
+422|	Bogotá D.C.|
+423|	Bogotá|
+423|	Bogotá D.C.|
+424|	Bogotá|
+424|	Bogotá D.C.|
+425|	Bogotá|
+425|	Bogotá D.C.|
+426|	Bogotá|
+426|	Bogotá D.C.|
+427|	Bogotá|
+427|	Bogotá D.C.|
+427|	Cundinamarca|
+427|	Guatavita|
+428|	Bogotá|
+428|	Bogotá D.C.|
+429|	Bogotá|
+429|	Bogotá D.C.|
+430|	Bogotá|
+430|	Bogotá D.C.|
+431|	Bogotá|
+431|	Bogotá D.C.|
+432|	Bogotá|
+432|	Bogotá D.C.|
+433|	Bogotá|
+433|	Bogotá D.C.|
+434|	Bogotá|
+434|	Bogotá D.C.|
+435|	Boyacá|
+435|	Villa De Leyva|
+436|	Cundinamarca|
+436|	Zipaquirá|
+437|	Bogotá|
+437|	Bogotá D.C.|
+438|	Bogotá|
+438|	Bogotá D.C.|
+439|	Bogotá|
+439|	Bogotá D.C.|
+440|	Bogotá|
+440|	Bogotá D.C.|
+441|	Bogotá|
+441|	Bogotá D.C.|
+442|	Cundinamarca|
+442|	Zipaquirá|
+443|	Cundinamarca|
+443|	Zipaquirá|
+444|	Bogotá|
+444|	Bogotá D.C.|
+445|	Bogotá|
+445|	Bogotá D.C.|
+446|	Bogotá|
+446|	Bogotá D.C.|
+447|	Bogotá|
+447|	Bogotá D.C.|
+448|	Bogotá|
+448|	Bogotá D.C.|
+449|	Bolívar|
+449|	Cartagena de Indias|
+450|	Bogotá|
+450|	Bogotá D.C.|
+450|	Cundinamarca|
+450|	Zipaquirá|
+451|	Bolívar|
+451|	Cartagena de Indias|
+452|	Bolívar|
+452|	Cartagena de Indias|
+453|	Bolívar|
+453|	Cartagena de Indias|
+454|	Bogotá|
+454|	Bogotá D.C.|
+455|	Bolívar|
+455|	Cartagena de Indias|
+456|	Bolívar|
+456|	Cartagena de Indias|
+457|	Bogotá|
+457|	Bogotá D.C.|
+458|	Bolívar|
+458|	Cartagena de Indias|
+459|	Bolívar|
+459|	Cartagena de Indias|
+460|	Antioquía|
+460|	Medellín|
+461|	Bolívar|
+461|	Cartagena de Indias|
+462|	Antioquía|
+462|	Medellín|
+463|	Bolívar|
+463|	Cartagena de Indias|
+464|	Bolívar|
+464|	Cartagena de Indias|
+465|	Antioquía|
+465|	Medellín|
+466|	Antioquía|
+466|	Medellín|
+467|	Antioquía|
+467|	Medellín|
+468|	Antioquía|
+468|	Medellín|
+469|	Antioquía|
+469|	Medellín|
+469|	Santa Fe De Antioquía|
+470|	Antioquía|
+470|	Medellín|
+471|	Antioquía|
+471|	Medellín|
+471|	Caldas|
+471|	Manizales|
+472|	Bolívar|
+472|	Cartagena de Indias|
+473|	Bolívar|
+473|	Cartagena de Indias|
+474|	Atlántico|
+474|	Barranquilla|
+474|	Bolívar|
+474|	Cartagena de Indias|
+475|	Antioquía|
+475|	Medellín|
+476|	Bogotá|
+476|	Bogotá D.C.|
+477|	Bogotá|
+477|	Bogotá D.C.|
+478|	Antioquía|
+478|	Medellín|
+479|	Bogotá|
+479|	Bogotá D.C.|
+480|	Bogotá|
+480|	Bogotá D.C.|
+480|	Cundinamarca|
+480|	Guatavita|
+481|	Bogotá|
+481|	Bogotá D.C.|
+482|	Cundinamarca|
+482|	Nemocón|
+483|	Bogotá|
+483|	Bogotá D.C.|
+484|	Bogotá|
+484|	Bogotá D.C.|
+485|	Bogotá|
+485|	Bogotá D.C.|
+485|	Cundinamarca|
+485|	Zipaquirá|
+486|	Bolívar|
+486|	Cartagena de Indias|
+487|	Antioquía|
+487|	Medellín|
+488|	Bogotá|
+488|	Bogotá D.C.|
+489|	Antioquía|
+489|	Medellín|
+490|	Antioquía|
+490|	Medellín|
+490|	Guatape|
+491|	Antioquía|
+491|	Medellín|
+492|	Antioquía|
+492|	Medellín|
+493|	Antioquía|
+493|	Medellín|
+493|	Jardín|
+494|	Bolívar|
+494|	Cartagena de Indias|
+495|	Bogotá|
+495|	Bogotá D.C.|
+496|	Bolívar|
+496|	Cartagena de Indias|
+497|	Bolívar|
+497|	Cartagena de Indias|
+498|	Bolívar|
+498|	Cartagena de Indias|
+499|	Bolívar|
+499|	Cartagena de Indias|
+500|	Bolívar|
+500|	Cartagena de Indias|
+501|	Magdalena|
+501|	Santa Marta|
+502|	Magdalena|
+502|	Santa Marta|
+503|	Magdalena|
+503|	Santa Marta|
+504|	Magdalena|
+504|	Santa Marta|
+505|	Magdalena|
+505|	Santa Marta|
+506|	Magdalena|
+506|	Santa Marta|
+507|	Magdalena|
+507|	Santa Marta|
+508|	Magdalena|
+508|	Santa Marta|
+509|	Magdalena|
+509|	Santa Marta|
+510|	Bogotá|
+510|	Bogotá D.C.|
+511|	Bogotá|
+511|	Bogotá D.C.|
+512|	Bolívar|
+512|	Cartagena de Indias|
+513|	Bolívar|
+513|	Cartagena de Indias|
+514|	Bolívar|
+514|	Cartagena de Indias|
+515|	Bolívar|
+515|	Cartagena de Indias|
+516|	Antioquía|
+516|	Medellín|
+517|	Antioquía|
+517|	Envigado|
+517|	Medellín|
+518|	Antioquía|
+518|	Medellín|
+519|	Antioquía|
+519|	Medellín|
+520|	Antioquía|
+520|	Medellín|
+521|	Antioquía|
+521|	Medellín|
+522|	Bogotá|
+522|	Bogotá D.C.|
+523|	Bogotá|
+523|	Bogotá D.C.|
+524|	Bogotá|
+524|	Bogotá D.C.|
+525|	Bogotá|
+525|	Bogotá D.C.|
+526|	Quindio|
+526|	Risaralda|
+526|	Pereira|
+526|	Santa Rosa De Cabal|
+526|	Salento|
+527|	Quindio|
+527|	Salento|
+528|	Caldas|
+528|	Manizales|
+529|	Quindio|
+529|	Risaralda|
+529|	Pereira|
+529|	Salento|
+530|	Bolívar|
+530|	Cartagena de Indias|
+531|	Antioquía|
+531|	Medellín|
+532|	Quindio|
+532|	Salento|
+533|	Quindio|
+533|	Salento|
+534|	Caldas|
+534|	Manizales|
+535|	Quindio|
+535|	Salento|
+536|	Risaralda|
+536|	Pereira|
+537|	Magdalena|
+537|	Santa Marta|
+538|	Bogotá|
+538|	Bogotá D.C.|
+539|	Quindio|
+539|	Salento|
+540|	Quindio|
+540|	Salento|
+541|	Bogotá|
+541|	Bogotá D.C.|
+542|	Magdalena|
+542|	Santa Marta|
+543|	Bogotá|
+543|	Bogotá D.C.|
+544|	Bogotá|
+544|	Bogotá D.C.|
+545|	Bogotá|
+545|	Bogotá D.C.|
+546|	Bogotá|
+546|	Bogotá D.C.|
+546|	Cundinamarca|
+546|	San Francisco|
+547|	Bogotá|
+547|	Bogotá D.C.|
+548|	Bogotá|
+548|	Bogotá D.C.|
+549|	Magdalena|
+549|	Santa Marta|
+550|	Magdalena|
+550|	Santa Marta|
+551|	Nariño|
+551|	San Juan De Pasto|
+552|	Magdalena|
+552|	Santa Marta|
+553|	Magdalena|
+553|	Santa Marta|
+554|	Magdalena|
+554|	Santa Marta|
+555|	Magdalena|
+555|	Santa Marta|
+556|	Santander|
+556|	Bucaramanga|
+556|	Floridablanca|
+556|	Girón|
+557|	Caldas|
+557|	Manizales|
+558|	Quindio|
+558|	Armenia|
+559|	Antioquía|
+559|	Medellín|
+559|	Guatape|
+560|	Antioquía|
+560|	Medellín|
+560|	Guatape|
+560|	Peñol|
+561|	Antioquía|
+561|	Envigado|
+561|	Itagüi|
+561|	Medellín|
+561|	Sabaneta|
+562|	Bolívar|
+562|	Cartagena de Indias|
+563|	Cundinamarca|
+563|	Chía|
+563|	Zipaquirá|
+564|	Cundinamarca|
+564|	Choachí|
+565|	Boyacá|
+565|	Villa De Leyva|
+566|	Bogotá|
+566|	Bogotá D.C.|
+566|	Cundinamarca|
+566|	Fusagasugá|
+566|	San Antonio De Tequendama|
+567|	Bolívar|
+567|	Cartagena de Indias|
+568|	Bolívar|
+568|	Cartagena de Indias|
+569|	Bolívar|
+569|	Cartagena de Indias|
+570|	Bogotá|
+570|	Bogotá D.C.|
+571|	Bogotá|
+571|	Bogotá D.C.|
+572|	Bogotá|
+572|	Bogotá D.C.|
+573|	Bogotá|
+573|	Bogotá D.C.|
+574|	Bogotá|
+574|	Bogotá D.C.|
+575|	Bogotá|
+575|	Bogotá D.C.|
+576|	Bogotá|
+576|	Bogotá D.C.|
+577|	Bogotá|
+577|	Bogotá D.C.|
+578|	Bogotá|
+578|	Bogotá D.C.|
+579|	Bogotá|
+579|	Bogotá D.C.|
+580|	Bogotá|
+580|	Bogotá D.C.|
+581|	Bogotá|
+581|	Bogotá D.C.|
+582|	Bogotá|
+582|	Bogotá D.C.|
+583|	Bogotá|
+583|	Bogotá D.C.|
+584|	Bogotá|
+584|	Bogotá D.C.|
+585|	Bogotá|
+585|	Bogotá D.C.|
+586|	Bogotá|
+586|	Bogotá D.C.|
+587|	Bogotá|
+587|	Bogotá D.C.|
+588|	Bogotá|
+588|	Bogotá D.C.|
+589|	Bogotá|
+589|	Bogotá D.C.|
+590|	Valle Del Cauca|
+590|	Cali|
+591|	Valle Del Cauca|
+591|	Cali|
+592|	Valle Del Cauca|
+592|	Cali|
+593|	Valle Del Cauca|
+593|	Cali|
+594|	Valle Del Cauca|
+594|	Cali|
+595|	Valle Del Cauca|
+595|	Cali|
+596|	Valle Del Cauca|
+596|	Cali|
+597|	Valle Del Cauca|
+597|	Cali|
+598|	Valle Del Cauca|
+598|	Cali|
+599|	Valle Del Cauca|
+599|	Cali|
+600|	Valle Del Cauca|
+600|	Cali|
+601|	Valle Del Cauca|
+601|	Cali|
+602|	Antioquía|
+602|	Medellín|
+603|	Antioquía|
+603|	Medellín|
+604|	Antioquía|
+604|	Medellín|
+605|	Antioquía|
+605|	Medellín|
+606|	Antioquía|
+606|	Medellín|
+607|	Antioquía|
+607|	Medellín|
+622|	Valle Del Cauca|
+622|	Cali|
+623|	Bolívar|
+623|	Cartagena de Indias|
+624|	Bolívar|
+624|	Cartagena de Indias|
+625|	Bolívar|
+625|	Cartagena de Indias|
+626|	Bolívar|
+626|	Cartagena de Indias|
+627|	Bolívar|
+627|	Cartagena de Indias|
+628|	Bolívar|
+628|	Cartagena de Indias|
+629|	Bolívar|
+629|	Cartagena de Indias|
+630|	Bolívar|
+630|	Cartagena de Indias|
+631|	Bolívar|
+631|	Cartagena de Indias|
+632|	Bolívar|
+632|	Cartagena de Indias|
+633|	Bolívar|
+633|	Cartagena de Indias|
+634|	Antioquía|
+634|	Medellín|
+635|	Bolívar|
+635|	Cartagena de Indias|
+636|	Amazonas|
+636|	Leticia|
+637|	Bolívar|
+637|	Cartagena de Indias|
+638|	Bolívar|
+638|	Cartagena de Indias|
+639|	Bogotá|
+639|	Bogotá D.C.|
+639|	Cundinamarca|
+639|	Tena |
+640|	Bogotá|
+640|	Bogotá D.C.|
+640|	Cundinamarca|
+640|	Sesquilé|
+641|	Bogotá|
+641|	Bogotá D.C.|
+641|	Cundinamarca|
+641|	Sutatausa|
+642|	Boyacá|
+642|	Gachantiva|
+643|	Valle Del Cauca|
+643|	Cali|
+644|	Amazonas|
+644|	Leticia|
+645|	Nariño|
+645|	Ipiales|
+645|	Pasto|
+646|	Cundinamarca|
+646|	Suesca|
+647|	Meta|
+647|	La Uribe|
+648|	Valle Del Cauca|
+648|	Cali|
+649|	Santander|
+649|	Aratoca|
+649|	Los Santos|
+650|	Bogotá|
+650|	Bogotá D.C.|
+651|	Meta|
+651|	La Macarena|
+652|	Quindio|
+652|	Armenia|
+653|	Amazonas|
+653|	Leticia|
+654|	Valle Del Cauca|
+654|	Cali|
+655|	Amazonas|
+655|	Leticia|
+656|	Amazonas|
+656|	Leticia|
+657|	Boyacá|
+657|	Villa De Leyva|
+658|	Putumayo|
+658|	Mocoa|
+659|	Putumayo|
+659|	Mocoa|
+659|	Villa Garzon|
+660|	Putumayo|
+660|	Mocoa|
+661|	Bolívar|
+661|	Cartagena de Indias|
+662|	Bogotá|
+662|	Bogotá D.C.|
+663|	Bogotá|
+663|	Bogotá D.C.|
+664|	Caldas|
+664|	Villamaria|
+664|	Risaralda|
+664|	Dosquebradas|
+664|	Pereira|
+664|	Santa Rosa De Cabal|
+665|	Bogotá|
+665|	Bogotá D.C.|
+666|	Bogotá|
+666|	Bogotá D.C.|
+667|	Magdalena|
+667|	Santa Marta|
+668|	Bogotá|
+668|	Bogotá D.C.|
+669|	Caldas|
+669|	Manizales|
+669|	Villamaria|
+669|	Risaralda|
+669|	Pereira|
+670|	Caldas|
+670|	Manizales|
+670|	Villamaria|
+671|	Bolívar|
+671|	Cartagena de Indias|
+672|	Quindio|
+672|	Armenia|
+673|	Quindio|
+673|	Risaralda|
+673|	Pereira|
+673|	Quimbaya|
+674|	Bolívar|
+674|	Cartagena de Indias|
+675|	Bolívar|
+675|	Cartagena de Indias|
+676|	Amazonas|
+676|	Leticia|
+677|	Amazonas|
+677|	Leticia|
+678|	Magdalena|
+678|	Santa Marta|
+679|	Bolívar|
+679|	Cartagena de Indias|
+680|	Caldas|
+680|	Villamaria|
+680|	Risaralda|
+680|	Pereira|
+680|	Santa Rosa De Cabal|
+681|	Guaviare|
+681|	San José De Guaviare|
+681|	Meta|
+681|	La Macarena|
+682|	Bolívar|
+682|	Cartagena de Indias|
+683|	Bolívar|
+683|	Cartagena de Indias|
+684|	Bolívar|
+684|	Cartagena de Indias|
+685|	Bolívar|
+685|	Cartagena de Indias|
+686|	Valle Del Cauca|
+686|	Cali|
+686|	Ginebra|
+687|	Valle Del Cauca|
+687|	Cali|
+688|	Risaralda|
+688|	Santa Rosa De Cabal|
+689|	Bolívar|
+689|	Cartagena de Indias|
+690|	Bogotá|
+690|	Bogotá D.C.|
+691|	Antioquía|
+691|	Medellín|
+692|	Bolívar|
+692|	Cartagena de Indias|
+693|	Bolívar|
+693|	Cartagena de Indias|
+694|	Huila|
+694|	Neiva|
+695|	Huila|
+695|	San Agustín|
+696|	Bogotá|
+696|	Bogotá D.C.|
+696|	Cundinamarca|
+696|	La Calera|
+697|	Bogotá|
+697|	Bogotá D.C.|
+697|	Cundinamarca|
+697|	Silvania|
+698|	Bogotá|
+698|	Bogotá D.C.|
+698|	Cundinamarca|
+698|	Choachí|
+699|	Bogotá|
+699|	Bogotá D.C.|
+700|	Bogotá|
+700|	Bogotá D.C.|
+700|	Cundinamarca|
+700|	La Calera|
+701|	Huila|
+701|	Neiva|
+701|	Villavieja|
+702|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+702|	San Andrés|
+703|	Bogotá|
+703|	Bogotá D.C.|
+703|	Cundinamarca|
+703|	Caqueza|
+703|	Ubaque|
+704|	Cauca|
+704|	Inza|
+705|	Caldas|
+705|	Villamaria|
+706|	Risaralda|
+706|	Pereira|
+707|	Risaralda|
+707|	Pereira|
+708|	Bolívar|
+708|	Cartagena de Indias|
+708|	Magdalena|
+708|	Santa Marta|
+709|	Cauca|
+709|	Huila|
+709|	Neiva|
+709|	Pitalito|
+709|	Inza|
+709|	Villavieja|
+709|	Isnos|
+709|	San Agustín|
+710|	Cauca|
+710|	Cundinamarca|
+710|	Facatativá|
+710|	Mosquera|
+710|	La Vega|
+710|	Villeta|
+710|	Bojacá|
+710|	El Rosal|
+710|	Subachoque|
+711|	Valle Del Cauca|
+711|	Cali|
+712|	Valle Del Cauca|
+712|	Cali|
+713|	Valle Del Cauca|
+713|	Buga|
+714|	Bogotá|
+714|	Bogotá D.C.|
+715|	Valle Del Cauca|
+715|	Cali|
+715|	Buga|
+715|	Ginebra|
+716|	Magdalena|
+716|	Santa Marta|
+717|	Antioquía|
+717|	Medellín|
+718|	Bogotá|
+718|	Bogotá D.C.|
+719|	Bogotá|
+719|	Bogotá D.C.|
+720|	Cundinamarca|
+720|	Suesca|
+721|	Bogotá|
+721|	Bogotá D.C.|
+722|	Bogotá|
+722|	Bogotá D.C.|
+723|	Antioquía|
+723|	Guatape|
+723|	Peñol|
+724|	Valle Del Cauca|
+724|	Cali|
+725|	Valle Del Cauca|
+725|	Cali|
+726|	Bolívar|
+726|	Cartagena de Indias|
+727|	Bolívar|
+727|	Cartagena de Indias|
+728|	Bolívar|
+728|	Cartagena de Indias|
+729|	Bogotá|
+729|	Bogotá D.C.|
+730|	Magdalena|
+730|	Santa Marta|
+731|	Antioquía|
+731|	Medellín|
+731|	Santa Fe De Antioquía|
+732|	Valle Del Cauca|
+732|	Cali|
+733|	Valle Del Cauca|
+733|	Cali|
+734|	Bogotá|
+734|	Bogotá D.C.|
+734|	Meta|
+734|	Villavicencio|
+734|	Quindio|
+734|	Salento|
+734|	Parque Nacional Natural Chingaza|
+735|	Magdalena|
+735|	Santa Marta|
+736|	Meta|
+736|	La Uribe|
+737|	Bolívar|
+737|	Cartagena de Indias|
+738|	Antioquía|
+738|	Medellín|
+739|	Bolívar|
+739|	Cartagena de Indias|
+740|	Magdalena|
+740|	Santa Marta|
+741|	Magdalena|
+741|	Santa Marta|
+742|	Antioquía|
+742|	San Jerónimo|
+742|	Santa Fe De Antioquía|
+743|	Magdalena|
+743|	Santa Marta|
+744|	Magdalena|
+744|	Santa Marta|
+745|	Bolívar|
+745|	Cartagena de Indias|
+746|	Bolívar|
+746|	Cartagena de Indias|
+747|	Bolívar|
+747|	Cartagena de Indias|
+748|	Bolívar|
+748|	Cartagena de Indias|
+749|	Bolívar|
+749|	Cartagena de Indias|
+750|	Bolívar|
+750|	Cartagena de Indias|
+752|	Bolívar|
+752|	Cartagena de Indias|
+753|	Cundinamarca|
+753|	Fusagasugá|
+754|	Antioquía|
+754|	Guatape|
+754|	Medellín|
+754|	Piedra del Peñol|
+755|	Huila|
+755|	Villavieja|
+756|	Bolívar|
+756|	Cartagena de Indias|
+757|	Antioquía|
+757|	Medellín|
+758|	Magdalena|
+758|	Aracataca|
+759|	Bolívar|
+759|	Cartagena de Indias|
+760|	Cundinamarca|
+760|	Zipaquirá|
+761|	Boyacá|
+761|	Santa Sofía|
+761|	Villa De Leyva|
+762|	Boyacá|
+762|	Güicán|
+762|	El Cocuy|
+762|	Parque Nacional Sierra Nevada El Cocuy|
+763|	Antioquía|
+763|	Guatape|
+764|	Antioquía|
+764|	La Pintada|
+765|	Bolívar|
+765|	Cartagena de Indias|
+766|	Bolívar|
+766|	Cartagena de Indias|
+767|	Bolívar|
+767|	Cartagena de Indias|
+768|	Bolívar|
+768|	Cartagena de Indias|
+769|	Bolívar|
+769|	Cartagena de Indias|
+770|	Bolívar|
+770|	Cartagena de Indias|
+771|	Bolívar|
+771|	Cartagena de Indias|
+772|	Bolívar|
+772|	Cartagena de Indias|
+773|	Bolívar|
+773|	Cartagena de Indias|
+774|	Bolívar|
+774|	Cartagena de Indias|
+775|	Antioquía|
+775|	Medellín|
+775|	Bogotá|
+775|	Bogotá D.C.|
+775|	Casanare|
+775|	Yopal|
+776|	Magdalena|
+776|	Santa Marta|
+777|	Santander|
+777|	Suaita|
+778|	Bolívar|
+778|	Cartagena de Indias|
+779|	Cundinamarca|
+779|	Zipaquirá|
+780|	Antioquía|
+780|	Medellín|
+781|	Antioquía|
+781|	Medellín|
+782|	Bolívar|
+782|	Cartagena de Indias|
+783|	Bolívar|
+783|	Cartagena de Indias|
+784|	Huila|
+784|	Paicol|
+785|	Valle Del Cauca|
+785|	Cali|
+786|	Atlántico|
+786|	Barranquilla|
+787|	Atlántico|
+787|	Barranquilla|
+788|	Atlántico|
+788|	Barranquilla|
+789|	Magdalena|
+789|	Santa Marta|
+790|	Risaralda|
+790|	Santa Rosa De Cabal|
+791|	Magdalena|
+791|	Santa Marta|
+792|	Magdalena|
+792|	Santa Marta|
+793|	Magdalena|
+793|	Aracataca|
+793|	Ciénaga|
+793|	Santa Marta|
+794|	Antioquía|
+794|	Marinilla|
+794|	Guatape|
+794|	Peñol|
+795|	Bogotá|
+795|	Bogotá D.C.|
+796|	Bogotá|
+796|	Bogotá D.C.|
+797|	Bolívar|
+797|	Cartagena de Indias|
+798|	Bolívar|
+798|	Cartagena de Indias|
+799|	Bolívar|
+799|	Cartagena de Indias|
+800|	Antioquía|
+800|	Envigado|
+800|	Medellín|
+800|	Sabaneta|
+801|	Antioquía|
+801|	Marinilla|
+801|	Guatape|
+801|	Peñol|
+802|	Antioquía|
+802|	Medellín|
+803|	Antioquía|
+803|	Medellín|
+804|	Bogotá|
+804|	Bogotá D.C.|
+805|	Boyacá|
+805|	Villa De Leyva|
+806|	Bogotá|
+806|	Bogotá D.C.|
+807|	Risaralda|
+807|	Dosquebradas|
+807|	Pereira|
+808|	Atlántico|
+808|	Barranquilla|
+809|	Bolívar|
+809|	Cartagena de Indias|
+810|	Magdalena|
+810|	Santa Marta|
+811|	Bolívar|
+811|	Cartagena de Indias|
+812|	Cundinamarca|
+812|	Suesca|
+813|	Cundinamarca|
+813|	Suesca|
+814|	Bogotá|
+814|	Bogotá D.C.|
+815|	Bolívar|
+815|	Cartagena de Indias|
+815|	San Juan Nepomuceno|
+816|	Bolívar|
+816|	Cartagena de Indias|
+816|	San Jacinto|
+817|	Magdalena|
+817|	Santa Marta|
+818|	Cundinamarca|
+818|	Subachoque|
+819|	Magdalena|
+819|	Santa Marta|
+820|	Magdalena|
+820|	Santa Marta|
+821|	Magdalena|
+821|	Santa Marta|
+822|	Magdalena|
+822|	Santa Marta|
+823|	Magdalena|
+823|	Santa Marta|
+824|	Magdalena|
+824|	Santa Marta|
+825|	Bogotá|
+825|	Bogotá D.C.|
+826|	Bolívar|
+826|	Cartagena de Indias|
+826|	Córdoba|
+826|	Lorica|
+827|	Bolívar|
+827|	Cartagena de Indias|
+828|	Magdalena|
+828|	Ciénaga|
+829|	Magdalena|
+829|	Ciénaga|
+829|	Santa Marta|
+830|	Bolívar|
+830|	Cartagena de Indias|
+831|	Bolívar|
+831|	Cartagena de Indias|
+832|	Magdalena|
+832|	Ciénaga|
+832|	Santa Marta|
+833|	Magdalena|
+833|	Ciénaga|
+834|	Magdalena|
+834|	Ciénaga|
+834|	Santa Marta|
+835|	Bolívar|
+835|	Cartagena de Indias|
+836|	Bolívar|
+836|	Cartagena de Indias|
+837|	Bolívar|
+837|	Cartagena de Indias|
+838|	Bolívar|
+838|	Cartagena de Indias|
+839|	Bolívar|
+839|	Cartagena de Indias|
+840|	Magdalena|
+840|	Santa Marta|
+840|	Aracataca|
+841|	Atlántico|
+841|	Barranquilla|
+842|	Atlántico|
+842|	Barranquilla|
+843|	Atlántico|
+843|	Barranquilla|
+844|	Atlántico|
+844|	Barranquilla|
+844|	Magdalena|
+844|	Aracataca|
+845|	Atlántico|
+845|	Barranquilla|
+846|	Nariño|
+846|	Pasto|
+847|	Bolívar|
+847|	Cartagena de Indias|
+848|	Bogotá|
+848|	Bogotá D.C.|
+848|	Cundinamarca|
+848|	Nemocón|
+849|	Sucre|
+849|	Coveñas|
+850|	Bolívar|
+850|	Cartagena de Indias|
+851|	Bolívar|
+851|	Cartagena de Indias|
+851|	San Jacinto|
+852|	Bolívar|
+852|	Cartagena de Indias|
+853|	Bolívar|
+853|	Cartagena de Indias|
+854|	Antioquía|
+854|	Salgar|
+855|	Bolívar|
+855|	Cartagena de Indias|
+856|	Bolívar|
+856|	Cartagena de Indias|
+857|	Magdalena|
+857|	Ciénaga|
+857|	Santa Marta|
+858|	Antioquía|
+858|	Medellín|
+859|	Antioquía|
+859|	Medellín|
+860|	Antioquía|
+860|	Medellín|
+861|	Antioquía|
+861|	Medellín|
+862|	Bolívar|
+862|	Cartagena de Indias|
+863|	Bolívar|
+863|	Cartagena de Indias|
+864|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+864|	San Andrés|
+865|	Antioquía|
+865|	Medellín|
+866|	Antioquía|
+866|	Caldas|
+866|	Medellín|
+867|	Bogotá|
+867|	Bogotá D.C.|
+868|	Antioquía|
+868|	Caldas|
+868|	Medellín|
+869|	Antioquía|
+869|	Envigado|
+869|	Medellín|
+870|	Antioquía|
+870|	Medellín|
+871|	Antioquía|
+871|	Medellín|
+872|	Boyacá|
+872|	El Cocuy|
+872|	Güicán|
+873|	Boyacá|
+873|	Samacá|
+874|	Tolima|
+874|	Flandes|
+875|	Bolívar|
+875|	Cartagena de Indias|
+876|	Bolívar|
+876|	Cartagena de Indias|
+877|	Bolívar|
+877|	Cartagena de Indias|
+878|	Bolívar|
+878|	Cartagena de Indias|
+879|	Valle Del Cauca|
+879|	Buenaventura|
+880|	Cundinamarca|
+880|	La Vega|
+880|	Nimaima|
+880|	Villeta|
+881|	Antioquía|
+881|	Salgar|
+882|	Magdalena|
+882|	Santa Marta|
+883|	Cundinamarca|
+883|	Sopó|
+884|	Cundinamarca|
+884|	Sopó|
+885|	Cundinamarca|
+885|	Suesca|
+886|	Cundinamarca|
+886|	La Vega|
+886|	Nimaima|
+886|	Villeta|
+887|	Huila|
+887|	Tolima|
+887|	Villavieja|
+887|	Natagaima|
+888|	Bolívar|
+888|	Cartagena de Indias|
+889|	Bogotá|
+889|	Bogotá D.C.|
+890|	Bogotá|
+890|	Bogotá D.C.|
+891|	Antioquía|
+891|	Medellín|
+892|	Bogotá|
+892|	Bogotá D.C.|
+892|	Cundinamarca|
+892|	Fusagasugá|
+893|	Bogotá|
+893|	Bogotá D.C.|
+893|	Cundinamarca|
+893|	Fusagasugá|
+894|	Bogotá|
+894|	Bogotá D.C.|
+895|	Bogotá|
+895|	Bogotá D.C.|
+896|	Bogotá|
+896|	Bogotá D.C.|
+897|	Antioquía|
+897|	Medellín|
+897|	Belmira|
+898|	Bolívar|
+898|	Cartagena de Indias|
+899|	Antioquía|
+899|	Medellín|
+900|	Bogotá|
+900|	Bogotá D.C.|
+900|	Cundinamarca|
+900|	Zipaquirá|
+901|	Bogotá|
+901|	Bogotá D.C.|
+901|	Cundinamarca|
+901|	La Calera|
+902|	Antioquía|
+902|	Medellín|
+903|	Bolívar|
+903|	Cartagena de Indias|
+904|	Bolívar|
+904|	Cartagena de Indias|
+905|	Antioquía|
+905|	Andes|
+905|	Hispania|
+905|	Jardín|
+906|	Bogotá|
+906|	Bogotá D.C.|
+907|	Bolívar|
+907|	Cartagena de Indias|
+907|	Mahates|
+908|	Bolívar|
+908|	Cartagena de Indias|
+909|	Quindio|
+909|	Salento|
+910|	Bolívar|
+910|	Cartagena de Indias|
+911|	Bogotá|
+911|	Bogotá D.C.|
+911|	Cundinamarca|
+911|	Zipaquirá|
+912|	Bogotá|
+912|	Bogotá D.C.|
+912|	Cundinamarca|
+912|	Zipaquirá|
+912|	Nemocón|
+913|	Bogotá|
+913|	Bogotá D.C.|
+914|	Bogotá|
+914|	Bogotá D.C.|
+914|	Cundinamarca|
+914|	Guatavita|
+915|	Bogotá|
+915|	Bogotá D.C.|
+915|	Cundinamarca|
+915|	Chía|
+915|	Nemocón|
+916|	Bogotá|
+916|	Bogotá D.C.|
+916|	Cundinamarca|
+916|	Zipaquirá|
+917|	Cundinamarca|
+917|	Zipaquirá|
+917|	Tocancipá|
+918|	Bogotá|
+918|	Bogotá D.C.|
+918|	Cundinamarca|
+918|	Guatavita|
+918|	Nemocón|
+919|	Bogotá|
+919|	Bogotá D.C.|
+919|	Cundinamarca|
+919|	La Calera|
+920|	Bogotá|
+920|	Bogotá D.C.|
+920|	Cundinamarca|
+920|	Fusagasugá|
+921|	Bogotá|
+921|	Bogotá D.C.|
+921|	Cundinamarca|
+921|	Guatavita|
+921|	Nemocón|
+922|	Bogotá|
+922|	Bogotá D.C.|
+923|	Bogotá|
+923|	Bogotá D.C.|
+923|	Boyacá|
+923|	Cundinamarca|
+923|	Zipaquirá|
+923|	Villa De Leyva|
+924|	Bogotá|
+924|	Bogotá D.C.|
+924|	Boyacá|
+924|	Villa De Leyva|
+925|	Bogotá|
+925|	Bogotá D.C.|
+926|	Bogotá|
+926|	Bogotá D.C.|
+926|	Cundinamarca|
+926|	Chía|
+927|	Bolívar|
+927|	Cartagena de Indias|
+928|	Antioquía|
+928|	Medellín|
+929|	Antioquía|
+929|	Medellín|
+930|	Antioquía|
+930|	Medellín|
+931|	Bogotá|
+931|	Bogotá D.C.|
+932|	Antioquía|
+932|	Medellín|
+933|	Antioquía|
+933|	Medellín|
+934|	Antioquía|
+934|	Medellín|
+935|	Antioquía|
+935|	Medellín|
+936|	Antioquía|
+936|	Medellín|
+937|	Antioquía|
+937|	Medellín|
+938|	Antioquía|
+938|	Medellín|
+939|	Antioquía|
+939|	Medellín|
+940|	Antioquía|
+940|	Medellín|
+941|	Antioquía|
+941|	Medellín|
+942|	Bolívar|
+942|	Cartagena de Indias|
+943|	Antioquía|
+943|	Medellín|
+944|	Santander|
+944|	San Andrés|
+945|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+945|	San Andrés|
+946|	Antioquía|
+946|	Medellín|
+947|	Antioquía|
+947|	Medellín|
+948|	Antioquía|
+948|	Medellín|
+949|	Antioquía|
+949|	Medellín|
+950|	Antioquía|
+950|	Medellín|
+951|	Antioquía|
+951|	Medellín|
+952|	Antioquía|
+952|	Medellín|
+953|	Antioquía|
+953|	Caldas|
+953|	Medellín|
+954|	Antioquía|
+954|	Medellín|
+955|	Bolívar|
+955|	Cartagena de Indias|
+956|	Bolívar|
+956|	Cartagena de Indias|
+957|	Amazonas|
+957|	Puerto Nariño|
+958|	Bolívar|
+958|	Cartagena de Indias|
+959|	Meta|
+959|	Villavicencio|
+960|	Bolívar|
+960|	Cartagena de Indias|
+961|	Bogotá|
+961|	Bogotá D.C.|
+962|	Antioquía|
+962|	Salgar|
+963|	Magdalena|
+963|	Santa Marta|
+964|	Bolívar|
+964|	Cartagena de Indias|
+965|	Quindio|
+965|	Salento|
+966|	Huila|
+966|	Neiva|
+967|	Bolívar|
+967|	Cartagena de Indias|
+967|	Magdalena|
+967|	Santa Marta|
+968|	Amazonas|
+968|	Puerto Nariño|
+969|	Antioquía|
+969|	Medellín|
+970|	Antioquía|
+970|	Medellín|
+971|	Antioquía|
+971|	Medellín|
+972|	Antioquía|
+972|	Medellín|
+973|	Antioquía|
+973|	Medellín|
+974|	Quindio|
+974|	La Tebaida|
+975|	Antioquía|
+975|	Medellín|
+976|	Bolívar|
+976|	Cartagena de Indias|
+977|	Antioquía|
+977|	Medellín|
+978|	Antioquía|
+978|	Medellín|
+979|	Antioquía|
+979|	Medellín|
+980|	Antioquía|
+980|	Medellín|
+981|	Antioquía|
+981|	Medellín|
+982|	Antioquía|
+982|	Medellín|
+983|	Antioquía|
+983|	Medellín|
+984|	Antioquía|
+984|	Medellín|
+985|	Antioquía|
+985|	Medellín|
+986|	Antioquía|
+986|	Medellín|
+987|	Antioquía|
+987|	Medellín|
+988|	Antioquía|
+988|	Medellín|
+989|	Antioquía|
+989|	Medellín|
+990|	Antioquía|
+990|	Medellín|
+991|	Antioquía|
+991|	Medellín|
+992|	Antioquía|
+992|	Medellín|
+993|	Antioquía|
+993|	Medellín|
+994|	Antioquía|
+994|	Medellín|
+995|	Antioquía|
+995|	Medellín|
+996|	Antioquía|
+996|	Medellín|
+997|	Antioquía|
+997|	Medellín|
+998|	Antioquía|
+998|	Medellín|
+999|	Antioquía|
+999|	Medellín|
+1000|	Antioquía|
+1000|	Medellín|
+1001|	Antioquía|
+1001|	Medellín|
+1002|	Antioquía|
+1002|	Medellín|
+1003|	Antioquía|
+1003|	Medellín|
+1004|	Antioquía|
+1004|	Medellín|
+1005|	Quindio|
+1005|	Calarca|
+1006|	Antioquía|
+1006|	Medellín|
+1007|	Antioquía|
+1007|	Medellín|
+1008|	Antioquía|
+1008|	Medellín|
+1009|	Bogotá|
+1009|	Bogotá D.C.|
+1010|	Bogotá|
+1010|	Bogotá D.C.|
+1011|	Bogotá|
+1011|	Bogotá D.C.|
+1012|	Bogotá|
+1012|	Bogotá D.C.|
+1013|	Bogotá|
+1013|	Bogotá D.C.|
+1014|	Bogotá|
+1014|	Bogotá D.C.|
+1015|	Bogotá|
+1015|	Bogotá D.C.|
+1016|	Bogotá|
+1016|	Bogotá D.C.|
+1017|	Bogotá|
+1017|	Bogotá D.C.|
+1018|	Bogotá|
+1018|	Bogotá D.C.|
+1019|	Bogotá|
+1019|	Bogotá D.C.|
+1020|	Bogotá|
+1020|	Bogotá D.C.|
+1021|	Bogotá|
+1021|	Bogotá D.C.|
+1022|	Bogotá|
+1022|	Bogotá D.C.|
+1023|	Bogotá|
+1023|	Bogotá D.C.|
+1024|	Bogotá|
+1024|	Bogotá D.C.|
+1025|	Bogotá|
+1025|	Bogotá D.C.|
+1026|	Bogotá|
+1026|	Bogotá D.C.|
+1027|	Bogotá|
+1027|	Bogotá D.C.|
+1028|	Bogotá|
+1028|	Bogotá D.C.|
+1029|	Bogotá|
+1029|	Bogotá D.C.|
+1030|	Bolívar|
+1030|	Cartagena de Indias|
+1031|	Bolívar|
+1031|	Cartagena de Indias|
+1032|	Bolívar|
+1032|	Cartagena de Indias|
+1033|	Bolívar|
+1033|	Cartagena de Indias|
+1034|	Bolívar|
+1034|	Cartagena de Indias|
+1035|	Bolívar|
+1035|	Cartagena de Indias|
+1036|	Bolívar|
+1036|	Cartagena de Indias|
+1037|	Santander|
+1037|	Barichara|
+1037|	Curití|
+1037|	San Gil|
+1038|	Santander|
+1038|	Los Santos|
+1039|	Norte De Santander|
+1039|	Ocaña|
+1039|	Pamplona|
+1039|	La Playa|
+1040|	Quindio|
+1040|	Armenia|
+1040|	La Tebaida|
+1040|	Montenegro|
+1041|	Bogotá|
+1041|	Bogotá D.C.|
+1042|	Bogotá|
+1042|	Bogotá D.C.|
+1043|	Antioquía|
+1043|	Guatape|
+1043|	Medellín|
+1044|	Antioquía|
+1044|	Medellín|
+1045|	Bogotá|
+1045|	Bogotá D.C.|
+1045|	Cundinamarca|
+1045|	Zipaquirá|
+1045|	Guatavita|
+1046|	Bogotá|
+1046|	Bogotá D.C.|
+1046|	Cundinamarca|
+1046|	Guatavita|
+1047|	Bogotá|
+1047|	Bogotá D.C.|
+1047|	Cundinamarca|
+1047|	Chía|
+1047|	Sopó|
+1048|	Bogotá|
+1048|	Bogotá D.C.|
+1048|	Cundinamarca|
+1048|	Fusagasugá|
+1049|	Bogotá|
+1049|	Bogotá D.C.|
+1049|	Cundinamarca|
+1049|	Nemocón|
+1049|	Sopó|
+1050|	Bogotá|
+1050|	Bogotá D.C.|
+1050|	Cundinamarca|
+1050|	Nemocón|
+1051|	Bogotá|
+1051|	Bogotá D.C.|
+1051|	Cundinamarca|
+1051|	Chía|
+1052|	Bogotá|
+1052|	Bogotá D.C.|
+1052|	Cundinamarca|
+1052|	Chía|
+1053|	Antioquía|
+1053|	Medellín|
+1054|	Antioquía|
+1054|	Medellín|
+1054|	Guatape|
+1054|	Peñol|
+1055|	Antioquía|
+1055|	Medellín|
+1056|	Antioquía|
+1056|	Medellín|
+1057|	Antioquía|
+1057|	Medellín|
+1058|	Bogotá|
+1058|	Bogotá D.C.|
+1058|	Huila|
+1058|	Neiva|
+1059|	Antioquía|
+1059|	Medellín|
+1059|	Bogotá|
+1059|	Bogotá D.C.|
+1059|	Bolívar|
+1059|	Cartagena de Indias|
+1060|	Antioquía|
+1060|	Medellín|
+1061|	Antioquía|
+1061|	Medellín|
+1062|	Bogotá|
+1062|	Bogotá D.C.|
+1063|	Antioquía|
+1063|	Santa Fe De Antioquía|
+1064|	Bogotá|
+1064|	Bogotá D.C.|
+1064|	Cundinamarca|
+1064|	Chía|
+1064|	Tabio|
+1064|	Tenjo|
+1065|	Bolívar|
+1065|	Cartagena de Indias|
+1066|	Bolívar|
+1066|	Cartagena de Indias|
+1067|	Bolívar|
+1067|	Cartagena de Indias|
+1068|	Amazonas|
+1068|	Puerto Nariño|
+1069|	Amazonas|
+1069|	Puerto Nariño|
+1070|	Amazonas|
+1070|	Puerto Nariño|
+1071|	Amazonas|
+1071|	Puerto Nariño|
+1072|	Amazonas|
+1072|	Puerto Nariño|
+1073|	Nariño|
+1073|	Ipiales|
+1073|	Pasto|
+1074|	Bogotá|
+1074|	Bogotá D.C.|
+1075|	Bogotá|
+1075|	Bogotá D.C.|
+1076|	Bogotá|
+1076|	Bogotá D.C.|
+1077|	Meta|
+1077|	La Macarena|
+1078|	Bogotá|
+1078|	Bogotá D.C.|
+1078|	Boyacá|
+1078|	Villa De Leyva|
+1079|	Guaviare|
+1079|	San José De Guaviare|
+1080|	Antioquía|
+1080|	Santa Fe De Antioquía|
+1081|	Meta|
+1081|	Villavicencio|
+1081|	Acacias|
+1081|	Mesetas|
+1081|	San Juan De Arama|
+1082|	Bogotá|
+1082|	Bogotá D.C.|
+1082|	Cundinamarca|
+1082|	Choachí|
+1083|	Bogotá|
+1083|	Bogotá D.C.|
+1083|	Cundinamarca|
+1083|	Zipaquirá|
+1083|	Nemocón|
+1084|	Bogotá|
+1084|	Bogotá D.C.|
+1084|	Cundinamarca|
+1084|	Zipaquirá|
+1084|	Sopó|
+1085|	Bogotá|
+1085|	Bogotá D.C.|
+1086|	Antioquía|
+1086|	Medellín|
+1087|	Antioquía|
+1087|	Medellín|
+1088|	Antioquía|
+1088|	Medellín|
+1088|	Puerto Triunfo|
+1089|	Antioquía|
+1089|	Medellín|
+1089|	Guatape|
+1089|	Peñol|
+1090|	Antioquía|
+1090|	Medellín|
+1090|	Retiro|
+1091|	Antioquía|
+1091|	Envigado|
+1091|	Medellín|
+1091|	Sabaneta|
+1092|	Huila|
+1092|	Colombia|
+1093|	Bolívar|
+1093|	Cartagena de Indias|
+1094|	Bolívar|
+1094|	Cartagena de Indias|
+1095|	Antioquía|
+1095|	Medellín|
+1095|	Amaga|
+1095|	Andes|
+1095|	Hispania|
+1095|	Jardín|
+1096|	Bolívar|
+1096|	Cartagena de Indias|
+1097|	Bolívar|
+1097|	Cartagena de Indias|
+1098|	Antioquía|
+1098|	Medellín|
+1098|	Santa Fe De Antioquía|
+1099|	Bolívar|
+1099|	Cartagena de Indias|
+1100|	Bolívar|
+1100|	Cartagena de Indias|
+1101|	Bolívar|
+1101|	Cartagena de Indias|
+1105|	Antioquía|
+1105|	Medellín|
+1106|	Antioquía|
+1106|	Medellín|
+1107|	Bolívar|
+1107|	Cartagena de Indias|
+1108|	Bolívar|
+1108|	Cartagena de Indias|
+1109|	Bolívar|
+1109|	Cartagena de Indias|
+1110|	Bolívar|
+1110|	Cartagena de Indias|
+1111|	Bolívar|
+1111|	Cartagena de Indias|
+1112|	Bolívar|
+1112|	Cartagena de Indias|
+1113|	Bolívar|
+1113|	Cartagena de Indias|
+1114|	Bolívar|
+1114|	Cartagena de Indias|
+1115|	Bolívar|
+1115|	Cartagena de Indias|
+1116|	Bolívar|
+1116|	Cartagena de Indias|
+1117|	Bogotá|
+1117|	Bogotá D.C.|
+1118|	Bogotá|
+1118|	Bogotá D.C.|
+1118|	Cundinamarca|
+1118|	Fusagasugá|
+1119|	Bogotá|
+1119|	Bogotá D.C.|
+1119|	Boyacá|
+1119|	Ráquira|
+1119|	Villa De Leyva|
+1120|	Bogotá|
+1120|	Bogotá D.C.|
+1120|	Cundinamarca|
+1120|	Zipaquirá|
+1120|	Guatavita|
+1121|	Bogotá|
+1121|	Bogotá D.C.|
+1122|	Caldas|
+1122|	Manizales|
+1122|	Villamaria|
+1123|	Atlántico|
+1123|	Barranquilla|
+1123|	Magdalena|
+1123|	Santa Marta|
+1124|	Atlántico|
+1124|	Barranquilla|
+1124|	Magdalena|
+1124|	Santa Marta|
+1125|	Atlántico|
+1125|	Barranquilla|
+1125|	Bolívar|
+1125|	Cartagena de Indias|
+1126|	Atlántico|
+1126|	Barranquilla|
+1126|	Bolívar|
+1126|	Cartagena de Indias|
+1127|	Atlántico|
+1127|	Barranquilla|
+1127|	La Guajira|
+1127|	Dibulla|
+1128|	Atlántico|
+1128|	Barranquilla|
+1128|	Magdalena|
+1128|	Ciénaga|
+1129|	Atlántico|
+1129|	Barranquilla|
+1130|	Atlántico|
+1130|	Barranquilla|
+1131|	Atlántico|
+1131|	Barranquilla|
+1132|	Atlántico|
+1132|	Barranquilla|
+1132|	Magdalena|
+1132|	Santa Marta|
+1133|	Amazonas|
+1133|	Leticia|
+1134|	Caldas|
+1134|	Manizales|
+1135|	Caldas|
+1135|	Chinchiná|
+1135|	Manizales|
+1135|	Villamaria|
+1135|	Salamina|
+1136|	Magdalena|
+1136|	Santa Marta|
+1138|	Bolívar|
+1138|	Cartagena de Indias|
+1139|	Magdalena|
+1139|	Santa Marta|
+1140|	Magdalena|
+1140|	Santa Marta|
+1141|	Magdalena|
+1141|	Santa Marta|
+1142|	Bolívar|
+1142|	San Juan Nepomuceno|
+1143|	Bolívar|
+1143|	San Juan Nepomuceno|
+1144|	Magdalena|
+1144|	Santa Marta|
+1145|	Magdalena|
+1145|	Ciénaga|
+1145|	Santa Marta|
+1146|	Magdalena|
+1146|	Santa Marta|
+1147|	Atlántico|
+1147|	Barranquilla|
+1147|	Magdalena|
+1147|	Santa Marta|
+1148|	Atlántico|
+1148|	Barranquilla|
+1148|	Magdalena|
+1148|	Santa Marta|
+1149|	Atlántico|
+1149|	Barranquilla|
+1149|	Magdalena|
+1149|	Santa Marta|
+1150|	Atlántico|
+1150|	Barranquilla|
+1150|	Magdalena|
+1150|	Santa Marta|
+1151|	Magdalena|
+1151|	Santa Marta|
+1152|	Atlántico|
+1152|	Barranquilla|
+1152|	Magdalena|
+1152|	Santa Marta|
+1153|	Atlántico|
+1153|	Barranquilla|
+1153|	Magdalena|
+1153|	Santa Marta|
+1154|	Bolívar|
+1154|	Cartagena de Indias|
+1154|	Magdalena|
+1154|	Santa Marta|
+1155|	Bolívar|
+1155|	Cartagena de Indias|
+1155|	Magdalena|
+1155|	Santa Marta|
+1156|	Bolívar|
+1156|	Cartagena de Indias|
+1156|	Magdalena|
+1156|	Santa Marta|
+1157|	Bolívar|
+1157|	Cartagena de Indias|
+1157|	Magdalena|
+1157|	Santa Marta|
+1158|	Magdalena|
+1158|	Santa Marta|
+1159|	Bolívar|
+1159|	Cartagena de Indias|
+1159|	Magdalena|
+1159|	Santa Marta|
+1160|	Bolívar|
+1160|	Cartagena de Indias|
+1160|	Magdalena|
+1160|	Santa Marta|
+1161|	Cundinamarca|
+1161|	Guatavita|
+1162|	Magdalena|
+1162|	Santa Marta|
+1163|	Magdalena|
+1163|	Santa Marta|
+1164|	Magdalena|
+1164|	Santa Marta|
+1165|	Magdalena|
+1165|	Santa Marta|
+1166|	Magdalena|
+1166|	Santa Marta|
+1167|	Magdalena|
+1167|	Santa Marta|
+1168|	Magdalena|
+1168|	Santa Marta|
+1169|	Magdalena|
+1169|	Santa Marta|
+1170|	Magdalena|
+1170|	Santa Marta|
+1171|	Magdalena|
+1171|	Santa Marta|
+1171|	Aracataca|
+1172|	Atlántico|
+1172|	Barranquilla|
+1173|	Atlántico|
+1173|	Barranquilla|
+1174|	Atlántico|
+1174|	Barranquilla|
+1175|	Atlántico|
+1175|	Barranquilla|
+1175|	Magdalena|
+1175|	Santa Marta|
+1176|	Magdalena|
+1176|	Santa Marta|
+1177|	Magdalena|
+1177|	Santa Marta|
+1178|	Atlántico|
+1178|	Barranquilla|
+1179|	Magdalena|
+1179|	Santa Marta|
+1180|	Atlántico|
+1180|	Barranquilla|
+1180|	Magdalena|
+1180|	Aracataca|
+1181|	Atlántico|
+1181|	Barranquilla|
+1181|	Magdalena|
+1181|	Santa Marta|
+1182|	Atlántico|
+1182|	Barranquilla|
+1182|	Magdalena|
+1182|	Santa Marta|
+1183|	Magdalena|
+1183|	Santa Marta|
+1184|	Atlántico|
+1184|	Barranquilla|
+1184|	Magdalena|
+1184|	Ciénaga|
+1185|	Atlántico|
+1185|	Barranquilla|
+1185|	Magdalena|
+1185|	Santa Marta|
+1186|	Atlántico|
+1186|	Barranquilla|
+1186|	Magdalena|
+1186|	Ciénaga|
+1187|	Atlántico|
+1187|	Barranquilla|
+1187|	Magdalena|
+1187|	Ciénaga|
+1188|	Risaralda|
+1188|	Pereira|
+1188|	La Virginia|
+1189|	Atlántico|
+1189|	Barranquilla|
+1189|	Bolívar|
+1189|	Cartagena de Indias|
+1190|	Atlántico|
+1190|	Barranquilla|
+1190|	Bolívar|
+1190|	Cartagena de Indias|
+1191|	Atlántico|
+1191|	Barranquilla|
+1191|	Bolívar|
+1191|	Cartagena de Indias|
+1192|	Atlántico|
+1192|	Barranquilla|
+1192|	Bolívar|
+1192|	Cartagena de Indias|
+1193|	Atlántico|
+1193|	Barranquilla|
+1193|	Bolívar|
+1193|	Cartagena de Indias|
+1194|	Bolívar|
+1194|	Cartagena de Indias|
+1195|	Bolívar|
+1195|	Cartagena de Indias|
+1196|	Bolívar|
+1196|	Cartagena de Indias|
+1197|	Bolívar|
+1197|	Cartagena de Indias|
+1198|	Atlántico|
+1198|	Barranquilla|
+1198|	Bolívar|
+1198|	Cartagena de Indias|
+1199|	Atlántico|
+1199|	Barranquilla|
+1199|	Bolívar|
+1199|	Cartagena de Indias|
+1200|	Bolívar|
+1200|	Cartagena de Indias|
+1201|	Bolívar|
+1201|	Cartagena de Indias|
+1202|	Atlántico|
+1202|	Barranquilla|
+1202|	Bolívar|
+1202|	Cartagena de Indias|
+1203|	Atlántico|
+1203|	Barranquilla|
+1203|	Bolívar|
+1203|	Cartagena de Indias|
+1204|	Atlántico|
+1204|	Barranquilla|
+1204|	Bolívar|
+1204|	Cartagena de Indias|
+1205|	Atlántico|
+1205|	Barranquilla|
+1205|	Bolívar|
+1205|	Cartagena de Indias|
+1206|	Atlántico|
+1206|	Barranquilla|
+1206|	Bolívar|
+1206|	Cartagena de Indias|
+1207|	Bolívar|
+1207|	Cartagena de Indias|
+1207|	Magdalena|
+1207|	Ciénaga|
+1208|	Bolívar|
+1208|	Cartagena de Indias|
+1208|	Magdalena|
+1208|	Ciénaga|
+1209|	Bolívar|
+1209|	Cartagena de Indias|
+1209|	Magdalena|
+1209|	Ciénaga|
+1210|	Bolívar|
+1210|	Cartagena de Indias|
+1210|	Magdalena|
+1210|	Ciénaga|
+1211|	Bolívar|
+1211|	Cartagena de Indias|
+1212|	Magdalena|
+1212|	Santa Marta|
+1213|	Atlántico|
+1213|	Barranquilla|
+1214|	Bolívar|
+1214|	Cartagena de Indias|
+1215|	Bolívar|
+1215|	Cartagena de Indias|
+1216|	Bolívar|
+1216|	Cartagena de Indias|
+1217|	Bolívar|
+1217|	Cartagena de Indias|
+1218|	Bolívar|
+1218|	Cartagena de Indias|
+1219|	Magdalena|
+1219|	Santa Marta|
+1220|	Bolívar|
+1220|	Cartagena de Indias|
+1221|	Bolívar|
+1221|	Cartagena de Indias|
+1222|	Bolívar|
+1222|	Cartagena de Indias|
+1223|	Bolívar|
+1223|	Santa Catalina|
+1224|	Bolívar|
+1224|	Cartagena de Indias|
+1225|	Bolívar|
+1225|	Cartagena de Indias|
+1226|	Bolívar|
+1226|	Cartagena de Indias|
+1227|	Antioquía|
+1227|	Medellín|
+1228|	Bolívar|
+1228|	Cartagena de Indias|
+1229|	Atlántico|
+1229|	Barranquilla|
+1229|	Bolívar|
+1229|	Cartagena de Indias|
+1229|	Magdalena|
+1229|	Santa Marta|
+1230|	Bogotá|
+1230|	Bogotá D.C.|
+1230|	Cundinamarca|
+1230|	Tena |
+1231|	La Guajira|
+1231|	Riohacha|
+1232|	Bogotá|
+1232|	Bogotá D.C.|
+1233|	Bogotá|
+1233|	Bogotá D.C.|
+1233|	Cundinamarca|
+1233|	La Calera|
+1234|	Bogotá|
+1234|	Bogotá D.C.|
+1234|	Cundinamarca|
+1234|	La Calera|
+1235|	Huila|
+1235|	Paicol|
+1236|	Valle Del Cauca|
+1236|	Cali|
+1237|	Valle Del Cauca|
+1237|	Cali|
+1238|	Valle Del Cauca|
+1238|	Cali|
+1239|	Bolívar|
+1239|	Cartagena de Indias|
+1240|	Bolívar|
+1240|	Cartagena de Indias|
+1241|	Santander|
+1241|	Barichara|
+1242|	Santander|
+1242|	Barichara|
+1243|	Antioquía|
+1243|	Medellín|
+1244|	Bogotá|
+1244|	Bogotá D.C.|
+1245|	Amazonas|
+1245|	Leticia|
+1245|	Puerto Nariño|
+1246|	Amazonas|
+1246|	Leticia|
+1246|	Puerto Nariño|
+1247|	Amazonas|
+1247|	Leticia|
+1247|	Puerto Nariño|
+1248|	Bogotá|
+1248|	Bogotá D.C.|
+1249|	Magdalena|
+1249|	Santa Marta|
+1250|	Bogotá|
+1250|	Bogotá D.C.|
+1251|	Bogotá|
+1251|	Bogotá D.C.|
+1252|	Atlántico|
+1252|	Barranquilla|
+1252|	Bolívar|
+1252|	Cartagena de Indias|
+1252|	Magdalena|
+1252|	Santa Marta|
+1253|	Atlántico|
+1253|	Barranquilla|
+1253|	Bolívar|
+1253|	Cartagena de Indias|
+1253|	Magdalena|
+1253|	Santa Marta|
+1254|	Bolívar|
+1254|	Cartagena de Indias|
+1255|	Bolívar|
+1255|	Cartagena de Indias|
+1256|	Bolívar|
+1256|	Cartagena de Indias|
+1257|	Bolívar|
+1257|	Cartagena de Indias|
+1258|	Bolívar|
+1258|	Cartagena de Indias|
+1259|	Bolívar|
+1259|	Cartagena de Indias|
+1260|	Norte De Santander|
+1260|	Cúcuta|
+1261|	Norte De Santander|
+1261|	Cúcuta|
+1264|	Bogotá|
+1264|	Bogotá D.C.|
+1264|	Vaupés|
+1264|	Mitú|
+1265|	Vaupés|
+1265|	Mitú|
+1266|	Norte De Santander|
+1266|	Cúcuta|
+1267|	Norte De Santander|
+1267|	Cúcuta|
+1268|	Norte De Santander|
+1268|	Cúcuta|
+1269|	Norte De Santander|
+1269|	Cúcuta|
+1270|	Norte De Santander|
+1270|	Cúcuta|
+1271|	Valle Del Cauca|
+1271|	Palmira|
+1272|	Valle Del Cauca|
+1272|	Palmira|
+1273|	Valle Del Cauca|
+1273|	Palmira|
+1273|	El Cerrito|
+1274|	Santander|
+1274|	Barichara|
+1275|	Santander|
+1275|	Barichara|
+1276|	Santander|
+1276|	Barichara|
+1277|	Santander|
+1277|	Barichara|
+1278|	Santander|
+1278|	Barichara|
+1279|	Santander|
+1279|	Barichara|
+1280|	Santander|
+1280|	Barichara|
+1281|	Santander|
+1281|	Barichara|
+1282|	Santander|
+1282|	Barichara|
+1283|	Santander|
+1283|	Barichara|
+1284|	Santander|
+1284|	Barichara|
+1285|	Meta|
+1285|	La Macarena|
+1286|	Antioquía|
+1286|	Medellín|
+1286|	Bogotá|
+1286|	Bogotá D.C.|
+1286|	Meta|
+1286|	Villavicencio|
+1286|	La Macarena|
+1287|	La Guajira|
+1287|	Manaure|
+1287|	Cabo de la Vela|
+1288|	Meta|
+1288|	La Macarena|
+1289|	Meta|
+1289|	La Macarena|
+1290|	Valle Del Cauca|
+1290|	El Cerrito|
+1291|	La Guajira|
+1291|	Manaure|
+1292|	Valle Del Cauca|
+1292|	El Cerrito|
+1293|	La Guajira|
+1293|	Manaure|
+1294|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+1294|	San Andrés|
+1295|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+1295|	San Andrés|
+1296|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+1296|	San Andrés|
+1297|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+1297|	San Andrés|
+1298|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+1298|	San Andrés|
+1299|	La Guajira|
+1299|	Riohacha|
+1300|	Santander|
+1300|	Cerrito|
+1301|	Bolívar|
+1301|	Cartagena de Indias|
+1302|	Antioquía|
+1302|	Marinilla|
+1303|	Magdalena|
+1303|	Santa Marta|
+1304|	Magdalena|
+1304|	Santa Marta|
+1305|	Bolívar|
+1305|	Cartagena de Indias|
+1306|	Bolívar|
+1306|	Cartagena de Indias|
+1307|	Bolívar|
+1307|	Cartagena de Indias|
+1308|	Bolívar|
+1308|	Cartagena de Indias|
+1309|	Atlántico|
+1309|	Barranquilla|
+1309|	Bolívar|
+1309|	Cartagena de Indias|
+1309|	Magdalena|
+1309|	Santa Marta|
+1310|	Amazonas|
+1310|	Leticia|
+1311|	Magdalena|
+1311|	Santa Marta|
+1312|	Bolívar|
+1312|	Cartagena de Indias|
+1313|	Bolívar|
+1313|	Cartagena de Indias|
+1314|	Bolívar|
+1314|	Cartagena de Indias|
+1315|	Bolívar|
+1315|	Cartagena de Indias|
+1316|	Bolívar|
+1316|	Cartagena de Indias|
+1317|	Bolívar|
+1317|	Cartagena de Indias|
+1318|	Bolívar|
+1318|	Cartagena de Indias|
+1319|	Antioquía|
+1319|	Marinilla|
+1320|	Bolívar|
+1320|	Cartagena de Indias|
+1321|	Bolívar|
+1321|	Cartagena de Indias|
+1322|	Bolívar|
+1322|	Cartagena de Indias|
+1323|	Bolívar|
+1323|	Cartagena de Indias|
+1324|	Bolívar|
+1324|	Cartagena de Indias|
+1325|	Bolívar|
+1325|	Cartagena de Indias|
+1326|	Bolívar|
+1326|	Cartagena de Indias|
+1327|	Cundinamarca|
+1327|	Zipaquirá|
+1327|	Guatavita|
+1328|	Bolívar|
+1328|	Cartagena de Indias|
+1329|	Bolívar|
+1329|	Cartagena de Indias|
+1330|	Magdalena|
+1330|	Santa Marta|
+1331|	Atlántico|
+1331|	Barranquilla|
+1331|	Bolívar|
+1331|	Cartagena de Indias|
+1331|	Magdalena|
+1331|	Santa Marta|
+1332|	Atlántico|
+1332|	Barranquilla|
+1332|	Bolívar|
+1332|	Cartagena de Indias|
+1332|	Magdalena|
+1332|	Santa Marta|
+1333|	Antioquía|
+1333|	Marinilla|
+1333|	Medellín|
+1333|	Guatape|
+1333|	Peñol|
+1334|	Magdalena|
+1334|	Santa Marta|
+1335|	Magdalena|
+1335|	Santa Marta|
+1336|	Bolívar|
+1336|	Cartagena de Indias|
+1337|	Magdalena|
+1337|	Santa Marta|
+1338|	Magdalena|
+1338|	Santa Marta|
+1339|	Magdalena|
+1339|	Santa Marta|
+1340|	Quindio|
+1340|	Quimbaya|
+1341|	Bogotá|
+1341|	Bogotá D.C.|
+1342|	Bogotá|
+1342|	Bogotá D.C.|
+1343|	Amazonas|
+1343|	Leticia|
+1344|	Amazonas|
+1344|	Leticia|
+1345|	Magdalena|
+1345|	Santa Marta|
+1346|	Atlántico|
+1346|	Barranquilla|
+1346|	Bogotá|
+1346|	Bogotá D.C.|
+1346|	Bolívar|
+1346|	Cartagena de Indias|
+1346|	Magdalena|
+1346|	Santa Marta|
+1347|	Bogotá|
+1347|	Bogotá D.C.|
+1348|	Bogotá|
+1348|	Bogotá D.C.|
+1349|	Bogotá|
+1349|	Bogotá D.C.|
+1350|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+1350|	San Andrés|
+1351|	Antioquía|
+1351|	Medellín|
+1351|	Guatape|
+1352|	Antioquía|
+1352|	Medellín|
+1353|	Antioquía|
+1353|	Santa Fe De Antioquía|
+1354|	Antioquía|
+1354|	Puerto Triunfo|
+1355|	Caquetá|
+1355|	Cartagena De Chairá|
+1356|	Caquetá|
+1356|	Cartagena De Chairá|
+1357|	Bogotá|
+1357|	Bogotá D.C.|
+1358|	Caquetá|
+1358|	Cartagena De Chairá|
+1359|	Caquetá|
+1359|	Cartagena De Chairá|
+1360|	Caquetá|
+1360|	Cartagena De Chairá|
+1361|	Caquetá|
+1361|	Cartagena De Chairá|
+1362|	Caquetá|
+1362|	Cartagena De Chairá|
+1363|	Caquetá|
+1363|	Cartagena De Chairá|
+1364|	Caquetá|
+1364|	Cartagena De Chairá|
+1365|	Bogotá|
+1365|	Bogotá D.C.|
+1366|	Antioquía|
+1366|	Medellín|
+1367|	Antioquía|
+1367|	Medellín|
+1368|	Bogotá|
+1368|	Bogotá D.C.|
+1369|	Bogotá|
+1369|	Bogotá D.C.|
+1370|	Magdalena|
+1370|	Santa Marta|
+1371|	Bogotá|
+1371|	Bogotá D.C.|
+1372|	Bogotá|
+1372|	Bogotá D.C.|
+1373|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+1373|	San Andrés|
+1374|	Cundinamarca|
+1374|	Suesca|
+1375|	Bogotá|
+1375|	Bogotá D.C.|
+1376|	Bolívar|
+1376|	Cartagena de Indias|
+1377|	Bolívar|
+1377|	Cartagena de Indias|
+1378|	Bolívar|
+1378|	Cartagena de Indias|
+1379|	Bolívar|
+1379|	Cartagena de Indias|
+1380|	Antioquía|
+1380|	Medellín|
+1381|	Antioquía|
+1381|	Medellín|
+1382|	Antioquía|
+1382|	Medellín|
+1383|	Bolívar|
+1383|	Cartagena de Indias|
+1384|	Bolívar|
+1384|	Cartagena de Indias|
+1385|	Atlántico|
+1385|	Barranquilla|
+1385|	Magdalena|
+1385|	Santa Marta|
+1386|	Bolívar|
+1386|	Cartagena de Indias|
+1387|	Bolívar|
+1387|	Santa Catalina|
+1388|	Bolívar|
+1388|	Cartagena de Indias|
+1389|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+1389|	San Andrés|
+1390|	Bolívar|
+1390|	Cartagena de Indias|
+1391|	Valle Del Cauca|
+1391|	Cali|
+1391|	Dagua|
+1392|	Antioquía|
+1392|	Rionegro|
+1392|	Guarne|
+1393|	Antioquía|
+1393|	Medellín|
+1394|	Antioquía|
+1394|	Nariño|
+1394|	Guatape|
+1394|	El Peñol|
+1395|	Bolívar|
+1395|	Cartagena de Indias|
+1396|	Amazonas|
+1396|	Puerto Arica|
+1397|	Guainía|
+1397|	Puerto Colombia|
+1398|	Guainía|
+1398|	Puerto Colombia|
+1399|	Guainía|
+1399|	Puerto Colombia|
+1400|	Bogotá|
+1400|	Bogotá D.C.|
+1401|	Cundinamarca|
+1401|	Guatavita|
+1402|	Cundinamarca|
+1402|	Guatavita|
+1403|	Bogotá|
+1403|	Bogotá D.C.|
+1404|	Bolívar|
+1404|	Cartagena de Indias|
+1405|	Bolívar|
+1405|	Cartagena de Indias|
+1406|	Bolívar|
+1406|	Cartagena de Indias|
+1407|	Antioquía|
+1407|	Bogotá|
+1407|	Bogotá D.C.|
+1407|	Caldas|
+1407|	Manizales|
+1407|	Cundinamarca|
+1407|	Fusagasugá|
+1407|	Valle Del Cauca|
+1407|	Cali|
+1407|	Jardín|
+1407|	La Calera|
+1408|	Antioquía|
+1408|	Medellín|
+1409|	Magdalena|
+1409|	Santa Marta|
+1410|	Magdalena|
+1410|	Santa Marta|
+1411|	Bogotá|
+1411|	Bogotá D.C.|
+1412|	Caquetá|
+1412|	Cartagena De Chairá|
+1413|	Bogotá|
+1413|	Bogotá D.C.|
+1414|	Antioquía|
+1414|	Medellín|
+1415|	Antioquía|
+1415|	Medellín|
+1416|	Bogotá|
+1416|	Bogotá D.C.|
+1417|	Caquetá|
+1417|	Cartagena De Chairá|
+1418|	Caquetá|
+1418|	San José De Fragua|
+1419|	Magdalena|
+1419|	Santa Marta|
+1420|	Antioquía|
+1420|	Medellín|
+1421|	Antioquía|
+1421|	Medellín|
+1422|	Santander|
+1422|	San Andrés|
+1423|	Magdalena|
+1423|	Santa Marta|
+1424|	Magdalena|
+1424|	Santa Marta|
+1425|	Magdalena|
+1425|	Santa Marta|
+1426|	Bogotá|
+1426|	Bogotá D.C.|
+1427|	Antioquía|
+1427|	Medellín|
+1428|	Magdalena|
+1428|	Santa Marta|
+1429|	Bolívar|
+1429|	Cartagena de Indias|
+1430|	Bolívar|
+1430|	Cartagena de Indias|
+1431|	Antioquía|
+1431|	Medellín|
+1432|	Antioquía|
+1432|	Medellín|
+1433|	Antioquía|
+1433|	Medellín|
+1434|	Bogotá|
+1434|	Bogotá D.C.|
+1435|	Bogotá|
+1435|	Bogotá D.C.|
+1436|	Bogotá|
+1436|	Bogotá D.C.|
+1437|	Bolívar|
+1437|	Cartagena de Indias|
+1438|	Magdalena|
+1438|	Santa Marta|
+1439|	Magdalena|
+1439|	Santa Marta|
+1440|	Magdalena|
+1440|	Santa Marta|
+1441|	Magdalena|
+1441|	Santa Marta|
+1442|	Magdalena|
+1442|	Santa Marta|
+1443|	Bogotá|
+1443|	Bogotá D.C.|
+1444|	Magdalena|
+1444|	Santa Marta|
+1445|	Magdalena|
+1445|	Santa Marta|
+1446|	Magdalena|
+1446|	Santa Marta|
+1447|	Magdalena|
+1447|	Santa Marta|
+1448|	Magdalena|
+1448|	Santa Marta|
+1449|	Magdalena|
+1449|	Santa Marta|
+1450|	Magdalena|
+1450|	Santa Marta|
+1451|	Magdalena|
+1451|	Santa Marta|
+1452|	Magdalena|
+1452|	Santa Marta|
+1453|	Magdalena|
+1453|	Santa Marta|
+1454|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+1454|	San Andrés|
+1455|	Magdalena|
+1455|	Santa Marta|
+1456|	Magdalena|
+1456|	Santa Marta|
+1457|	Magdalena|
+1457|	Santa Marta|
+1458|	Magdalena|
+1458|	Santa Marta|
+1459|	Magdalena|
+1459|	Santa Marta|
+1460|	Magdalena|
+1460|	Santa Marta|
+1461|	Magdalena|
+1461|	Santa Marta|
+1462|	Magdalena|
+1462|	Santa Marta|
+1463|	Magdalena|
+1463|	Santa Marta|
+1464|	La Guajira|
+1464|	Manaure|
+1465|	Magdalena|
+1465|	Santa Marta|
+1466|	Magdalena|
+1466|	Santa Marta|
+1467|	Magdalena|
+1467|	Santa Marta|
+1468|	La Guajira|
+1468|	Riohacha|
+1468|	Magdalena|
+1468|	Santa Marta|
+1469|	La Guajira|
+1469|	Riohacha|
+1469|	Magdalena|
+1469|	Santa Marta|
+1470|	La Guajira|
+1470|	Riohacha|
+1470|	Magdalena|
+1470|	Santa Marta|
+1471|	Amazonas|
+1471|	Leticia|
+1472|	Amazonas|
+1472|	Leticia|
+1473|	Amazonas|
+1473|	Leticia|
+1473|	Puerto Nariño|
+1474|	Meta|
+1474|	La Macarena|
+1475|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+1475|	San Andrés|
+1476|	Bolívar|
+1476|	Magdalena|
+1476|	Santa Marta|
+1476|	Mompós|
+1477|	Bogotá|
+1477|	Bogotá D.C.|
+1478|	Magdalena|
+1478|	Santa Marta|
+1479|	Quindio|
+1479|	Armenia|
+1480|	Quindio|
+1480|	Armenia|
+1481|	Quindio|
+1481|	Armenia|
+1482|	Quindio|
+1482|	Armenia|
+1483|	La Guajira|
+1483|	Manaure|
+1484|	Quindio|
+1484|	Armenia|
+1485|	Magdalena|
+1485|	Santa Marta|
+1486|	Bolívar|
+1486|	Mompós|
+1487|	Bolívar|
+1487|	Mompós|
+1488|	Bolívar|
+1488|	Mompós|
+1489|	Bolívar|
+1489|	Mompós|
+1490|	Bolívar|
+1490|	Mompós|
+1491|	Bogotá|
+1491|	Bogotá D.C.|
+1492|	Antioquía|
+1492|	Medellín|
+1493|	Magdalena|
+1493|	Santa Marta|
+1494|	Magdalena|
+1494|	Santa Marta|
+1495|	Antioquía|
+1495|	Medellín|
+1496|	Antioquía|
+1496|	Medellín|
+1497|	Antioquía|
+1497|	Medellín|
+1498|	Antioquía|
+1498|	Medellín|
+1499|	Antioquía|
+1499|	Medellín|
+1500|	Antioquía|
+1500|	Medellín|
+1501|	Caldas|
+1501|	Manizales|
+1502|	Bolívar|
+1502|	Cartagena de Indias|
+1502|	Magdalena|
+1502|	Santa Marta|
+1503|	Bolívar|
+1503|	Magdalena|
+1503|	Santa Marta|
+1503|	Mompós|
+1504|	Bolívar|
+1504|	Cartagena de Indias|
+1505|	Bolívar|
+1505|	Cartagena de Indias|
+1506|	Bolívar|
+1506|	Cartagena de Indias|
+1507|	Bogotá|
+1507|	Bogotá D.C.|
+1508|	Bogotá|
+1508|	Bogotá D.C.|
+1509|	Bolívar|
+1509|	Cartagena de Indias|
+1510|	Bogotá|
+1510|	Bogotá D.C.|
+1511|	Antioquía|
+1511|	Medellín|
+1512|	Bogotá|
+1512|	Bogotá D.C.|
+1513|	Valle Del Cauca|
+1513|	Buenaventura|
+1514|	Antioquía|
+1514|	Medellín|
+1515|	Antioquía|
+1515|	Medellín|
+1516|	Antioquía|
+1516|	Medellín|
+1517|	Antioquía|
+1517|	Medellín|
+1518|	Bolívar|
+1518|	Cartagena de Indias|
+1519|	Bolívar|
+1519|	Cartagena de Indias|
+1520|	Magdalena|
+1520|	Santa Marta|
+1521|	Bolívar|
+1521|	Cartagena de Indias|
+1522|	Bolívar|
+1522|	Cartagena de Indias|
+1523|	Bolívar|
+1523|	Cartagena de Indias|
+1523|	Magangué|
+1523|	Carmen De Bolívar|
+1523|	Mompós|
+1523|	Mahates|
+1523|	María La Baja|
+1523|	San Jacinto|
+1523|	San Juan Nepomuceno|
+1524|	Bolívar|
+1524|	Cartagena de Indias|
+1524|	Valle Del Cauca|
+1524|	Cali|
+1525|	Bogotá|
+1525|	Bogotá D.C.|
+1525|	Bolívar|
+1525|	Cartagena de Indias|
+1525|	Valle Del Cauca|
+1525|	Cali|
+1526|	Bolívar|
+1526|	Cartagena de Indias|
+1527|	Bolívar|
+1527|	Cartagena de Indias|
+1527|	Valle Del Cauca|
+1527|	Cali|
+1528|	Bolívar|
+1528|	Cartagena de Indias|
+1529|	Magdalena|
+1529|	Santa Marta|
+1530|	Magdalena|
+1530|	Santa Marta|
+1531|	Antioquía|
+1531|	Salgar|
+1532|	Antioquía|
+1532|	Caldas|
+1533|	Bolívar|
+1533|	Cartagena de Indias|
+1534|	Meta|
+1534|	Villavicencio|
+1535|	Meta|
+1535|	Villavicencio|
+1536|	Meta|
+1536|	Villavicencio|
+1537|	Bolívar|
+1537|	Cartagena de Indias|
+1538|	Bolívar|
+1538|	Cartagena de Indias|
+1539|	Bogotá|
+1539|	Bogotá D.C.|
+1540|	Bogotá|
+1540|	Bogotá D.C.|
+1540|	Cundinamarca|
+1540|	La Calera|
+1541|	Quindio|
+1541|	Armenia|
+1542|	Huila|
+1542|	Neiva|
+1543|	Bolívar|
+1543|	Cartagena de Indias|
+1544|	Magdalena|
+1544|	Santa Marta|
+1545|	Bolívar|
+1545|	Cartagena de Indias|
+1546|	Bolívar|
+1546|	Cartagena de Indias|
+1546|	Magdalena|
+1546|	Santa Marta|
+1547|	Magdalena|
+1547|	Santa Marta|
+1548|	Bolívar|
+1548|	Cartagena de Indias|
+1549|	Bolívar|
+1549|	Cartagena de Indias|
+1550|	Bolívar|
+1550|	Cartagena de Indias|
+1551|	Bolívar|
+1551|	Cartagena de Indias|
+1552|	Bolívar|
+1552|	Cartagena de Indias|
+1553|	Bogotá|
+1553|	Bogotá D.C.|
+1554|	Bolívar|
+1554|	Cartagena de Indias|
+1555|	Antioquía|
+1555|	Santa Fe De Antioquía|
+1556|	Caquetá|
+1557|	Antioquía|
+1557|	Medellín|
+1558|	Valle Del Cauca|
+1558|	Cali|
+1559|	Bogotá|
+1559|	Bogotá D.C.|
+1560|	Antioquía|
+1560|	Caldas|
+1561|	Bogotá|
+1561|	Bogotá D.C.|
+1561|	Cundinamarca|
+1561|	Sesquilé|
+1562|	Archipiélago De San Andrés, Providencia Y Santa Catalina|
+1562|	San Andrés|

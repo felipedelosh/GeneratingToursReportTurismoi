@@ -1,0 +1,1316 @@
+CONCAT(pck.id, '|')	CONCAT(plz.name, '|')
+1137|	Pichincha|
+1137|	Quito |
+1138|	Pichincha|
+1138|	Quito |
+1139|	Pichincha|
+1139|	Quito |
+1140|	Manabí|
+1140|	Pichincha |
+1141|	Guayas|
+1141|	Guayaquil |
+1142|	Pichincha|
+1142|	Quito |
+1143|	Galápagos|
+1143|	Puerto Ayora|
+1144|	Galápagos|
+1144|	Puerto Ayora|
+1144|	Puerto Baquerizo Moreno |
+1145|	Chimborazo|
+1145|	Riobamba|
+1146|	Pichincha|
+1146|	Quito |
+1147|	Pichincha|
+1147|	Quito |
+1148|	Imbabura|
+1148|	Otavalo|
+1149|	Pichincha|
+1149|	Quito |
+1150|	Napo|
+1150|	Tena|
+1151|	Galápagos|
+1151|	Puerto Baquerizo Moreno |
+1152|	Napo|
+1152|	Tungurahua|
+1152|	Cavernas de Jumandy|
+1152|	Archidona|
+1152|	Baños|
+1153|	Azuay|
+1153|	Cuenca|
+1154|	Esmeraldas|
+1154|	Esmeraldas(Ciudad)|
+1155|	Galápagos|
+1155|	Puerto Ayora|
+1155|	Puerto Villamil|
+1156|	Guayas|
+1156|	Guayaquil |
+1157|	Guayas|
+1157|	Guayaquil |
+1158|	Pichincha|
+1158|	Quito |
+1159|	Pichincha|
+1159|	Cayambe|
+1160|	Pichincha|
+1160|	Quito |
+1161|	Imbabura|
+1161|	Pichincha|
+1161|	Ibarra|
+1161|	Cayambe|
+1162|	Galápagos|
+1162|	Puerto Ayora|
+1162|	Puerto Baquerizo Moreno |
+1162|	Puerto Villamil|
+1163|	Azuay|
+1163|	Cuenca|
+1164|	Sucumbíos|
+1164|	Nueva Loja|
+1165|	Napo|
+1165|	Archidona|
+1165|	Tena|
+1166|	Napo|
+1166|	Tena|
+1167|	Napo|
+1167|	Pichincha|
+1167|	Tena|
+1167|	Quito |
+1168|	Azuay|
+1168|	Cuenca|
+1169|	Tungurahua|
+1169|	Ambato|
+1169|	Baños|
+1170|	Imbabura|
+1170|	Otavalo|
+1171|	Imbabura|
+1171|	Ibarra|
+1172|	Pichincha|
+1172|	Quito |
+1173|	Pichincha|
+1173|	Quito |
+1174|	Azuay|
+1174|	Cañar|
+1174|	CATEDRAL DE CUENCA|
+1174|	PARQUE NACIONAL DE CAJAS|
+1174|	Cuenca|
+1174|	Gualaceo|
+1175|	Pichincha|
+1175|	San Miguel De Los Bancos|
+1175|	Bosque Nublado de Mindo Nambillo|
+1176|	Azuay|
+1176|	Cuenca|
+1177|	Zamora Chinchipe|
+1177|	Guayas|
+1177|	Loja|
+1177|	Guayaquil |
+1177|	Saraguro|
+1177|	Zamora|
+1178|	Esmeraldas|
+1178|	Esmeraldas(Ciudad)|
+1179|	Guayas|
+1179|	Tungurahua|
+1179|	Guayaquil |
+1179|	Ambato|
+1180|	Manabí|
+1180|	Manta |
+1181|	Galápagos|
+1181|	Guayas|
+1181|	Islas Galápagos|
+1181|	Puerto Ayora|
+1181|	Guayaquil |
+1182|	Galápagos|
+1182|	Puerto Ayora|
+1183|	Imbabura|
+1183|	Pichincha|
+1183|	Otavalo|
+1183|	Quito |
+1184|	Guayas|
+1184|	Guayaquil |
+1185|	Galápagos|
+1185|	Puerto Ayora|
+1186|	Pichincha|
+1186|	Quito |
+1187|	Esmeraldas|
+1187|	Playa Atacames|
+1187|	Esmeraldas(Ciudad)|
+1188|	Napo|
+1188|	Tena|
+1189|	Napo|
+1189|	Tena|
+1190|	Napo|
+1190|	Tena|
+1191|	Napo|
+1191|	Cavernas de Jumandy|
+1191|	Tena|
+1192|	Napo|
+1192|	Tena|
+1193|	Napo|
+1193|	Tena|
+1194|	Manabí|
+1194|	Pichincha|
+1194|	Pedernales|
+1194|	Quito |
+1195|	Galápagos|
+1195|	Puerto Ayora|
+1195|	Puerto Villamil|
+1196|	Pichincha|
+1196|	Quito |
+1197|	Galápagos|
+1197|	Islas Galápagos|
+1197|	Puerto Ayora|
+1198|	Galápagos|
+1198|	Estación Científica Charles Darwin|
+1198|	Puerto Ayora|
+1199|	Galápagos|
+1199|	Estación Científica Charles Darwin|
+1199|	Puerto Ayora|
+1200|	Loja|
+1201|	Pichincha|
+1201|	Quito |
+1202|	Guayas|
+1202|	Guayaquil |
+1203|	Guayas|
+1203|	Guayaquil |
+1203|	Naranjal|
+1204|	Guayas|
+1204|	Guayaquil |
+1205|	Guayas|
+1205|	Guayaquil |
+1206|	Guayas|
+1206|	Guayaquil |
+1207|	Guayas|
+1207|	Guayaquil |
+1208|	Loja|
+1209|	Bolívar|
+1209|	Santa Elena|
+1209|	Guaranda |
+1209|	Salinas|
+1210|	Cotopaxi|
+1210|	Latacunga|
+1211|	Azuay|
+1211|	Cañar|
+1211|	Cuenca|
+1211|	Gualaceo|
+1211|	Azogues|
+1212|	Cotopaxi|
+1212|	Pichincha|
+1212|	Parque Nacional Cotopaxi |
+1212|	Latacunga|
+1212|	Quito |
+1212|	Laguna de Quilotoa|
+1213|	Pichincha|
+1213|	Quito |
+1214|	Guayas|
+1214|	Guayaquil |
+1215|	Pichincha|
+1215|	Quito |
+1216|	Orellana|
+1216|	Pichincha|
+1216|	Puerto Francisco De Orellana|
+1216|	Quito |
+1217|	Pichincha|
+1217|	Quito |
+1218|	Orellana|
+1218|	Sucumbíos|
+1218|	Puerto Francisco De Orellana|
+1218|	Shushufindi|
+1219|	Pichincha|
+1219|	Machachi|
+1220|	Galápagos|
+1220|	Estación Científica Charles Darwin|
+1220|	Puerto Ayora|
+1221|	Imbabura|
+1221|	Cotacachi|
+1221|	Otavalo|
+1222|	Napo|
+1222|	Archidona|
+1223|	Napo|
+1223|	Puerto Misahuallí|
+1223|	Archidona|
+1223|	Tena|
+1224|	Napo|
+1224|	Archidona|
+1225|	Napo|
+1225|	Cavernas de Jumandy|
+1225|	Archidona|
+1225|	Tena|
+1226|	Napo|
+1226|	Archidona|
+1227|	Napo|
+1227|	Archidona|
+1227|	Tena|
+1228|	Napo|
+1228|	Archidona|
+1229|	Bolívar|
+1229|	Guaranda |
+1230|	Tungurahua|
+1230|	Baños|
+1231|	Pastaza|
+1231|	Puyo|
+1232|	Galápagos|
+1232|	Puerto Ayora|
+1233|	Napo|
+1233|	Puerto Misahuallí|
+1233|	Archidona|
+1233|	Tena|
+1234|	Tungurahua|
+1234|	Baños|
+1235|	Napo|
+1235|	Puerto Misahuallí|
+1235|	Cavernas de Jumandy|
+1235|	Archidona|
+1235|	Tena|
+1236|	Napo|
+1236|	Cavernas de Jumandy|
+1236|	Archidona|
+1236|	Tena|
+1237|	Tungurahua|
+1237|	Baños|
+1238|	Sucumbíos|
+1238|	Shushufindi|
+1239|	Napo|
+1239|	Tena|
+1240|	Tungurahua|
+1240|	Baños|
+1241|	Tungurahua|
+1241|	Baños|
+1242|	Galápagos|
+1242|	Puerto Baquerizo Moreno |
+1243|	Chimborazo|
+1243|	Alausí|
+1243|	Riobamba|
+1244|	Pichincha|
+1244|	San Miguel De Los Bancos|
+1245|	Sucumbíos|
+1245|	Nueva Loja|
+1246|	Pichincha|
+1246|	Quito |
+1247|	Tungurahua|
+1247|	Baños|
+1248|	Napo|
+1248|	Parque Nacional Yasuní|
+1248|	Puerto Misahuallí|
+1248|	Tena|
+1249|	Napo|
+1249|	Tena|
+1250|	Bolívar|
+1250|	Guaranda |
+1251|	Bolívar|
+1251|	Guaranda |
+1252|	Napo|
+1252|	Tena|
+1253|	Azuay|
+1253|	Cuenca|
+1254|	Azuay|
+1254|	Cuenca|
+1255|	Azuay|
+1255|	Cuenca|
+1256|	Azuay|
+1256|	Cuenca|
+1257|	Azuay|
+1257|	Cuenca|
+1258|	Galápagos|
+1258|	Puerto Ayora|
+1259|	Galápagos|
+1259|	Puerto Villamil|
+1260|	Domingo De Los Tsáchilas|
+1260|	Santo Domingo|
+1261|	Pichincha|
+1261|	Quito |
+1262|	Azuay|
+1262|	Cuenca|
+1263|	Azuay|
+1263|	Gualaceo|
+1264|	Cañar|
+1265|	Pichincha|
+1265|	Quito |
+1266|	Tungurahua|
+1266|	Baños|
+1267|	Chimborazo|
+1267|	Alausí|
+1268|	Azuay|
+1268|	Santa Isabel|
+1269|	Azuay|
+1269|	Cuenca|
+1270|	Pichincha|
+1270|	Quito |
+1271|	Azuay|
+1271|	Gualaceo|
+1272|	Cañar|
+1273|	Guayas|
+1273|	Guayaquil |
+1274|	Azuay|
+1274|	Cuenca|
+1275|	Bolívar|
+1275|	Guaranda |
+1276|	Carchi|
+1276|	Imbabura|
+1276|	El Ángel|
+1276|	Cotacachi|
+1276|	Otavalo|
+1277|	Bolívar|
+1277|	Guaranda |
+1278|	Bolívar|
+1278|	Guaranda |
+1279|	Napo|
+1279|	Tena|
+1280|	Guayas|
+1280|	Guayaquil |
+1281|	Tungurahua|
+1281|	Baños|
+1282|	Azuay|
+1282|	Chimborazo|
+1282|	Guayas|
+1282|	Pichincha|
+1282|	Ciudad Mitad del Mundo|
+1282|	Cuenca|
+1282|	Riobamba|
+1282|	Guayaquil |
+1282|	Quito |
+1283|	Bolívar|
+1283|	Guaranda |
+1284|	Pichincha|
+1284|	Quito |
+1285|	Azuay|
+1285|	Chordeleg|
+1285|	El Sagrario|
+1285|	San Sebastián|
+1285|	Gualaceo|
+1285|	Guayas|
+1285|	CATEDRAL DE CUENCA|
+1285|	Cuenca|
+1285|	Guayaquil |
+1286|	Bolívar|
+1286|	Guaranda |
+1287|	Chimborazo|
+1287|	Alausí|
+1288|	Pichincha|
+1288|	Quito |
+1289|	Santa Elena|
+1290|	Bolívar|
+1290|	Guaranda |
+1291|	Galápagos|
+1291|	Islas Galápagos|
+1291|	Puerto Ayora|
+1292|	Cotopaxi|
+1292|	Galápagos|
+1292|	Pichincha|
+1292|	Latacunga|
+1292|	Puerto Ayora|
+1292|	Puerto Baquerizo Moreno |
+1292|	Puerto Villamil|
+1292|	Quito |
+1293|	Pichincha|
+1293|	San Miguel De Los Bancos|
+1294|	Napo|
+1294|	Tena|
+1295|	Cotopaxi|
+1295|	Latacunga|
+1296|	Cotopaxi|
+1296|	Latacunga|
+1297|	Napo|
+1297|	Tena|
+1298|	Orellana|
+1298|	Puerto Francisco De Orellana|
+1299|	Sucumbíos|
+1299|	Puerto El Carmen De Putumayo|
+1300|	Cotopaxi|
+1300|	Parque Nacional Cotopaxi |
+1300|	Pujilí|
+1300|	La Avenida de Los Volcanes|
+1300|	Laguna de Quilotoa|
+1301|	Orellana|
+1301|	Puerto Francisco De Orellana|
+1302|	Imbabura|
+1302|	Tungurahua|
+1302|	Parque Nacional Cotopaxi |
+1302|	Feria de Artesanías de Otavalo|
+1302|	Baños de Agua Santa|
+1302|	Otavalo|
+1302|	Baños|
+1303|	Bolívar|
+1303|	Guaranda |
+1304|	Bolívar|
+1304|	Guaranda |
+1305|	Napo|
+1305|	Tena|
+1305|	Tungurahua|
+1305|	Baños de Agua Santa|
+1305|	Baños|
+1306|	Galápagos|
+1306|	Puerto Baquerizo Moreno (Ciudad9|
+1306|	Puerto Ayora|
+1306|	Puerto Villamil|
+1307|	Napo|
+1307|	Tena|
+1308|	Imbabura|
+1308|	Pichincha|
+1308|	Cotacachi|
+1308|	Otavalo|
+1308|	Cayambe|
+1308|	Tabacundo|
+1309|	Pichincha|
+1309|	Quito |
+1310|	Pichincha|
+1310|	Quito |
+1311|	Pichincha|
+1311|	Quito |
+1312|	Tungurahua|
+1312|	Baños|
+1313|	Pichincha|
+1313|	Quito |
+1314|	Pichincha|
+1314|	Quito |
+1315|	Pichincha|
+1315|	Quito |
+1316|	Imbabura|
+1316|	Pichincha|
+1316|	Cotacachi|
+1316|	Otavalo|
+1316|	Cayambe|
+1316|	Tabacundo|
+1317|	Cotopaxi|
+1317|	Latacunga|
+1317|	Pujilí|
+1318|	Pichincha|
+1318|	Quito |
+1319|	Azuay|
+1319|	Chimborazo|
+1319|	Pichincha|
+1319|	Tungurahua|
+1319|	Cuenca|
+1319|	Alausí|
+1319|	Quito |
+1319|	Baños|
+1320|	Galápagos|
+1320|	Islas Galápagos|
+1320|	Puerto Ayora|
+1320|	Puerto Villamil|
+1321|	Pichincha|
+1321|	Quito |
+1322|	Sucumbíos|
+1322|	Nueva Loja|
+1323|	Galápagos|
+1323|	Puerto Ayora|
+1323|	Puerto Villamil|
+1324|	Tungurahua|
+1324|	Baños|
+1325|	Guayas|
+1325|	Guayaquil |
+1326|	Guayas|
+1326|	Guayaquil |
+1327|	Guayas|
+1327|	Islas Galápagos|
+1327|	Guayaquil |
+1328|	Galápagos|
+1328|	Estación Científica Charles Darwin|
+1328|	Puerto Ayora|
+1329|	Galápagos|
+1329|	Puerto Ayora|
+1329|	Puerto Villamil|
+1330|	Pichincha|
+1330|	Quito |
+1331|	Galápagos|
+1331|	Puerto Baquerizo Moreno |
+1332|	Galápagos|
+1332|	Puerto Ayora|
+1333|	Galápagos|
+1333|	Puerto Ayora|
+1333|	Puerto Baquerizo Moreno |
+1333|	Puerto Villamil|
+1334|	Galápagos|
+1334|	Islas Galápagos|
+1334|	Puerto Ayora|
+1335|	Pichincha|
+1335|	Reserva de Producción Faunística Cuyabeno|
+1335|	Quito |
+1336|	Cotopaxi|
+1336|	Saquisilí|
+1337|	Galápagos|
+1337|	Estación Científica Charles Darwin|
+1337|	Puerto Ayora|
+1338|	Guayas|
+1338|	Guayaquil |
+1339|	Pichincha|
+1339|	Quito |
+1340|	Carchi|
+1340|	Imbabura|
+1340|	Pichincha|
+1340|	El Ángel|
+1340|	Ibarra|
+1340|	Otavalo|
+1340|	Quito |
+1341|	Galápagos|
+1341|	Puerto Ayora|
+1341|	Puerto Baquerizo Moreno |
+1342|	Cotopaxi|
+1342|	Latacunga|
+1343|	Cotopaxi|
+1343|	Sigchos|
+1343|	Pichincha|
+1343|	Latacunga|
+1343|	Machachi|
+1343|	Laguna de Quilotoa|
+1344|	Galápagos|
+1344|	Puerto Ayora|
+1344|	Puerto Villamil|
+1345|	Chimborazo|
+1345|	Riobamba|
+1346|	Pichincha|
+1346|	Quito |
+1347|	Pichincha|
+1347|	Quito |
+1348|	Pichincha|
+1348|	Quito |
+1349|	Galápagos|
+1349|	Puerto Ayora|
+1349|	Puerto Baquerizo Moreno |
+1349|	Puerto Villamil|
+1350|	Imbabura|
+1350|	Otavalo|
+1351|	Pichincha|
+1351|	Quito |
+1352|	Pichincha|
+1352|	Quito |
+1354|	Pichincha|
+1354|	Quito |
+1355|	Galápagos|
+1355|	Puerto Ayora|
+1356|	Tungurahua|
+1356|	Baños|
+1357|	Galápagos|
+1357|	Islas Galápagos|
+1358|	Chimborazo|
+1358|	Alausí|
+1360|	Manabí|
+1360|	Jipijapa |
+1361|	Santa Elena|
+1361|	Salinas|
+1362|	Morona Santiago|
+1362|	Limón Indanza |
+1363|	Tungurahua|
+1363|	Baños|
+1364|	Cotopaxi|
+1364|	Pujilí|
+1365|	Loja|
+1366|	Cañar|
+1367|	Galápagos|
+1367|	Puerto Ayora|
+1368|	Galápagos|
+1368|	Puerto Ayora|
+1369|	Azuay|
+1369|	Paute|
+1370|	Galápagos|
+1370|	Puerto Ayora|
+1371|	Galápagos|
+1371|	Puerto Ayora|
+1372|	Galápagos|
+1372|	Puerto Ayora|
+1373|	Napo|
+1373|	Papallacta|
+1373|	Puerto Napo|
+1373|	Pichincha|
+1373|	Tena|
+1373|	Quito |
+1374|	Morona Santiago|
+1374|	Napo|
+1374|	Pastaza|
+1374|	Palora |
+1374|	Tena|
+1374|	Puyo|
+1375|	Guayas|
+1375|	Guayaquil |
+1376|	Guayas|
+1376|	Guayaquil |
+1377|	Guayas|
+1377|	Guayaquil |
+1378|	Guayas|
+1378|	Durán|
+1378|	El Triunfo|
+1378|	Guayaquil |
+1378|	Milagro|
+1379|	Galápagos|
+1379|	Puerto Ayora|
+1379|	Estación Científica Charles Darwin|
+1379|	Islas Galápagos|
+1380|	Galápagos|
+1380|	Puerto Ayora|
+1380|	Islas Galápagos|
+1381|	Galápagos|
+1381|	Islas Galápagos|
+1382|	Galápagos|
+1382|	Islas Galápagos|
+1383|	Galápagos|
+1383|	Islas Galápagos|
+1384|	Galápagos|
+1384|	Islas Galápagos|
+1385|	Galápagos|
+1385|	Islas Galápagos|
+1386|	Galápagos|
+1386|	Islas Galápagos|
+1387|	Galápagos|
+1387|	Islas Galápagos|
+1388|	Galápagos|
+1388|	Islas Galápagos|
+1389|	Galápagos|
+1389|	Islas Galápagos|
+1390|	Galápagos|
+1390|	Islas Galápagos|
+1391|	Galápagos|
+1391|	Islas Galápagos|
+1392|	Galápagos|
+1392|	Islas Galápagos|
+1393|	Galápagos|
+1393|	Islas Galápagos|
+1394|	Galápagos|
+1394|	Islas Galápagos|
+1395|	Galápagos|
+1395|	Islas Galápagos|
+1396|	Galápagos|
+1396|	Islas Galápagos|
+1397|	Galápagos|
+1397|	Islas Galápagos|
+1398|	Galápagos|
+1398|	Islas Galápagos|
+1399|	Galápagos|
+1399|	Islas Galápagos|
+1400|	Galápagos|
+1400|	Islas Galápagos|
+1401|	Galápagos|
+1401|	Islas Galápagos|
+1402|	Galápagos|
+1402|	Islas Galápagos|
+1403|	Galápagos|
+1403|	Islas Galápagos|
+1404|	Galápagos|
+1404|	Islas Galápagos|
+1405|	Galápagos|
+1405|	Islas Galápagos|
+1406|	Galápagos|
+1406|	Islas Galápagos|
+1407|	Galápagos|
+1407|	Islas Galápagos|
+1408|	Galápagos|
+1408|	Islas Galápagos|
+1409|	Galápagos|
+1409|	Islas Galápagos|
+1410|	Galápagos|
+1410|	Islas Galápagos|
+1411|	Galápagos|
+1411|	Islas Galápagos|
+1412|	Galápagos|
+1412|	Islas Galápagos|
+1413|	Galápagos|
+1413|	Islas Galápagos|
+1414|	Galápagos|
+1414|	Islas Galápagos|
+1415|	Galápagos|
+1415|	Islas Galápagos|
+1416|	Galápagos|
+1416|	Islas Galápagos|
+1417|	Napo|
+1417|	Tena|
+1418|	Tungurahua|
+1418|	Baños|
+1419|	Pichincha|
+1419|	Quito |
+1420|	Galápagos|
+1420|	Puerto Ayora|
+1421|	Galápagos|
+1421|	Puerto Ayora|
+1422|	Napo|
+1422|	Tena|
+1423|	Cotopaxi|
+1423|	Latacunga|
+1424|	Tungurahua|
+1424|	Ambato|
+1425|	Pichincha|
+1425|	Quito |
+1426|	Pichincha|
+1426|	Quito |
+1427|	Pichincha|
+1427|	Quito |
+1428|	Galápagos|
+1428|	Puerto Baquerizo Moreno |
+1429|	Pichincha|
+1429|	Quito |
+1430|	Galápagos|
+1430|	Puerto Baquerizo Moreno |
+1431|	Pichincha|
+1431|	Quito |
+1432|	Imbabura|
+1432|	Otavalo|
+1433|	Galápagos|
+1433|	Puerto Villamil|
+1433|	Islas Galápagos|
+1434|	Azuay|
+1434|	Cuenca|
+1435|	Azuay|
+1435|	Cuenca|
+1436|	Pichincha|
+1436|	Quito |
+1437|	Azuay|
+1437|	Cuenca|
+1438|	Azuay|
+1438|	Cuenca|
+1439|	Azuay|
+1439|	Cuenca|
+1440|	Azuay|
+1440|	Cuenca|
+1441|	Guayas|
+1441|	Guayaquil |
+1442|	Guayas|
+1442|	Guayaquil |
+1443|	Galápagos|
+1443|	Islas Galápagos|
+1444|	Galápagos|
+1444|	Islas Galápagos|
+1445|	Galápagos|
+1445|	Puerto Villamil|
+1446|	Galápagos|
+1446|	Islas Galápagos|
+1447|	Galápagos|
+1447|	Islas Galápagos|
+1448|	Cotopaxi|
+1448|	Latacunga|
+1449|	Pichincha|
+1449|	San Miguel De Los Bancos|
+1450|	Sucumbíos|
+1450|	Shushufindi|
+1451|	Galápagos|
+1451|	Puerto Ayora|
+1452|	Galápagos|
+1452|	Puerto Ayora|
+1453|	Galápagos|
+1453|	Puerto Villamil|
+1453|	Islas Galápagos|
+1454|	Orellana|
+1454|	Puerto Francisco De Orellana|
+1455|	Manabí|
+1455|	Puerto López|
+1456|	Pichincha|
+1456|	Quito |
+1457|	Pichincha|
+1457|	Quito |
+1458|	Cotopaxi|
+1458|	Chugchillán|
+1458|	Sigchos|
+1458|	Saquisilí|
+1458|	Laguna de Quilotoa|
+1459|	Azuay|
+1459|	Chimborazo|
+1459|	Guayas|
+1459|	Pichincha|
+1459|	Cuenca|
+1459|	Riobamba|
+1459|	Guayaquil |
+1459|	Quito |
+1460|	Pichincha|
+1460|	San Miguel De Los Bancos|
+1461|	Pichincha|
+1461|	Quito |
+1462|	Pichincha|
+1462|	Quito |
+1463|	Pichincha|
+1463|	Quito |
+1464|	Pichincha|
+1464|	Quito |
+1465|	Pichincha|
+1465|	Quito |
+1466|	Pichincha|
+1466|	Quito |
+1467|	Pichincha|
+1467|	Quito |
+1468|	Pichincha|
+1468|	Quito |
+1469|	Galápagos|
+1469|	Islas Galápagos|
+1470|	Galápagos|
+1470|	Islas Galápagos|
+1473|	Azuay|
+1473|	Cuenca|
+1474|	Pichincha|
+1474|	San Miguel De Los Bancos|
+1475|	Azuay|
+1475|	Cuenca|
+1476|	Cotopaxi|
+1476|	Latacunga|
+1477|	Cotopaxi|
+1477|	Latacunga|
+1478|	Pichincha|
+1478|	Quito |
+1479|	Imbabura|
+1479|	Otavalo|
+1480|	Cotopaxi|
+1480|	Latacunga|
+1481|	Galápagos|
+1481|	Islas Galápagos|
+1482|	Galápagos|
+1482|	Islas Galápagos|
+1483|	Galápagos|
+1483|	Islas Galápagos|
+1484|	Manabí|
+1484|	Puerto López|
+1485|	Galápagos|
+1485|	Islas Galápagos|
+1486|	Pichincha|
+1486|	Machachi|
+1487|	Loja|
+1488|	Guayas|
+1488|	Guayaquil |
+1489|	Guayas|
+1489|	Guayaquil |
+1490|	Guayas|
+1490|	Guayaquil |
+1491|	Guayas|
+1491|	Guayaquil |
+1492|	Guayas|
+1492|	Guayaquil |
+1493|	Guayas|
+1493|	Guayaquil |
+1494|	Imbabura|
+1494|	Cotacachi|
+1494|	Otavalo|
+1495|	Imbabura|
+1495|	Cotacachi|
+1496|	Pichincha|
+1496|	Quito |
+1497|	Guayas|
+1497|	Guayaquil |
+1498|	Azuay|
+1498|	Cuenca|
+1499|	Galápagos|
+1499|	Imbabura|
+1499|	Pichincha|
+1499|	Cotacachi|
+1499|	Otavalo|
+1499|	Quito |
+1499|	Islas Galápagos|
+1500|	Galápagos|
+1500|	Puerto Ayora|
+1500|	Islas Galápagos|
+1501|	Galápagos|
+1501|	Puerto Ayora|
+1501|	Islas Galápagos|
+1502|	Pichincha|
+1502|	Quito |
+1503|	Imbabura|
+1503|	Pichincha|
+1503|	Otavalo|
+1503|	Quito |
+1504|	Chimborazo|
+1504|	Riobamba|
+1505|	Pichincha|
+1505|	Quito |
+1506|	Pichincha|
+1506|	Quito |
+1507|	Esmeraldas|
+1507|	Playa Atacames|
+1507|	Esmeraldas(Ciudad)|
+1508|	Tungurahua|
+1508|	Baños|
+1509|	Chimborazo|
+1509|	Alausí|
+1510|	Pichincha|
+1510|	San Miguel De Los Bancos|
+1511|	Pichincha|
+1511|	San Miguel De Los Bancos|
+1512|	Pichincha|
+1512|	San Miguel De Los Bancos|
+1513|	Galápagos|
+1513|	Puerto Ayora|
+1514|	Manabí|
+1514|	Puerto López|
+1515|	Tungurahua|
+1515|	Ambato|
+1519|	Galápagos|
+1519|	Islas Galápagos|
+1520|	Galápagos|
+1520|	Islas Galápagos|
+1521|	Galápagos|
+1521|	Islas Galápagos|
+1522|	Galápagos|
+1522|	Islas Galápagos|
+1523|	Galápagos|
+1523|	Islas Galápagos|
+1524|	Galápagos|
+1524|	Islas Galápagos|
+1525|	Galápagos|
+1525|	Islas Galápagos|
+1526|	Galápagos|
+1526|	Islas Galápagos|
+1527|	Azuay|
+1527|	Cuenca|
+1528|	Galápagos|
+1528|	Puerto Ayora|
+1529|	Tungurahua|
+1529|	Baños|
+1530|	Cotopaxi|
+1530|	Latacunga|
+1530|	Saquisilí|
+1531|	Galápagos|
+1531|	Puerto Ayora|
+1532|	Tungurahua|
+1532|	Baños|
+1533|	Tungurahua|
+1533|	Baños|
+1534|	Tungurahua|
+1534|	Baños|
+1535|	Galápagos|
+1535|	Islas Galápagos|
+1536|	Guayas|
+1536|	Guayaquil |
+1537|	Tungurahua|
+1537|	Baños|
+1538|	Tungurahua|
+1538|	Baños|
+1539|	Tungurahua|
+1539|	Baños|
+1540|	Galápagos|
+1540|	Puerto Ayora|
+1541|	Pichincha|
+1541|	Quito |
+1541|	San Miguel De Los Bancos|
+1542|	Galápagos|
+1542|	Islas Galápagos|
+1543|	Azuay|
+1543|	Guayas|
+1543|	Cuenca|
+1543|	Guayaquil |
+1544|	Azuay|
+1544|	Guayas|
+1544|	Cuenca|
+1544|	Guayaquil |
+1545|	Pichincha|
+1545|	Quito |
+1546|	Pichincha|
+1546|	Quito |
+1547|	Pichincha|
+1547|	Quito |
+1548|	Pichincha|
+1548|	Quito |
+1549|	Pichincha|
+1549|	Quito |
+1550|	Pichincha|
+1550|	Quito |
+1551|	Pichincha|
+1551|	Quito |
+1552|	Pichincha|
+1552|	Quito |
+1553|	Pichincha|
+1553|	Quito |
+1554|	Imbabura|
+1554|	Otavalo|
+1555|	Loja|
+1556|	Azuay|
+1556|	Cañar|
+1556|	Cuenca|
+1556|	Gualaceo|
+1557|	Galápagos|
+1557|	Imbabura|
+1557|	Pichincha|
+1557|	Cotacachi|
+1557|	Otavalo|
+1557|	Quito |
+1557|	Islas Galápagos|
+1558|	Imbabura|
+1558|	Pichincha|
+1558|	Cotacachi|
+1558|	Otavalo|
+1558|	Quito |
+1559|	Azuay|
+1559|	Chimborazo|
+1559|	Guayas|
+1559|	Pichincha|
+1559|	Cuenca|
+1559|	Riobamba|
+1559|	Guayaquil |
+1559|	Quito |
+1560|	Tungurahua|
+1560|	Baños|
+1561|	Tungurahua|
+1561|	Baños|
+1562|	Tungurahua|
+1562|	Baños|
+1563|	Galápagos|
+1563|	Puerto Ayora|
+1564|	Azuay|
+1564|	Chimborazo|
+1564|	Guayas|
+1564|	Imbabura|
+1564|	Manabí|
+1564|	Pichincha|
+1564|	Cuenca|
+1564|	Alausí|
+1564|	Riobamba|
+1564|	Guayaquil |
+1564|	Otavalo|
+1564|	Quito |
+1564|	Puerto López|
+1565|	Pichincha|
+1565|	Quito |
+1566|	Pichincha|
+1566|	Quito |
+1567|	Pichincha|
+1567|	Quito |
+1568|	Pichincha|
+1568|	Quito |
+1569|	Pichincha|
+1569|	Quito |
+1570|	Pichincha|
+1570|	Quito |
+1571|	Pichincha|
+1571|	Quito |
+1572|	Pichincha|
+1572|	Quito |
+1573|	Pichincha|
+1573|	Quito |
+1574|	Pichincha|
+1574|	Quito |
+1575|	Imbabura|
+1575|	Pichincha|
+1575|	Cotacachi|
+1575|	Otavalo|
+1575|	Cayambe|
+1576|	Galápagos|
+1576|	Puerto Ayora|
+1577|	Galápagos|
+1577|	Puerto Ayora|
+1578|	Galápagos|
+1578|	Puerto Ayora|
+1579|	Galápagos|
+1579|	Puerto Ayora|
+1580|	Galápagos|
+1580|	Puerto Ayora|
+1580|	Puerto Villamil|
+1581|	Guayas|
+1581|	Guayaquil |
+1582|	Tungurahua|
+1582|	Quero|
+1583|	Tungurahua|
+1583|	Quero|
+1584|	Tungurahua|
+1584|	Quero|
+1585|	Tungurahua|
+1585|	Quero|
+1586|	Pichincha|
+1586|	Tungurahua|
+1586|	Quito |
+1586|	Quero|
+1587|	Tungurahua|
+1587|	Quero|
+1588|	Tungurahua|
+1588|	Quero|
+1589|	Tungurahua|
+1589|	Quero|
+1590|	Guayas|
+1590|	Guayaquil |
+1591|	Guayas|
+1591|	Guayaquil |
+1592|	Guayas|
+1592|	Guayaquil |
+1593|	Guayas|
+1593|	Guayaquil |
+1594|	Galápagos|
+1594|	Puerto Villamil|
+1595|	Guayas|
+1595|	Guayaquil |
+1596|	Guayas|
+1596|	Guayaquil |
+1597|	Guayas|
+1597|	Guayaquil |
+1598|	Guayas|
+1598|	Guayaquil |
+1599|	Guayas|
+1599|	Guayaquil |
+1599|	Naranjal|
+1600|	Guayas|
+1600|	Guayaquil |
+1600|	Naranjal|
+1601|	Chimborazo|
+1601|	Guayas|
+1601|	Penipe|
+1601|	Riobamba|
+1601|	Guayaquil |
+1601|	Lagunas de El Altar|
+1602|	Azuay|
+1602|	Cuenca|
+1602|	Gualaceo|
+1603|	Azuay|
+1603|	Cañar|
+1603|	Cuenca|
+1603|	Azogues|
+1604|	Pichincha|
+1604|	Quito |
+1605|	Cotopaxi|
+1605|	Pujilí|
+1606|	Galápagos|
+1606|	Islas Galápagos|
+1607|	Galápagos|
+1607|	Islas Galápagos|
+1608|	Galápagos|
+1608|	Pichincha|
+1608|	Quito |
+1608|	Islas Galápagos|
+1609|	Pichincha|
+1609|	Quito |
+1610|	Galápagos|
+1610|	Islas Galápagos|
+1611|	Pichincha|
+1611|	Quito |
+1612|	Pichincha|
+1612|	Quito |
+1613|	Pichincha|
+1613|	Quito |
+1614|	Guayas|
+1614|	Guayaquil |
+1615|	Guayas|
+1615|	Guayaquil |
+1616|	Galápagos|
+1616|	Islas Galápagos|
+1617|	Galápagos|
+1617|	Islas Galápagos|
+1618|	Galápagos|
+1618|	Islas Galápagos|
+1619|	Galápagos|
+1619|	Islas Galápagos|
+1620|	Azuay|
+1620|	Cuenca|
+1620|	Girón|
+1620|	San Fernando|
+1621|	Azuay|
+1621|	Cuenca|
+1621|	Girón|
+1621|	San Fernando|
+1622|	Imbabura|
+1622|	Otavalo|
+1623|	Tungurahua|
+1623|	Quero|
+1624|	Tungurahua|
+1624|	Quero|
+1625|	Tungurahua|
+1625|	Quero|
+1626|	Pichincha|
+1626|	Quito |
+1627|	Pichincha|
+1627|	Quito |
+1628|	Pichincha|
+1628|	Quito |
+1629|	Pichincha|
+1629|	Distrito Metropolitano De Quito|
+1629|	Parque Nacional Cotopaxi |
+1629|	Quito |
+1630|	Galápagos|
+1630|	Puerto Ayora|
+1630|	Puerto Villamil|
+1631|	Galápagos|
+1631|	Islas Galápagos|
+1632|	Galápagos|
+1632|	Islas Galápagos|
+1633|	Galápagos|
+1633|	Islas Galápagos|
+1634|	Galápagos|
+1634|	Islas Galápagos|
+1635|	Galápagos|
+1635|	Islas Galápagos|
+1636|	Galápagos|
+1636|	Islas Galápagos|
+1637|	Galápagos|
+1637|	Islas Galápagos|
+1638|	Galápagos|
+1638|	Islas Galápagos|
+1639|	Galápagos|
+1639|	Islas Galápagos|
+1640|	Galápagos|
+1640|	Islas Galápagos|
+1641|	Galápagos|
+1641|	Islas Galápagos|
+1642|	Galápagos|
+1642|	Islas Galápagos|
+1643|	Galápagos|
+1643|	Islas Galápagos|
+1644|	Imbabura|
+1644|	Otavalo|
+1645|	Imbabura|
+1645|	Otavalo|
+1646|	Imbabura|
+1646|	Otavalo|
+1647|	Imbabura|
+1647|	Otavalo|
+1648|	Imbabura|
+1648|	Otavalo|
+1649|	Imbabura|
+1649|	Otavalo|
+1650|	Imbabura|
+1650|	Otavalo|
+1651|	Imbabura|
+1651|	Otavalo|
+1652|	Imbabura|
+1652|	Otavalo|
+1653|	Orellana|
+1653|	Puerto Francisco De Orellana|
+1654|	Pichincha|
+1654|	Cayambe|
+1654|	Quito |
+1655|	Orellana|
+1655|	Puerto Francisco De Orellana|
+1656|	Imbabura|
+1656|	Pichincha|
+1656|	Tungurahua|
+1656|	Otavalo|
+1656|	Quito |
+1656|	Baños|
+1657|	Pichincha|
+1657|	Quito |
+1658|	Napo|
+1658|	Tena|
+1659|	Napo|
+1659|	Tena|
+1660|	Napo|
+1660|	Tena|
+1661|	Napo|
+1661|	Tena|
+1662|	Napo|
+1662|	Tena|
+1663|	Napo|
+1663|	Tena|
+1664|	Napo|
+1664|	Tena|
+1665|	Napo|
+1665|	Tena|
+1666|	Napo|
+1666|	Tena|
+1667|	Napo|
+1667|	Tena|
+1668|	Napo|
+1668|	Tena|
+1669|	Napo|
+1669|	Tena|
+1670|	Napo|
+1670|	Tena|
+1671|	Napo|
+1671|	Tena|
+1672|	Napo|
+1672|	Tena|
+1673|	Pichincha|
+1673|	Quito |
+1674|	Galápagos|
+1674|	Puerto Ayora|
+1674|	Puerto Villamil|
+1675|	Manabí|
+1675|	Puerto López|
+1676|	Manabí|
+1676|	Puerto López|
+1677|	Tungurahua|
+1677|	Baños|
+1678|	Imbabura|
+1678|	Cotacachi|
+1678|	Otavalo|
+1679|	Imbabura|
+1679|	Otavalo|
+1680|	Pichincha|
+1680|	Quito |
+1681|	Loja|
+1682|	Loja|
+1683|	Bolívar|
+1683|	Guaranda |
+1684|	Pastaza|
+1684|	Puyo|

@@ -1,0 +1,2308 @@
+CONCAT(pck.id, '|')	CONCAT(plz.name, '|')
+2050|	Ciudad De México|
+2051|	Baja California Sur|
+2051|	Cabo San Lucas|
+2052|	Quintana Roo|
+2052|	Cancún|
+2053|	Quintana Roo|
+2053|	Cancún|
+2054|	Ciudad De México|
+2055|	Baja California Sur|
+2055|	Cabo San Lucas|
+2056|	Guanajuato|
+2057|	Ciudad De México|
+2057|	Guerrero|
+2057|	Morelos|
+2057|	Taxco de Alarcón|
+2057|	Cuernavaca|
+2058|	Ciudad De México|
+2058|	Puebla|
+2058|	San Andrés Cholula|
+2058|	San Pedro Cholula|
+2059|	Chiapas|
+2059|	Comitán de Domínguez|
+2059|	Palenque|
+2059|	San Cristóbal de las Casas|
+2059|	Tapachula de Córdova y Ordóñez|
+2059|	Tuxtla Gutiérrez|
+2060|	San Luis Potosí|
+2060|	El Naranjo|
+2061|	Campeche|
+2061|	San Francisco de Campeche|
+2062|	Jalisco|
+2062|	Guadalajara|
+2062|	Tequila|
+2063|	Michoacán De Ocampo|
+2063|	Mineral De Angangueo|
+2063|	Morelia|
+2064|	Chiapas|
+2064|	Chiapa de Corzo|
+2064|	San Cristóbal de las Casas|
+2065|	Chiapas|
+2065|	San Cristóbal de las Casas|
+2066|	Chiapas|
+2066|	Palenque|
+2066|	San Cristóbal de las Casas|
+2067|	Chiapas|
+2067|	San Cristóbal de las Casas|
+2068|	Yucatán|
+2068|	Mérida|
+2069|	Quintana Roo|
+2069|	Cancún|
+2070|	Yucatán|
+2070|	Mérida|
+2071|	Yucatán|
+2071|	Mérida|
+2072|	Yucatán|
+2072|	Mérida|
+2073|	Quintana Roo|
+2073|	Cancún|
+2073|	Isla Mujeres|
+2073|	Playa del Carmen|
+2074|	San Luis Potosí|
+2074|	Ciudad Valles|
+2075|	Durango|
+2075|	Nombre de Dios|
+2076|	Michoacán De Ocampo|
+2076|	Morelia|
+2078|	Durango|
+2078|	Victoria de Durango|
+2079|	Durango|
+2079|	Los Berros|
+2079|	El Saltito|
+2079|	Nombre De Dios|
+2079|	La Constancia|
+2079|	Victoria de Durango|
+2080|	Jalisco|
+2080|	Tlaquepaque|
+2080|	Tequila|
+2081|	Campeche|
+2081|	San Francisco de Campeche|
+2082|	Querétaro|
+2083|	San Luis Potosí|
+2083|	Ciudad Valles|
+2084|	México|
+2084|	Toluca de Lerdo|
+2085|	Querétaro|
+2086|	Chiapas|
+2086|	Oaxaca|
+2086|	Puebla|
+2086|	Tabasco|
+2086|	Chiapa de Corzo|
+2086|	Palenque|
+2086|	San Cristóbal de las Casas|
+2086|	Santo Domingo Tehuantepec|
+2086|	Villahermosa|
+2087|	Querétaro|
+2089|	Quintana Roo|
+2089|	Cancún|
+2090|	San Luis Potosí|
+2090|	Ciudad Valles|
+2090|	Tamasopo|
+2091|	Oaxaca|
+2091|	Huatulco|
+2092|	Oaxaca|
+2092|	Santa María Huatulco|
+2092|	Huatulco|
+2093|	Oaxaca|
+2093|	Huatulco|
+2094|	Oaxaca|
+2094|	Huatulco|
+2095|	Quintana Roo|
+2095|	Yucatán|
+2095|	Cancún|
+2095|	Playa del Carmen|
+2095|	Valladolid|
+2096|	México|
+2096|	Toluca de Lerdo|
+2096|	Valle de Bravo|
+2097|	Quintana Roo|
+2097|	Cancún|
+2097|	Playa del Carmen|
+2098|	Oaxaca|
+2098|	Huatulco|
+2099|	Oaxaca|
+2099|	Huatulco|
+2100|	Oaxaca|
+2100|	Huatulco|
+2102|	Morelos|
+2102|	Cuernavaca|
+2103|	Quintana Roo|
+2103|	Cancún|
+2103|	Playa del Carmen|
+2104|	Quintana Roo|
+2104|	Cancún|
+2105|	Querétaro|
+2105|	Tequisquiapan|
+2106|	Guanajuato|
+2106|	San miguel de Allende|
+2107|	Ciudad De México|
+2107|	México|
+2107|	San Juan Teotihuacan |
+2108|	México|
+2108|	Aculco|
+2109|	Ciudad De México|
+2109|	Puebla|
+2110|	Ciudad De México|
+2110|	Querétaro|
+2111|	Ciudad De México|
+2111|	México|
+2111|	Valle de Bravo|
+2112|	Ciudad De México|
+2112|	Guanajuato|
+2112|	Dolores Hidalgo Cuna De La Independencia Nacional|
+2112|	Puebla|
+2112|	Querétaro|
+2112|	Dolores Hidalgo|
+2112|	San miguel de Allende|
+2113|	Quintana Roo|
+2113|	Cancún|
+2113|	Playa del Carmen|
+2114|	Quintana Roo|
+2114|	Cancún|
+2115|	Oaxaca|
+2116|	Quintana Roo|
+2116|	Cancún|
+2116|	Playa del Carmen|
+2117|	Quintana Roo|
+2117|	Cancún|
+2117|	Playa del Carmen|
+2118|	Quintana Roo|
+2118|	Cancún|
+2118|	Isla Mujeres|
+2118|	Playa del Carmen|
+2119|	Quintana Roo|
+2119|	Cancún|
+2119|	Playa del Carmen|
+2120|	Oaxaca|
+2121|	México|
+2121|	Metepec|
+2121|	Toluca de Lerdo|
+2122|	Oaxaca|
+2123|	Oaxaca|
+2124|	Ciudad De México|
+2124|	México|
+2124|	Morelos|
+2124|	Cuernavaca|
+2124|	Malinalco|
+2125|	Ciudad De México|
+2125|	Querétaro|
+2126|	Ciudad De México|
+2126|	México|
+2126|	Puebla|
+2126|	Toluca de Lerdo|
+2127|	México|
+2127|	Puebla|
+2127|	Toluca de Lerdo|
+2128|	Ciudad De México|
+2128|	México|
+2128|	Toluca de Lerdo|
+2129|	Ciudad De México|
+2129|	México|
+2129|	Toluca de Lerdo|
+2130|	Ciudad De México|
+2130|	Puebla|
+2131|	Ciudad De México|
+2131|	Veracruz De Ignacio De La Llave|
+2131|	Veracruz|
+2132|	Ciudad De México|
+2132|	Tlaxcala|
+2132|	Tlaxcala (Tlaxcala de Xicotencatl)|
+2133|	Ciudad De México|
+2133|	Morelos|
+2133|	Tepoztlán|
+2134|	Ciudad De México|
+2135|	Ciudad De México|
+2135|	Guerrero|
+2135|	San Jerónimo de Juárez|
+2136|	Ciudad De México|
+2136|	Morelos|
+2136|	Tepoztlán|
+2137|	Ciudad De México|
+2137|	Tlaxcala|
+2137|	Tlaxcala (Tlaxcala de Xicotencatl)|
+2138|	Ciudad De México|
+2139|	Ciudad De México|
+2139|	Guerrero|
+2139|	Taxco de Alarcón|
+2140|	México|
+2140|	Valle de Bravo|
+2141|	México|
+2141|	Valle de Bravo|
+2142|	Quintana Roo|
+2142|	Cancún|
+2142|	Playa del Carmen|
+2143|	Quintana Roo|
+2143|	Cancún|
+2143|	Playa del Carmen|
+2144|	Quintana Roo|
+2144|	Cancún|
+2144|	Playa del Carmen|
+2145|	Ciudad De México|
+2145|	Guanajuato|
+2145|	San miguel de Allende|
+2146|	Quintana Roo|
+2146|	Cancún|
+2146|	Playa del Carmen|
+2147|	Oaxaca|
+2147|	Puerto Escondido|
+2148|	Oaxaca|
+2148|	San José de Manialtepec|
+2149|	Oaxaca|
+2149|	Chacahua|
+2150|	Oaxaca|
+2150|	Huatulco|
+2151|	Oaxaca|
+2151|	Huatulco|
+2152|	Oaxaca|
+2152|	Huatulco|
+2153|	Quintana Roo|
+2153|	Chetumal|
+2154|	Puebla|
+2154|	San Pedro Cholula|
+2155|	Querétaro|
+2155|	Peña de Bernal|
+2156|	Querétaro|
+2156|	Peña de Bernal|
+2157|	Ciudad De México|
+2157|	México|
+2157|	San Juan Teotihuacan |
+2158|	Ciudad De México|
+2158|	México|
+2158|	San Juan Teotihuacan |
+2159|	Hidalgo|
+2159|	Tolantongo|
+2160|	Ciudad De México|
+2161|	Guerrero|
+2161|	Taxco de Alarcón|
+2161|	Cacahuamilpa|
+2162|	Ciudad De México|
+2162|	México|
+2162|	Toluca de Lerdo|
+2162|	Tenancingo de Degollado|
+2163|	Jalisco|
+2163|	Puerto Vallarta|
+2164|	Quintana Roo|
+2164|	Cancún|
+2165|	Quintana Roo|
+2165|	Cancún|
+2166|	Campeche|
+2166|	Chiapas|
+2166|	Quintana Roo|
+2166|	Yucatán|
+2166|	San Francisco de Campeche|
+2166|	Chiapa de Corzo|
+2166|	Palenque|
+2166|	San Cristóbal de las Casas|
+2166|	Cancún|
+2166|	Mérida|
+2167|	Ciudad De México|
+2168|	Ciudad De México|
+2168|	México|
+2168|	Valle de Bravo|
+2169|	Quintana Roo|
+2169|	Yucatán|
+2169|	Cancún|
+2169|	Valladolid|
+2170|	Quintana Roo|
+2170|	Yucatán|
+2170|	Cancún|
+2170|	Mérida|
+2171|	Quintana Roo|
+2171|	Playa del Carmen|
+2172|	Quintana Roo|
+2172|	Cancún|
+2172|	Cozumel|
+2173|	Ciudad De México|
+2173|	México|
+2173|	San Juan Teotihuacan |
+2174|	Ciudad De México|
+2174|	Xochimilco|
+2175|	Ciudad De México|
+2176|	Ciudad De México|
+2177|	Ciudad De México|
+2177|	México|
+2177|	San Juan Teotihuacan |
+2178|	Ciudad De México|
+2179|	Ciudad De México|
+2179|	México|
+2179|	San Juan Teotihuacan |
+2180|	Quintana Roo|
+2180|	Playa del Carmen|
+2181|	Quintana Roo|
+2181|	Playa del Carmen|
+2182|	Quintana Roo|
+2182|	Playa del Carmen|
+2183|	Quintana Roo|
+2183|	Playa del Carmen|
+2184|	Quintana Roo|
+2184|	Playa del Carmen|
+2185|	Quintana Roo|
+2185|	Playa del Carmen|
+2186|	Quintana Roo|
+2186|	Playa del Carmen|
+2187|	Ciudad De México|
+2188|	Querétaro|
+2188|	Peña de Bernal|
+2189|	Ciudad De México|
+2190|	Ciudad De México|
+2191|	Ciudad De México|
+2192|	Querétaro|
+2192|	Peña de Bernal|
+2193|	Ciudad De México|
+2193|	México|
+2193|	San Juan Teotihuacan |
+2194|	Veracruz De Ignacio De La Llave|
+2194|	Veracruz|
+2195|	México|
+2195|	San Juan Teotihuacan |
+2196|	Veracruz De Ignacio De La Llave|
+2196|	Catemaco|
+2196|	Veracruz|
+2197|	México|
+2197|	San Juan Teotihuacan |
+2198|	Ciudad De México|
+2198|	México|
+2198|	San Juan Teotihuacan |
+2199|	Nuevo León|
+2199|	Monterrey|
+2200|	Puebla|
+2200|	San Pedro Cholula|
+2201|	Guerrero|
+2201|	Morelos|
+2201|	Taxco de Alarcón|
+2201|	Cuernavaca|
+2202|	Chiapas|
+2202|	Palenque|
+2202|	San Cristóbal de las Casas|
+2203|	Nuevo León|
+2203|	Monterrey|
+2203|	Santiago|
+2204|	Hidalgo|
+2204|	Pachuca de Soto|
+2205|	Ciudad De México|
+2205|	Guanajuato|
+2205|	San miguel de Allende|
+2206|	Puebla|
+2206|	San Andrés Cholula|
+2207|	México|
+2207|	San Juan Teotihuacan |
+2208|	Veracruz De Ignacio De La Llave|
+2208|	Catemaco|
+2208|	Santiago Tuxtla|
+2209|	Veracruz De Ignacio De La Llave|
+2209|	Papantla de Olarte|
+2209|	Veracruz|
+2210|	Veracruz De Ignacio De La Llave|
+2210|	Córdoba|
+2210|	Fortín de las Flores|
+2210|	Orizaba|
+2211|	Nuevo León|
+2211|	García|
+2212|	Ciudad De México|
+2212|	México|
+2212|	San Juan Teotihuacan |
+2213|	San Luis Potosí|
+2213|	Ciudad Valles|
+2214|	Nuevo León|
+2214|	Monterrey|
+2214|	Santiago|
+2215|	Ciudad De México|
+2216|	Veracruz De Ignacio De La Llave|
+2216|	Coatepec|
+2216|	Veracruz|
+2216|	Xalapa-Enríquez|
+2217|	Nuevo León|
+2217|	Monterrey|
+2218|	Sonora|
+2218|	Hermosillo|
+2218|	San Carlos|
+2219|	Ciudad De México|
+2220|	Ciudad De México|
+2221|	Ciudad De México|
+2221|	Puebla|
+2222|	Veracruz De Ignacio De La Llave|
+2222|	José Cardel|
+2222|	Veracruz|
+2222|	Cempoala|
+2223|	Chiapas|
+2223|	San Cristóbal de las Casas|
+2223|	Tuxtla Gutiérrez|
+2224|	Nayarit|
+2224|	San Blas|
+2225|	Ciudad De México|
+2225|	México|
+2225|	San Juan Teotihuacan |
+2226|	Ciudad De México|
+2227|	Ciudad De México|
+2228|	Ciudad De México|
+2228|	Xochimilco|
+2229|	Ciudad De México|
+2230|	Ciudad De México|
+2231|	Ciudad De México|
+2231|	Querétaro|
+2231|	Peña de Bernal|
+2233|	Veracruz De Ignacio De La Llave|
+2233|	Alvarado|
+2233|	Tlacojalpan|
+2233|	Veracruz|
+2234|	Ciudad De México|
+2235|	Ciudad De México|
+2236|	Ciudad De México|
+2238|	Ciudad De México|
+2239|	Ciudad De México|
+2240|	Guanajuato|
+2240|	Jalisco|
+2240|	Michoacán De Ocampo|
+2240|	San Luis Potosí|
+2240|	Zacatecas|
+2240|	Guadalajara|
+2240|	Morelia|
+2240|	Pátzcuaro|
+2241|	Guanajuato|
+2241|	Jalisco|
+2241|	Michoacán De Ocampo|
+2241|	San Luis Potosí|
+2241|	Zacatecas|
+2241|	Guadalajara|
+2241|	Morelia|
+2241|	Pátzcuaro|
+2242|	Guanajuato|
+2242|	Jalisco|
+2242|	Michoacán De Ocampo|
+2242|	San Luis Potosí|
+2242|	Zacatecas|
+2242|	Guadalajara|
+2242|	Morelia|
+2242|	Pátzcuaro|
+2243|	Guanajuato|
+2243|	Querétaro|
+2243|	San Luis de la Paz|
+2244|	Guanajuato|
+2244|	San miguel de Allende|
+2245|	Guanajuato|
+2245|	San miguel de Allende|
+2246|	Jalisco|
+2246|	Villa Corona|
+2247|	San Luis Potosí|
+2247|	Xilitla|
+2248|	Guanajuato|
+2248|	San miguel de Allende|
+2249|	Guanajuato|
+2249|	San miguel de Allende|
+2250|	Ciudad De México|
+2250|	Tlaxcala|
+2250|	Tlaxcala (Tlaxcala de Xicotencatl)|
+2251|	Ciudad De México|
+2251|	Tlaxcala|
+2251|	Tlaxcala (Tlaxcala de Xicotencatl)|
+2252|	Puebla|
+2252|	Tlaxcala|
+2252|	Zacatlán|
+2252|	Calpulalpan|
+2252|	Tlaxcala (Tlaxcala de Xicotencatl)|
+2253|	Veracruz De Ignacio De La Llave|
+2253|	Coatepec|
+2253|	Xalapa-Enríquez|
+2254|	Oaxaca|
+2255|	San Luis Potosí|
+2255|	Ciudad Valles|
+2256|	Chiapas|
+2256|	Tuxtla Gutiérrez|
+2257|	Yucatán|
+2257|	Mérida|
+2258|	Chiapas|
+2258|	San Cristóbal de las Casas|
+2258|	Tuxtla Gutiérrez|
+2259|	Chiapas|
+2259|	Palenque|
+2259|	San Cristóbal de las Casas|
+2259|	Tuxtla Gutiérrez|
+2260|	Chiapas|
+2260|	San Cristóbal de las Casas|
+2260|	Tuxtla Gutiérrez|
+2261|	Chiapas|
+2261|	San Cristóbal de las Casas|
+2261|	Tuxtla Gutiérrez|
+2262|	Chiapas|
+2262|	Tuxtla Gutiérrez|
+2263|	Chiapas|
+2263|	Tuxtla Gutiérrez|
+2264|	Chiapas|
+2264|	Tuxtla Gutiérrez|
+2265|	Chiapas|
+2265|	Tuxtla Gutiérrez|
+2266|	Tlaxcala|
+2266|	Tlaxcala (Tlaxcala de Xicotencatl)|
+2267|	Tlaxcala|
+2267|	Calpulalpan|
+2268|	Querétaro|
+2268|	Peña de Bernal|
+2269|	Tlaxcala|
+2269|	Tlaxcala (Tlaxcala de Xicotencatl)|
+2270|	México|
+2270|	Valle de Bravo|
+2271|	México|
+2271|	Valle de Bravo|
+2272|	México|
+2272|	Valle de Bravo|
+2273|	México|
+2273|	Valle de Bravo|
+2274|	México|
+2274|	Valle de Bravo|
+2275|	México|
+2275|	Valle de Bravo|
+2276|	México|
+2276|	Valle de Bravo|
+2277|	México|
+2277|	Valle de Bravo|
+2278|	México|
+2278|	Valle de Bravo|
+2279|	México|
+2279|	Valle de Bravo|
+2280|	México|
+2280|	Valle de Bravo|
+2281|	México|
+2281|	Valle de Bravo|
+2282|	México|
+2282|	Valle de Bravo|
+2283|	México|
+2283|	Valle de Bravo|
+2284|	México|
+2284|	Valle de Bravo|
+2285|	Quintana Roo|
+2285|	Cancún|
+2285|	Playa del Carmen|
+2285|	Tulum|
+2286|	Quintana Roo|
+2286|	Cancún|
+2286|	Holbox|
+2287|	Oaxaca|
+2287|	Santa María Huatulco|
+2288|	Morelos|
+2288|	Tequesquitengo|
+2289|	Guerrero|
+2289|	Morelos|
+2289|	Taxco de Alarcón|
+2289|	Tequesquitengo|
+2290|	Morelos|
+2290|	Cuernavaca|
+2290|	Tepoztlán|
+2291|	Quintana Roo|
+2291|	Cancún|
+2292|	Oaxaca|
+2292|	Huatulco|
+2293|	Quintana Roo|
+2293|	Cancún|
+2294|	Quintana Roo|
+2294|	Cancún|
+2295|	Quintana Roo|
+2295|	Cancún|
+2296|	Quintana Roo|
+2296|	Cancún|
+2297|	Quintana Roo|
+2297|	Cancún|
+2298|	Quintana Roo|
+2298|	Cancún|
+2299|	Oaxaca|
+2299|	Huatulco|
+2300|	Oaxaca|
+2300|	Huatulco|
+2301|	Chihuahua|
+2301|	Creel|
+2302|	Ciudad De México|
+2302|	Querétaro|
+2302|	Peña de Bernal|
+2303|	Campeche|
+2303|	Ciudad De México|
+2303|	Quintana Roo|
+2303|	Yucatán|
+2303|	San Francisco de Campeche|
+2303|	Cancún|
+2303|	Isla Mujeres|
+2303|	Mérida|
+2303|	Holbox|
+2304|	San Luis Potosí|
+2304|	Ciudad Valles|
+2305|	Oaxaca|
+2305|	Puerto Escondido|
+2306|	Oaxaca|
+2306|	Puerto Escondido|
+2307|	Oaxaca|
+2307|	Puerto Escondido|
+2308|	Ciudad De México|
+2308|	México|
+2308|	San Juan Teotihuacan |
+2309|	Puebla|
+2309|	Tlaxcala|
+2309|	Tlaxcala (Tlaxcala de Xicotencatl)|
+2312|	Ciudad De México|
+2313|	Ciudad De México|
+2314|	Ciudad De México|
+2315|	Durango|
+2315|	Victoria de Durango|
+2316|	Durango|
+2316|	Canatlán|
+2316|	Victoria de Durango|
+2317|	Durango|
+2317|	Victoria de Durango|
+2317|	Mexiquillo|
+2318|	Durango|
+2318|	Victoria de Durango|
+2318|	Santiago Papasquiaro|
+2319|	Durango|
+2319|	Victoria de Durango|
+2319|	Mapimí|
+2320|	Veracruz De Ignacio De La Llave|
+2320|	Córdoba|
+2320|	Orizaba|
+2320|	Veracruz|
+2321|	Ciudad De México|
+2322|	Veracruz De Ignacio De La Llave|
+2322|	Orizaba|
+2322|	Veracruz|
+2323|	Puebla|
+2323|	Cuetzalan|
+2324|	Puebla|
+2324|	Cuetzalan|
+2325|	Puebla|
+2325|	Cuetzalan|
+2326|	Guanajuato|
+2326|	San miguel de Allende|
+2327|	Puebla|
+2327|	Cuetzalan|
+2328|	Ciudad De México|
+2328|	Guanajuato|
+2328|	San Miguel De Allende|
+2328|	Dolores Hidalgo Cuna De La Independencia Nacional|
+2328|	Michoacán De Ocampo|
+2328|	Morelia|
+2328|	Puebla|
+2328|	Querétaro|
+2328|	Santiago De Querétaro|
+2328|	Dolores Hidalgo|
+2329|	Nuevo León|
+2329|	Santiago|
+2330|	Nuevo León|
+2330|	Santiago|
+2331|	Puebla|
+2331|	Chautla|
+2332|	Ciudad De México|
+2332|	México|
+2332|	San Juan Teotihuacan |
+2333|	Ciudad De México|
+2333|	México|
+2333|	San Juan Teotihuacan |
+2333|	Xochimilco|
+2334|	Ciudad De México|
+2334|	México|
+2334|	San Juan Teotihuacan |
+2335|	Ciudad De México|
+2336|	Ciudad De México|
+2337|	Ciudad De México|
+2338|	Ciudad De México|
+2339|	Ciudad De México|
+2340|	Ciudad De México|
+2340|	México|
+2340|	San Juan Teotihuacan |
+2341|	Ciudad De México|
+2342|	Ciudad De México|
+2343|	Quintana Roo|
+2343|	Playa del Carmen|
+2344|	Puebla|
+2345|	Querétaro|
+2346|	Oaxaca|
+2347|	Querétaro|
+2347|	San Luis Potosí|
+2347|	Xilitla|
+2348|	Querétaro|
+2349|	Hidalgo|
+2349|	Querétaro|
+2349|	Tasquillo|
+2350|	Querétaro|
+2351|	Querétaro|
+2352|	San Luis Potosí|
+2352|	Ciudad Valles|
+2353|	Oaxaca|
+2353|	Huatulco|
+2354|	Yucatán|
+2354|	Valladolid|
+2355|	Chiapas|
+2355|	Oaxaca|
+2355|	Puebla|
+2355|	Chiapa de Corzo|
+2355|	Palenque|
+2355|	San Cristóbal de las Casas|
+2355|	Tuxtla Gutiérrez|
+2355|	Santo Domingo Tehuantepec|
+2356|	Baja California|
+2356|	Ensenada|
+2357|	Baja California|
+2357|	Ensenada|
+2358|	Baja California|
+2358|	Ensenada|
+2359|	San Luis Potosí|
+2359|	Ciudad Valles|
+2359|	Xilitla|
+2360|	San Luis Potosí|
+2360|	Ciudad Valles|
+2361|	Querétaro|
+2361|	Peña de Bernal|
+2362|	Veracruz De Ignacio De La Llave|
+2362|	Catemaco|
+2362|	San Andrés Tuxtla|
+2362|	Santiago Tuxtla|
+2363|	Chiapas|
+2363|	Chiapa de Corzo|
+2363|	Tuxtla Gutiérrez|
+2364|	Chiapas|
+2364|	Tuxtla Gutiérrez|
+2364|	San Juan Chamula|
+2365|	Chiapas|
+2365|	San Cristóbal de las Casas|
+2365|	Tuxtla Gutiérrez|
+2366|	Chiapas|
+2366|	Palenque|
+2366|	San Cristóbal de las Casas|
+2366|	Tuxtla Gutiérrez|
+2367|	Veracruz De Ignacio De La Llave|
+2367|	Gutiérrez Zamora|
+2367|	Papantla de Olarte|
+2367|	Veracruz|
+2368|	Veracruz De Ignacio De La Llave|
+2368|	Coatepec|
+2368|	Veracruz|
+2369|	Veracruz De Ignacio De La Llave|
+2369|	Veracruz|
+2369|	Cempoala|
+2370|	Chiapas|
+2370|	Palenque|
+2370|	Tuxtla Gutiérrez|
+2371|	Veracruz De Ignacio De La Llave|
+2371|	Córdoba|
+2371|	Orizaba|
+2371|	Veracruz|
+2372|	Veracruz De Ignacio De La Llave|
+2372|	Alvarado|
+2372|	Veracruz|
+2372|	Tlacotalpan|
+2373|	Veracruz De Ignacio De La Llave|
+2373|	Alvarado|
+2373|	Veracruz|
+2374|	Chiapas|
+2374|	San Cristóbal de las Casas|
+2374|	Tuxtla Gutiérrez|
+2375|	Veracruz De Ignacio De La Llave|
+2375|	Boca del RÍo|
+2375|	Veracruz|
+2376|	Veracruz De Ignacio De La Llave|
+2376|	Boca del RÍo|
+2377|	Veracruz De Ignacio De La Llave|
+2377|	Veracruz|
+2378|	Veracruz De Ignacio De La Llave|
+2378|	José Cardel|
+2378|	Veracruz|
+2379|	Veracruz De Ignacio De La Llave|
+2379|	Boca del RÍo|
+2379|	Veracruz|
+2380|	Chiapas|
+2380|	Chiapa de Corzo|
+2380|	Tuxtla Gutiérrez|
+2381|	Oaxaca|
+2381|	Huatulco|
+2382|	Baja California Sur|
+2382|	Cabo San Lucas|
+2383|	Baja California Sur|
+2383|	Cabo San Lucas|
+2384|	Baja California Sur|
+2384|	Cabo San Lucas|
+2385|	Baja California Sur|
+2385|	Cabo San Lucas|
+2386|	Baja California Sur|
+2386|	Cabo San Lucas|
+2387|	Guanajuato|
+2387|	San miguel de Allende|
+2388|	Baja California Sur|
+2388|	San José del Cabo|
+2388|	Cabo San Lucas|
+2389|	Chiapas|
+2389|	Ocozocoautla de Espinosa|
+2389|	Tuxtla Gutiérrez|
+2390|	Veracruz De Ignacio De La Llave|
+2390|	José Cardel|
+2390|	Veracruz|
+2391|	Guanajuato|
+2391|	San miguel de Allende|
+2392|	Veracruz De Ignacio De La Llave|
+2392|	Veracruz|
+2392|	Jalcomulco|
+2393|	Quintana Roo|
+2393|	Cancún|
+2393|	Playa del Carmen|
+2393|	Tulum|
+2394|	Quintana Roo|
+2394|	Playa del Carmen|
+2394|	Tulum|
+2395|	Chiapas|
+2395|	Palenque|
+2395|	San Cristóbal de las Casas|
+2395|	Tuxtla Gutiérrez|
+2396|	Chiapas|
+2396|	Comitán de Domínguez|
+2396|	San Cristóbal de las Casas|
+2396|	Tuxtla Gutiérrez|
+2397|	Chiapas|
+2397|	Comitán de Domínguez|
+2397|	San Cristóbal de las Casas|
+2397|	Tuxtla Gutiérrez|
+2398|	Chiapas|
+2398|	Palenque|
+2399|	Chiapas|
+2399|	San Cristóbal de las Casas|
+2399|	Tuxtla Gutiérrez|
+2400|	Chiapas|
+2400|	Palenque|
+2401|	Ciudad De México|
+2402|	Ciudad De México|
+2403|	Quintana Roo|
+2403|	Yucatán|
+2403|	Cancún|
+2403|	Chichen Itza|
+2404|	Quintana Roo|
+2404|	Cancún|
+2404|	Tulum|
+2405|	Quintana Roo|
+2405|	Yucatán|
+2405|	Cancún|
+2405|	Tulum|
+2405|	Chichen Itza|
+2406|	Quintana Roo|
+2406|	Cancún|
+2406|	Cobá|
+2407|	Quintana Roo|
+2407|	Cancún|
+2408|	Quintana Roo|
+2408|	Cancún|
+2408|	Isla Mujeres|
+2409|	Quintana Roo|
+2409|	Cancún|
+2409|	Isla Mujeres|
+2409|	Tulum|
+2410|	Quintana Roo|
+2410|	Tulum|
+2410|	Cobá|
+2411|	Quintana Roo|
+2411|	Cancún|
+2411|	Tulum|
+2411|	Cobá|
+2412|	Quintana Roo|
+2412|	Cancún|
+2413|	Quintana Roo|
+2413|	Playa del Carmen|
+2413|	Tulum|
+2414|	Quintana Roo|
+2414|	Cancún|
+2415|	Quintana Roo|
+2415|	Playa del Carmen|
+2415|	Tulum|
+2416|	Quintana Roo|
+2416|	Cancún|
+2417|	Quintana Roo|
+2417|	Playa del Carmen|
+2417|	Tulum|
+2418|	Quintana Roo|
+2418|	Cancún|
+2419|	México|
+2419|	Valle de Bravo|
+2420|	Baja California Sur|
+2420|	La Paz|
+2420|	Todos Santos|
+2420|	San José del Cabo|
+2420|	Cabo San Lucas|
+2421|	Baja California Sur|
+2421|	La Paz|
+2421|	San José del Cabo|
+2421|	Cabo San Lucas|
+2422|	Sinaloa|
+2422|	Mazatlán|
+2423|	Baja California Sur|
+2423|	Cabo San Lucas|
+2424|	Quintana Roo|
+2424|	Cancún|
+2424|	Tulum|
+2425|	Quintana Roo|
+2425|	Cancún|
+2425|	Isla Mujeres|
+2426|	Quintana Roo|
+2426|	Cancún|
+2426|	Tulum|
+2427|	Baja California Sur|
+2427|	Cabo San Lucas|
+2428|	Baja California Sur|
+2428|	Cabo San Lucas|
+2429|	Quintana Roo|
+2429|	Tulum|
+2430|	Chiapas|
+2430|	Chiapa de Corzo|
+2430|	San Cristóbal de las Casas|
+2431|	Chiapas|
+2431|	Palenque|
+2431|	San Cristóbal de las Casas|
+2432|	Quintana Roo|
+2432|	Tulum|
+2433|	Quintana Roo|
+2433|	Tulum|
+2434|	Tlaxcala|
+2434|	Tlaxcala (Tlaxcala de Xicotencatl)|
+2435|	Tlaxcala|
+2435|	Tlaxcala (Tlaxcala de Xicotencatl)|
+2436|	Quintana Roo|
+2436|	Tulum|
+2437|	Quintana Roo|
+2437|	Tulum|
+2438|	Quintana Roo|
+2438|	Tulum|
+2439|	Quintana Roo|
+2439|	Yucatán|
+2439|	Valladolid|
+2439|	Tulum|
+2439|	Chichen Itza|
+2440|	Quintana Roo|
+2440|	Tulum|
+2441|	Quintana Roo|
+2441|	Bacalar|
+2441|	Chetumal|
+2441|	Mahahual|
+2442|	Yucatán|
+2442|	Mérida|
+2442|	Chichen Itza|
+2442|	Progreso|
+2443|	Hidalgo|
+2443|	Ixmiquilpan|
+2444|	Yucatán|
+2444|	Valladolid|
+2445|	Chiapas|
+2445|	Nuevo San Juan Chamula|
+2445|	Catedral De Chiapas|
+2445|	Cañón Del Sumidero [Parque Ecoturístico]|
+2445|	Zinacantán|
+2445|	Ciudad De México|
+2445|	Puebla|
+2445|	Tonantzintla (Santa María Tonantzintla)|
+2445|	Cholula De Rivadavia|
+2445|	Veracruz De Ignacio De La Llave|
+2445|	Catemaco|
+2445|	San Juan De Ulúa|
+2445|	Salto De Eyipantla|
+2445|	Chiapa de Corzo|
+2445|	San Cristóbal de las Casas|
+2445|	Tuxtla Gutiérrez|
+2445|	San Andrés Tuxtla|
+2445|	Veracruz|
+2445|	Tlacotalpan|
+2446|	Durango|
+2446|	Victoria de Durango|
+2447|	Oaxaca|
+2447|	Santa María Huatulco|
+2447|	Huatulco|
+2448|	Oaxaca|
+2448|	Santa María Huatulco|
+2449|	Oaxaca|
+2449|	Huatulco|
+2450|	Ciudad De México|
+2450|	Xochimilco|
+2451|	Ciudad De México|
+2451|	Xochimilco|
+2452|	Ciudad De México|
+2452|	Xochimilco|
+2453|	Quintana Roo|
+2453|	Mahahual|
+2453|	Xcalak|
+2454|	Quintana Roo|
+2454|	Playa del Carmen|
+2454|	Xpu Há|
+2455|	Sinaloa|
+2455|	Mazatlán|
+2456|	Veracruz De Ignacio De La Llave|
+2456|	Córdoba|
+2456|	Fortín de las Flores|
+2456|	Orizaba|
+2457|	Ciudad De México|
+2457|	Oaxaca|
+2458|	Quintana Roo|
+2458|	Playa del Carmen|
+2458|	Xpu Há|
+2459|	Quintana Roo|
+2459|	Playa del Carmen|
+2459|	Xpu Há|
+2460|	Quintana Roo|
+2460|	Xcalak|
+2461|	Quintana Roo|
+2461|	Xcalak|
+2462|	Quintana Roo|
+2462|	Xcalak|
+2463|	Veracruz De Ignacio De La Llave|
+2463|	Córdoba|
+2463|	Fortín de las Flores|
+2463|	Orizaba|
+2464|	Veracruz De Ignacio De La Llave|
+2464|	Córdoba|
+2464|	Fortín de las Flores|
+2464|	Orizaba|
+2465|	Nuevo León|
+2465|	Monterrey|
+2466|	Nuevo León|
+2466|	Monterrey|
+2467|	Ciudad De México|
+2469|	Jalisco|
+2469|	Puerto Vallarta|
+2470|	Jalisco|
+2470|	Puerto Vallarta|
+2471|	Jalisco|
+2471|	Puerto Vallarta|
+2471|	San Sebastián|
+2472|	Jalisco|
+2472|	Puerto Vallarta|
+2473|	Jalisco|
+2473|	Puerto Vallarta|
+2474|	Jalisco|
+2474|	Puerto Vallarta|
+2474|	Talpa de Allende|
+2475|	Jalisco|
+2475|	Nayarit|
+2475|	Puerto Vallarta|
+2475|	Sayulita|
+2475|	San Pancho|
+2476|	Morelos|
+2476|	Cuautla (Cuautla de Morelos)|
+2476|	Tepoztlán|
+2476|	Cocoyoc|
+2477|	Quintana Roo|
+2477|	Cancún|
+2477|	Isla Mujeres|
+2478|	Jalisco|
+2478|	Puerto Vallarta|
+2479|	Jalisco|
+2479|	Puerto Vallarta|
+2480|	Jalisco|
+2480|	Puerto Vallarta|
+2481|	Jalisco|
+2481|	Puerto Vallarta|
+2482|	Jalisco|
+2482|	Puerto Vallarta|
+2483|	Jalisco|
+2483|	Puerto Vallarta|
+2484|	Nuevo León|
+2484|	Monterrey|
+2485|	Jalisco|
+2485|	Puerto Vallarta|
+2486|	Jalisco|
+2486|	Puerto Vallarta|
+2487|	Nuevo León|
+2487|	Monterrey|
+2487|	Santiago|
+2488|	Coahuila De Zaragoza|
+2488|	Saltillo|
+2489|	Yucatán|
+2489|	Mérida|
+2490|	Nuevo León|
+2490|	Monterrey|
+2491|	Nuevo León|
+2491|	Monterrey|
+2492|	Jalisco|
+2492|	Puerto Vallarta|
+2493|	Jalisco|
+2493|	Puerto Vallarta|
+2494|	Guerrero|
+2494|	Taxco de Alarcón|
+2495|	Guerrero|
+2495|	Taxco de Alarcón|
+2496|	Guerrero|
+2496|	Taxco de Alarcón|
+2497|	Guerrero|
+2497|	Taxco de Alarcón|
+2498|	Ciudad De México|
+2499|	Ciudad De México|
+2500|	Ciudad De México|
+2501|	Ciudad De México|
+2502|	Nuevo León|
+2502|	García|
+2502|	Monterrey|
+2503|	Quintana Roo|
+2503|	Holbox|
+2504|	Quintana Roo|
+2504|	Cancún|
+2504|	Holbox|
+2505|	Jalisco|
+2505|	Puerto Vallarta|
+2505|	Nuevo Vallarta|
+2506|	Jalisco|
+2506|	Puerto Vallarta|
+2506|	Nuevo Vallarta|
+2507|	Jalisco|
+2507|	Puerto Vallarta|
+2507|	Nuevo Vallarta|
+2508|	Jalisco|
+2508|	Nayarit|
+2508|	Puerto Vallarta|
+2508|	Sayulita|
+2508|	Nuevo Vallarta|
+2509|	Jalisco|
+2509|	Puerto Vallarta|
+2509|	Nuevo Vallarta|
+2510|	Ciudad De México|
+2510|	México|
+2510|	Toluca de Lerdo|
+2511|	Ciudad De México|
+2512|	Ciudad De México|
+2513|	Ciudad De México|
+2513|	Guerrero|
+2513|	Taxco de Alarcón|
+2514|	Ciudad De México|
+2515|	Ciudad De México|
+2516|	Jalisco|
+2516|	Puerto Vallarta|
+2516|	Nuevo Vallarta|
+2517|	Jalisco|
+2517|	Nayarit|
+2517|	Puerto Vallarta|
+2517|	Sayulita|
+2517|	Nuevo Vallarta|
+2518|	Jalisco|
+2518|	Puerto Vallarta|
+2518|	Nuevo Vallarta|
+2519|	Jalisco|
+2519|	Puerto Vallarta|
+2519|	Nuevo Vallarta|
+2520|	Jalisco|
+2520|	Nayarit|
+2520|	Puerto Vallarta|
+2520|	Bucerías|
+2521|	Jalisco|
+2521|	Puerto Vallarta|
+2521|	Nuevo Vallarta|
+2522|	Nuevo León|
+2522|	Monterrey|
+2523|	Baja California Sur|
+2523|	Cabo San Lucas|
+2524|	Nuevo León|
+2524|	Monterrey|
+2525|	Baja California Sur|
+2525|	Cabo San Lucas|
+2526|	Baja California Sur|
+2526|	Cabo San Lucas|
+2527|	Baja California Sur|
+2527|	Cabo San Lucas|
+2528|	Baja California Sur|
+2528|	Cabo San Lucas|
+2529|	Ciudad De México|
+2529|	Puebla|
+2529|	Tlaxcala|
+2529|	Tlaxcala (Tlaxcala de Xicotencatl)|
+2530|	Yucatán|
+2530|	Valladolid|
+2531|	Nuevo León|
+2531|	Monterrey|
+2532|	Nuevo León|
+2532|	Monterrey|
+2532|	San Pedro Garza García|
+2533|	Nuevo León|
+2533|	Monterrey|
+2534|	Oaxaca|
+2534|	Puerto Escondido|
+2535|	Yucatán|
+2535|	Valladolid|
+2536|	Nuevo León|
+2536|	Monterrey|
+2537|	Nuevo León|
+2537|	Monterrey|
+2538|	Coahuila De Zaragoza|
+2538|	Nuevo León|
+2538|	Saltillo|
+2538|	Monterrey|
+2539|	México|
+2539|	Malinalco|
+2540|	México|
+2540|	Malinalco|
+2541|	México|
+2541|	Malinalco|
+2542|	México|
+2542|	Malinalco|
+2543|	México|
+2543|	Malinalco|
+2544|	México|
+2544|	Malinalco|
+2545|	México|
+2545|	Malinalco|
+2546|	México|
+2546|	Malinalco|
+2547|	México|
+2547|	Malinalco|
+2548|	México|
+2548|	Malinalco|
+2549|	México|
+2549|	Malinalco|
+2550|	México|
+2550|	Malinalco|
+2551|	Querétaro|
+2551|	Tequisquiapan|
+2552|	Ciudad De México|
+2553|	Ciudad De México|
+2553|	México|
+2553|	Valle de Bravo|
+2554|	Ciudad De México|
+2554|	México|
+2554|	Valle de Bravo|
+2555|	Ciudad De México|
+2555|	Hidalgo|
+2555|	Tolantongo|
+2556|	Ciudad De México|
+2557|	México|
+2557|	Valle de Bravo|
+2558|	México|
+2558|	Malinalco|
+2559|	México|
+2559|	Malinalco|
+2560|	México|
+2560|	Malinalco|
+2561|	México|
+2561|	Malinalco|
+2562|	México|
+2562|	Malinalco|
+2563|	México|
+2563|	Malinalco|
+2564|	México|
+2564|	Malinalco|
+2565|	México|
+2565|	Malinalco|
+2566|	México|
+2566|	Malinalco|
+2567|	México|
+2567|	Malinalco|
+2568|	México|
+2568|	Malinalco|
+2569|	Ciudad De México|
+2570|	Tabasco|
+2570|	Villahermosa|
+2571|	Oaxaca|
+2572|	Ciudad De México|
+2572|	Puebla|
+2573|	Michoacán De Ocampo|
+2573|	Morelia|
+2573|	Pátzcuaro|
+2574|	Ciudad De México|
+2575|	Ciudad De México|
+2576|	Quintana Roo|
+2576|	Yucatán|
+2576|	Cancún|
+2576|	Playa del Carmen|
+2576|	Chichen Itza|
+2577|	Quintana Roo|
+2577|	Cancún|
+2577|	Isla Mujeres|
+2578|	Quintana Roo|
+2578|	Cancún|
+2578|	Cozumel|
+2578|	Playa del Carmen|
+2579|	Oaxaca|
+2580|	Oaxaca|
+2581|	Oaxaca|
+2582|	Yucatán|
+2582|	Mérida|
+2583|	Yucatán|
+2583|	Mérida|
+2584|	Yucatán|
+2584|	Mérida|
+2585|	Ciudad De México|
+2586|	Ciudad De México|
+2587|	Ciudad De México|
+2587|	México|
+2587|	San Juan Teotihuacan |
+2588|	Ciudad De México|
+2589|	Quintana Roo|
+2589|	Cancún|
+2589|	Playa del Carmen|
+2589|	Holbox|
+2590|	Quintana Roo|
+2590|	Cancún|
+2590|	Tulum|
+2591|	Yucatán|
+2591|	Mérida|
+2592|	Oaxaca|
+2592|	Huatulco|
+2592|	Puerto Escondido|
+2593|	Quintana Roo|
+2593|	Playa del Carmen|
+2594|	Quintana Roo|
+2594|	Cancún|
+2594|	Tulum|
+2595|	Quintana Roo|
+2595|	Tulum|
+2596|	Guanajuato|
+2596|	San miguel de Allende|
+2597|	Querétaro|
+2597|	Tequisquiapan|
+2598|	Ciudad De México|
+2598|	México|
+2598|	San Juan Teotihuacan |
+2599|	México|
+2599|	San Juan Teotihuacan |
+2600|	Ciudad De México|
+2600|	Puebla|
+2600|	San Pedro Cholula|
+2601|	Quintana Roo|
+2601|	Cancún|
+2602|	Quintana Roo|
+2602|	Cancún|
+2602|	Cozumel|
+2603|	Quintana Roo|
+2603|	Cancún|
+2604|	Quintana Roo|
+2604|	Cancún|
+2604|	Holbox|
+2605|	Quintana Roo|
+2605|	Cancún|
+2605|	Tulum|
+2606|	Quintana Roo|
+2606|	Yucatán|
+2606|	Cancún|
+2606|	Valladolid|
+2607|	Veracruz De Ignacio De La Llave|
+2607|	Córdoba|
+2607|	Fortín de las Flores|
+2608|	Quintana Roo|
+2608|	Puerto Aventuras|
+2609|	Quintana Roo|
+2609|	Cancún|
+2610|	Quintana Roo|
+2610|	Cancún|
+2610|	Playa del Carmen|
+2611|	San Luis Potosí|
+2611|	Ciudad Valles|
+2612|	San Luis Potosí|
+2612|	Ciudad Valles|
+2613|	San Luis Potosí|
+2613|	Ciudad Valles|
+2614|	San Luis Potosí|
+2614|	Ciudad Valles|
+2615|	México|
+2615|	Toluca de Lerdo|
+2616|	Chiapas|
+2616|	Chiapa de Corzo|
+2616|	San Cristóbal de las Casas|
+2616|	Tuxtla Gutiérrez|
+2617|	Chiapas|
+2617|	Chiapa de Corzo|
+2617|	Palenque|
+2617|	San Cristóbal de las Casas|
+2617|	Tuxtla Gutiérrez|
+2618|	San Luis Potosí|
+2618|	Ciudad Valles|
+2618|	El Naranjo|
+2619|	San Luis Potosí|
+2619|	Ciudad Valles|
+2619|	Xilitla|
+2620|	Ciudad De México|
+2621|	Ciudad De México|
+2622|	Ciudad De México|
+2623|	México|
+2623|	Valle de Bravo|
+2624|	México|
+2624|	San Juan Teotihuacan |
+2625|	Quintana Roo|
+2625|	Yucatán|
+2625|	Cancún|
+2625|	Tulum|
+2625|	Chichen Itza|
+2626|	Campeche|
+2626|	Quintana Roo|
+2626|	Yucatán|
+2626|	San Francisco de Campeche|
+2626|	Cancún|
+2626|	Tulum|
+2626|	Chichen Itza|
+2627|	Ciudad De México|
+2627|	México|
+2627|	Valle de Bravo|
+2628|	Veracruz De Ignacio De La Llave|
+2628|	Boca del RÍo|
+2628|	Veracruz|
+2629|	Veracruz De Ignacio De La Llave|
+2629|	Boca del RÍo|
+2629|	Veracruz|
+2629|	Antigua|
+2630|	Veracruz De Ignacio De La Llave|
+2630|	Veracruz|
+2630|	Antigua|
+2631|	Veracruz De Ignacio De La Llave|
+2631|	Córdoba|
+2631|	Fortín de las Flores|
+2631|	Orizaba|
+2631|	Veracruz|
+2632|	Veracruz De Ignacio De La Llave|
+2632|	Coatepec|
+2632|	Veracruz|
+2632|	Xalapa-Enríquez|
+2633|	Veracruz De Ignacio De La Llave|
+2633|	Papantla de Olarte|
+2633|	Veracruz|
+2634|	Veracruz De Ignacio De La Llave|
+2634|	Boca del RÍo|
+2634|	Veracruz|
+2635|	Veracruz De Ignacio De La Llave|
+2635|	Veracruz|
+2636|	Tabasco|
+2636|	Villahermosa|
+2636|	Huimanguillo|
+2637|	Veracruz De Ignacio De La Llave|
+2637|	Veracruz|
+2638|	Veracruz De Ignacio De La Llave|
+2638|	Veracruz|
+2639|	Veracruz De Ignacio De La Llave|
+2639|	Veracruz|
+2640|	Veracruz De Ignacio De La Llave|
+2640|	Boca del RÍo|
+2640|	Veracruz|
+2641|	Chiapas|
+2641|	San Juan Chamula|
+2642|	Veracruz De Ignacio De La Llave|
+2642|	Boca del RÍo|
+2642|	Coatepec|
+2642|	Veracruz|
+2642|	Xalapa-Enríquez|
+2643|	Veracruz De Ignacio De La Llave|
+2643|	Papantla de Olarte|
+2643|	Veracruz|
+2644|	Veracruz De Ignacio De La Llave|
+2644|	Boca del RÍo|
+2644|	Veracruz|
+2645|	Veracruz De Ignacio De La Llave|
+2645|	Córdoba|
+2645|	Orizaba|
+2645|	Veracruz|
+2646|	Veracruz De Ignacio De La Llave|
+2646|	Xalapa-Enríquez|
+2647|	Veracruz De Ignacio De La Llave|
+2647|	Papantla de Olarte|
+2647|	Veracruz|
+2648|	México|
+2648|	Valle de Bravo|
+2649|	Veracruz De Ignacio De La Llave|
+2649|	San Andrés Tuxtla|
+2649|	Veracruz|
+2650|	Veracruz De Ignacio De La Llave|
+2650|	Boca del RÍo|
+2650|	Orizaba|
+2650|	Veracruz|
+2650|	Xalapa-Enríquez|
+2651|	Quintana Roo|
+2651|	Yucatán|
+2651|	Cancún|
+2651|	Holbox|
+2651|	Chichen Itza|
+2652|	Veracruz De Ignacio De La Llave|
+2652|	Boca del RÍo|
+2652|	Orizaba|
+2652|	Veracruz|
+2652|	Xalapa-Enríquez|
+2653|	Quintana Roo|
+2653|	Cancún|
+2653|	Playa del Carmen|
+2653|	Holbox|
+2654|	Quintana Roo|
+2654|	Cancún|
+2654|	Isla Mujeres|
+2654|	Playa del Carmen|
+2655|	Quintana Roo|
+2655|	Cancún|
+2655|	Playa del Carmen|
+2656|	Quintana Roo|
+2656|	Bacalar|
+2656|	Playa del Carmen|
+2656|	Tulum|
+2657|	Chiapas|
+2657|	Chiapa De Corzo|
+2657|	Bonampak [Zona Arqueológica]|
+2657|	Lacanjá Chansayab|
+2657|	Cañón Del Sumidero [Parque Ecoturístico]|
+2657|	Tziscao|
+2657|	Laguna De Montebello|
+2657|	Palenque|
+2657|	San Cristóbal de las Casas|
+2657|	Tuxtla Gutiérrez|
+2658|	Chiapas|
+2658|	Cañón Del Sumidero [Parque Ecoturístico]|
+2658|	Puebla|
+2658|	Veracruz De Ignacio De La Llave|
+2658|	San Cristóbal de las Casas|
+2658|	Tuxtla Gutiérrez|
+2658|	Catemaco|
+2658|	San Andrés Tuxtla|
+2658|	Veracruz|
+2658|	Tlacotalpan|
+2659|	Ciudad De México|
+2660|	Campeche|
+2660|	Champotón|
+2661|	Chiapas|
+2661|	Guanajuato|
+2661|	Jalisco|
+2661|	Michoacán De Ocampo|
+2661|	Oaxaca|
+2661|	Puebla|
+2661|	Querétaro|
+2661|	San Luis Potosí|
+2661|	Zacatecas|
+2661|	Palenque|
+2661|	San Cristóbal de las Casas|
+2661|	Dolores Hidalgo|
+2661|	San miguel de Allende|
+2661|	Guadalajara|
+2661|	Tlaquepaque|
+2661|	Tequila|
+2661|	Morelia|
+2661|	Santo Domingo Tehuantepec|
+2662|	Puebla|
+2662|	Atlixco|
+2663|	Chiapas|
+2663|	San Juan De Ulúa|
+2663|	Cañón Del Sumidero [Parque Ecoturístico]|
+2663|	Oaxaca|
+2663|	Puebla|
+2663|	San Andrés Cholula|
+2663|	Veracruz De Ignacio De La Llave|
+2663|	Palenque|
+2663|	San Cristóbal de las Casas|
+2663|	Veracruz|
+2664|	Quintana Roo|
+2664|	Cancún|
+2664|	Puerto Aventuras|
+2665|	Quintana Roo|
+2665|	Tulum|
+2665|	Puerto Aventuras|
+2666|	Oaxaca|
+2667|	Oaxaca|
+2667|	San Pablo Villa de Mitla|
+2668|	Oaxaca|
+2669|	Oaxaca|
+2670|	Oaxaca|
+2671|	Oaxaca|
+2671|	Tlacolula de Matamoros|
+2672|	Oaxaca|
+2673|	Oaxaca|
+2674|	Querétaro|
+2675|	Veracruz De Ignacio De La Llave|
+2675|	Atoyac|
+2675|	Córdoba|
+2675|	Fortín de las Flores|
+2675|	Orizaba|
+2675|	Río Blanco|
+2676|	Campeche|
+2676|	San Francisco de Campeche|
+2677|	Campeche|
+2677|	San Francisco de Campeche|
+2678|	Campeche|
+2678|	San Francisco de Campeche|
+2679|	Campeche|
+2679|	San Francisco de Campeche|
+2680|	Campeche|
+2680|	San Francisco de Campeche|
+2681|	Campeche|
+2681|	San Francisco de Campeche|
+2682|	Campeche|
+2682|	San Francisco de Campeche|
+2682|	Calakmul|
+2683|	Campeche|
+2683|	San Francisco de Campeche|
+2683|	Calakmul|
+2684|	Campeche|
+2684|	San Francisco de Campeche|
+2685|	Campeche|
+2685|	San Francisco de Campeche|
+2686|	Campeche|
+2686|	San Francisco de Campeche|
+2687|	Campeche|
+2687|	San Francisco de Campeche|
+2688|	Campeche|
+2688|	San Francisco de Campeche|
+2689|	Quintana Roo|
+2689|	Cancún|
+2689|	Tulum|
+2690|	Querétaro|
+2690|	Peña de Bernal|
+2691|	Querétaro|
+2691|	Peña de Bernal|
+2692|	Querétaro|
+2692|	Peña de Bernal|
+2693|	Oaxaca|
+2693|	San Pablo Villa de Mitla|
+2694|	Oaxaca|
+2694|	San Pablo Villa de Mitla|
+2695|	Oaxaca|
+2695|	Cuilápam de Guerrero|
+2696|	Quintana Roo|
+2696|	Cancún|
+2696|	Isla Mujeres|
+2696|	Playa del Carmen|
+2697|	Querétaro|
+2698|	Querétaro|
+2699|	Quintana Roo|
+2699|	Xpu Há|
+2700|	Quintana Roo|
+2700|	Xpu Há|
+2701|	Quintana Roo|
+2701|	Cancún|
+2701|	Isla Mujeres|
+2702|	Quintana Roo|
+2702|	Cancún|
+2702|	Isla Mujeres|
+2703|	Quintana Roo|
+2703|	Cancún|
+2703|	Isla Mujeres|
+2704|	Quintana Roo|
+2704|	Xcalak|
+2705|	Quintana Roo|
+2705|	Cancún|
+2705|	Isla Mujeres|
+2706|	Quintana Roo|
+2706|	Xcalak|
+2707|	Quintana Roo|
+2707|	Cancún|
+2707|	Isla Mujeres|
+2708|	Quintana Roo|
+2708|	Xcalak|
+2709|	Quintana Roo|
+2709|	Cancún|
+2709|	Isla Mujeres|
+2710|	Quintana Roo|
+2710|	Xcalak|
+2711|	Quintana Roo|
+2711|	Cancún|
+2711|	Isla Mujeres|
+2712|	Quintana Roo|
+2712|	Cancún|
+2712|	Isla Mujeres|
+2713|	Quintana Roo|
+2713|	Xcalak|
+2714|	Quintana Roo|
+2714|	Xcalak|
+2715|	Quintana Roo|
+2715|	Xpu Há|
+2716|	Quintana Roo|
+2716|	Xpu Há|
+2717|	Quintana Roo|
+2717|	Xpu Há|
+2718|	Quintana Roo|
+2718|	Playa del Carmen|
+2719|	Quintana Roo|
+2719|	Playa del Carmen|
+2720|	Quintana Roo|
+2720|	Playa del Carmen|
+2721|	Ciudad De México|
+2722|	Yucatán|
+2722|	Valladolid|
+2723|	Yucatán|
+2723|	Valladolid|
+2724|	Quintana Roo|
+2724|	Cancún|
+2724|	Playa del Carmen|
+2725|	Quintana Roo|
+2725|	Cancún|
+2726|	Quintana Roo|
+2726|	Cancún|
+2727|	Yucatán|
+2727|	Valladolid|
+2728|	Quintana Roo|
+2728|	Cancún|
+2729|	Querétaro|
+2730|	Puebla|
+2731|	Oaxaca|
+2731|	Llano Grande|
+2731|	Puerto Ángel|
+2731|	Playa Zipolite|
+2731|	Mazunte|
+2731|	Huatulco|
+2731|	Puerto Escondido|
+2732|	Oaxaca|
+2732|	Huatulco|
+2733|	Oaxaca|
+2733|	Huatulco|
+2734|	Oaxaca|
+2734|	Huatulco|
+2735|	Oaxaca|
+2735|	Huatulco|
+2736|	Oaxaca|
+2736|	Huatulco|
+2737|	Oaxaca|
+2737|	Huatulco|
+2738|	Oaxaca|
+2738|	Huatulco|
+2739|	Oaxaca|
+2740|	Oaxaca|
+2741|	Oaxaca|
+2741|	Ocotlán de Morelos|
+2742|	Oaxaca|
+2743|	Nayarit|
+2743|	Sayulita|
+2744|	Nayarit|
+2744|	Tepic|
+2745|	Oaxaca|
+2746|	Oaxaca|
+2746|	Ocotlán de Morelos|
+2747|	Nayarit|
+2747|	Compostela|
+2747|	Tepic|
+2748|	Oaxaca|
+2749|	Nayarit|
+2749|	Tepic|
+2750|	Nayarit|
+2750|	Santiago Ixcuintla|
+2751|	Oaxaca|
+2752|	Oaxaca|
+2752|	Tlacolula de Matamoros|
+2753|	Oaxaca|
+2754|	Nayarit|
+2754|	Tepic|
+2755|	Nayarit|
+2755|	San Blas|
+2755|	Tepic|
+2756|	Nayarit|
+2756|	San Blas|
+2756|	Tepic|
+2757|	Nayarit|
+2757|	Tepic|
+2758|	Nayarit|
+2758|	San Blas|
+2758|	Tepic|
+2759|	Oaxaca|
+2759|	Puerto Escondido|
+2760|	Oaxaca|
+2760|	Puerto Escondido|
+2761|	Oaxaca|
+2761|	Puerto Escondido|
+2762|	Oaxaca|
+2762|	Puerto Escondido|
+2763|	Oaxaca|
+2763|	Huatulco|
+2763|	Puerto Escondido|
+2764|	Oaxaca|
+2764|	Puerto Escondido|
+2765|	Quintana Roo|
+2765|	Cozumel|
+2766|	Oaxaca|
+2766|	Santa María Huatulco|
+2766|	Huatulco|
+2767|	Oaxaca|
+2767|	Huatulco|
+2768|	Oaxaca|
+2768|	Puerto Escondido|
+2769|	Oaxaca|
+2769|	Huatulco|
+2770|	Oaxaca|
+2770|	San Bartolo Coyotepec|
+2770|	San Pablo Villa De Mitla|
+2770|	Conjunto Monumental De Monte Albán [Museo De Sitio]|
+2770|	Santa María Del Tule|
+2770|	Teotitlán Del Valle|
+2770|	Huatulco|
+2771|	Jalisco|
+2771|	Guadalajara|
+2772|	Jalisco|
+2772|	Guadalajara|
+2773|	Jalisco|
+2773|	Guadalajara|
+2774|	Yucatán|
+2774|	Mérida|
+2775|	Guerrero|
+2775|	Acapulco de Juárez|
+2776|	Guerrero|
+2776|	Acapulco de Juárez|
+2777|	Ciudad De México|
+2778|	Querétaro|
+2778|	Peña de Bernal|
+2778|	Tequisquiapan|
+2779|	Querétaro|
+2780|	Jalisco|
+2780|	Villa Corona|
+2781|	Oaxaca|
+2782|	Quintana Roo|
+2782|	Mahahual|
+2783|	Baja California Sur|
+2783|	La Paz|
+2783|	San José del Cabo|
+2783|	Cabo San Lucas|
+2784|	Quintana Roo|
+2784|	Cancún|
+2784|	Playa del Carmen|
+2784|	Tulum|
+2784|	Cobá|
+2785|	Quintana Roo|
+2785|	Cozumel|
+2786|	Quintana Roo|
+2786|	Cozumel|
+2787|	Quintana Roo|
+2787|	Cozumel|
+2788|	Quintana Roo|
+2788|	Cozumel|
+2789|	Veracruz De Ignacio De La Llave|
+2789|	Playa De Chachalacas|
+2789|	Veracruz|
+2790|	Oaxaca|
+2790|	Huatulco|
+2791|	Oaxaca|
+2791|	Puerto Escondido|
+2792|	Guanajuato|
+2792|	San miguel de Allende|
+2793|	Guanajuato|
+2793|	San miguel de Allende|
+2794|	Guanajuato|
+2794|	San miguel de Allende|
+2795|	Baja California Sur|
+2795|	Cabo San Lucas|
+2796|	Ciudad De México|
+2796|	México|
+2796|	San Juan Teotihuacan |
+2797|	Ciudad De México|
+2797|	Xochimilco|
+2798|	Ciudad De México|
+2798|	Guerrero|
+2798|	Morelos|
+2798|	Taxco de Alarcón|
+2798|	Cuernavaca|
+2799|	Ciudad De México|
+2799|	Puebla|
+2800|	Baja California Sur|
+2800|	Cabo San Lucas|
+2801|	Ciudad De México|
+2802|	Ciudad De México|
+2803|	Ciudad De México|
+2804|	Ciudad De México|
+2805|	Ciudad De México|
+2806|	Ciudad De México|
+2807|	Ciudad De México|
+2808|	Ciudad De México|
+2809|	Ciudad De México|
+2810|	Ciudad De México|
+2811|	Ciudad De México|
+2812|	Ciudad De México|
+2812|	México|
+2812|	San Juan Teotihuacan |
+2813|	Ciudad De México|
+2814|	Ciudad De México|
+2815|	Ciudad De México|
+2816|	Quintana Roo|
+2816|	Playa del Carmen|
+2817|	Ciudad De México|
+2818|	Ciudad De México|
+2819|	Ciudad De México|
+2820|	Ciudad De México|
+2821|	Ciudad De México|
+2822|	Ciudad De México|
+2823|	Ciudad De México|
+2824|	Quintana Roo|
+2824|	Cozumel|
+2825|	Quintana Roo|
+2825|	Cozumel|
+2826|	Campeche|
+2826|	Ciudad del Carmen|
+2827|	Quintana Roo|
+2827|	Cozumel|
+2828|	Chiapas|
+2828|	Tuxtla Gutiérrez|
+2829|	Chiapas|
+2829|	Tuxtla Gutiérrez|
+2830|	Chiapas|
+2830|	San Cristóbal de las Casas|
+2831|	Chiapas|
+2831|	San Cristóbal de las Casas|
+2832|	Chiapas|
+2832|	San Cristóbal de las Casas|
+2833|	Yucatán|
+2833|	Valladolid|
+2833|	Chichen Itza|
+2834|	Quintana Roo|
+2834|	Tulum|
+2835|	Quintana Roo|
+2835|	Cancún|
+2835|	Tulum|
+2836|	Quintana Roo|
+2836|	Yucatán|
+2836|	Cancún|
+2836|	Valladolid|
+2836|	Tulum|
+2837|	Quintana Roo|
+2837|	Cancún|
+2838|	Yucatán|
+2838|	Valladolid|
+2839|	Quintana Roo|
+2839|	Playa del Carmen|
+2840|	Quintana Roo|
+2840|	Playa del Carmen|
+2841|	Quintana Roo|
+2841|	Playa del Carmen|
+2842|	Quintana Roo|
+2842|	Tulum|
+2843|	Yucatán|
+2843|	Mérida|
+2844|	Ciudad De México|
+2845|	Ciudad De México|
+2846|	Quintana Roo|
+2846|	Cancún|
+2846|	Playa del Carmen|
+2846|	Tulum|
+2847|	Quintana Roo|
+2847|	Cancún|
+2847|	Playa del Carmen|
+2847|	Tulum|
+2848|	Quintana Roo|
+2848|	Cancún|
+2848|	Playa del Carmen|
+2848|	Tulum|
+2849|	Ciudad De México|
+2850|	Quintana Roo|
+2850|	Cancún|
+2850|	Playa del Carmen|
+2850|	Tulum|
+2851|	Quintana Roo|
+2851|	Cancún|
+2851|	Tulum|
+2851|	Cobá|
+2852|	Quintana Roo|
+2852|	Cancún|
+2853|	Oaxaca|
+2854|	Veracruz De Ignacio De La Llave|
+2854|	Veracruz|
+2855|	Veracruz De Ignacio De La Llave|
+2855|	Veracruz|
+2856|	Veracruz De Ignacio De La Llave|
+2856|	Veracruz|
+2857|	Veracruz De Ignacio De La Llave|
+2857|	Veracruz|
+2858|	Yucatán|
+2858|	Mérida|
+2859|	Yucatán|
+2859|	Mérida|
+2860|	Quintana Roo|
+2860|	Cancún|
+2861|	Quintana Roo|
+2861|	Cancún|
+2862|	Quintana Roo|
+2862|	Cancún|
+2863|	Oaxaca|
+2863|	Puerto Escondido|
+2864|	Puebla|
+2865|	Puebla|
+2866|	Puebla|
+2867|	Puebla|
+2868|	Puebla|
+2869|	Puebla|
+2869|	San Pedro Cholula|
+2870|	Puebla|
+2871|	Puebla|
+2872|	Puebla|
+2873|	Puebla|
+2874|	Puebla|
+2875|	Puebla|
+2876|	Puebla|
+2876|	Atlixco|
+2876|	San Pedro Cholula|
+2877|	Puebla|
+2877|	San Pedro Cholula|
+2878|	Quintana Roo|
+2878|	Cancún|
+2879|	Veracruz De Ignacio De La Llave|
+2879|	Veracruz|
+2880|	Veracruz De Ignacio De La Llave|
+2880|	Veracruz|
+2881|	Veracruz De Ignacio De La Llave|
+2881|	Veracruz|
+2882|	Veracruz De Ignacio De La Llave|
+2882|	Veracruz|
+2883|	Veracruz De Ignacio De La Llave|
+2883|	Veracruz|
+2884|	Puebla|
+2885|	Puebla|
+2886|	Puebla|
+2887|	Ciudad De México|
+2888|	Puebla|
+2889|	Oaxaca|
+2890|	Quintana Roo|
+2890|	Cancún|
+2890|	Playa del Carmen|
+2891|	Quintana Roo|
+2891|	Cancún|
+2892|	Yucatán|
+2892|	Mérida|
+2893|	Quintana Roo|
+2893|	Tulum|
+2894|	Yucatán|
+2894|	Mérida|
+2895|	Puebla|
+2896|	Quintana Roo|
+2896|	Cancún|
+2897|	Quintana Roo|
+2897|	Cancún|
+2898|	Quintana Roo|
+2898|	Playa del Carmen|
+2899|	Quintana Roo|
+2899|	Cancún|
+2900|	Quintana Roo|
+2900|	Cancún|
+2901|	Quintana Roo|
+2901|	Cancún|
+2902|	Quintana Roo|
+2902|	Cancún|
+2903|	Quintana Roo|
+2903|	Tulum|
+2904|	Yucatán|
+2904|	Valladolid|
+2905|	Quintana Roo|
+2905|	Tulum|
+2906|	Quintana Roo|
+2906|	Tulum|
+2907|	Quintana Roo|
+2907|	Cobá|
+2908|	Quintana Roo|
+2908|	Chetumal|
+2909|	Quintana Roo|
+2909|	Chetumal|
+2910|	Ciudad De México|
+2911|	Quintana Roo|
+2911|	Tulum|
+2912|	Quintana Roo|
+2912|	Cozumel|
+2913|	Ciudad De México|
+2914|	Ciudad De México|
+2915|	Ciudad De México|
+2916|	Quintana Roo|
+2916|	Tulum|
+2917|	Baja California Sur|
+2917|	Cabo San Lucas|
+2918|	Baja California Sur|
+2918|	Cabo San Lucas|
+2919|	Baja California Sur|
+2919|	Cabo San Lucas|
+2920|	Baja California Sur|
+2920|	Cabo San Lucas|
+2921|	Baja California Sur|
+2921|	Cabo San Lucas|
+2922|	Baja California Sur|
+2922|	Cabo San Lucas|
+2923|	Baja California Sur|
+2923|	Cabo San Lucas|
+2924|	Baja California Sur|
+2924|	Cabo San Lucas|
+2925|	Nuevo León|
+2925|	Santiago|
+2926|	Guanajuato|
+2927|	Guanajuato|
+2928|	Guanajuato|
+2929|	Chiapas|
+2929|	Chiapa de Corzo|
+2929|	San Cristóbal de las Casas|
+2930|	Chiapas|
+2930|	Chiapa de Corzo|
+2930|	Tuxtla Gutiérrez|
+2931|	Chiapas|
+2931|	Palenque|
+2932|	Chiapas|
+2932|	Chiapa de Corzo|
+2932|	San Cristóbal de las Casas|
+2933|	Chiapas|
+2933|	Veracruz De Ignacio De La Llave|
+2933|	Chiapa de Corzo|
+2933|	San Andrés Tuxtla|
+2934|	Chihuahua|
+2934|	Sinaloa|
+2934|	Los Mochis|
+2934|	Creel|
+2935|	Oaxaca|
+2935|	Huatulco|
+2936|	Oaxaca|
+2936|	Huatulco|
+2937|	Guanajuato|
+2938|	Guanajuato|
+2939|	Guanajuato|
+2940|	Guanajuato|
+2941|	Chiapas|
+2941|	San Cristóbal de las Casas|
+2942|	Chiapas|
+2942|	Tuxtla Gutiérrez|
+2943|	Chiapas|
+2943|	San Cristóbal de las Casas|
+2944|	Chiapas|
+2944|	Tuxtla Gutiérrez|
+2945|	Chiapas|
+2945|	San Cristóbal de las Casas|
+2945|	San Juan Chamula|
+2946|	Chiapas|
+2946|	San Cristóbal de las Casas|
+2946|	Tuxtla Gutiérrez|
+2947|	Chiapas|
+2947|	Palenque|
+2947|	San Cristóbal de las Casas|
+2948|	Oaxaca|
+2948|	Huatulco|
+2949|	Oaxaca|
+2949|	Huatulco|
+2950|	Oaxaca|
+2950|	Huatulco|
+2951|	Oaxaca|
+2951|	Santa María Huatulco|
+2952|	Oaxaca|
+2952|	Santa María Huatulco|
+2953|	Oaxaca|
+2953|	Santa María Huatulco|
+2954|	Oaxaca|
+2954|	Huatulco|
+2955|	Chihuahua|
+2955|	Creel|
+2956|	Puebla|
+2957|	Quintana Roo|
+2957|	Cancún|
+2958|	Quintana Roo|
+2958|	Cancún|
+2959|	Quintana Roo|
+2959|	Cancún|
+2960|	Quintana Roo|
+2960|	Playa del Carmen|
+2961|	Quintana Roo|
+2961|	Cancún|
+2962|	Yucatán|
+2962|	Valladolid|
+2962|	Chichen Itza|
+2963|	Chiapas|
+2963|	San Cristóbal de las Casas|
+2964|	Chiapas|
+2964|	San Cristóbal de las Casas|
+2965|	Chiapas|
+2965|	Palenque|
+2965|	San Cristóbal de las Casas|
+2966|	Chiapas|
+2966|	San Cristóbal de las Casas|
+2966|	San Juan Chamula|
+2967|	Chiapas|
+2967|	San Cristóbal de las Casas|
+2967|	San Juan Chamula|
+2968|	Chiapas|
+2968|	Palenque|
+2969|	Chiapas|
+2969|	San Cristóbal de las Casas|
+2969|	San Juan Chamula|
+2970|	Chiapas|
+2970|	San Cristóbal de las Casas|
+2971|	Quintana Roo|
+2971|	Cancún|
+2972|	Quintana Roo|
+2972|	Cancún|
+2973|	Quintana Roo|
+2973|	Cancún|
+2974|	Quintana Roo|
+2974|	Cancún|
+2975|	Quintana Roo|
+2975|	Cancún|
+2976|	Yucatán|
+2976|	Valladolid|
+2977|	Quintana Roo|
+2977|	Tulum|
+2978|	Chiapas|
+2978|	Tuxtla Gutiérrez|
+2979|	Veracruz De Ignacio De La Llave|
+2979|	Veracruz|
+2980|	Veracruz De Ignacio De La Llave|
+2980|	Veracruz|
+2981|	Veracruz De Ignacio De La Llave|
+2981|	Veracruz|
+2982|	Ciudad De México|
+2983|	Veracruz De Ignacio De La Llave|
+2983|	Veracruz|
+2984|	Veracruz De Ignacio De La Llave|
+2984|	Veracruz|
+2985|	Veracruz De Ignacio De La Llave|
+2985|	Veracruz|
+2986|	Ciudad De México|
+2987|	Ciudad De México|
+2988|	Ciudad De México|
+2988|	Puebla|
+2988|	San Pedro Cholula|
+2989|	Guerrero|
+2989|	Acapulco de Juárez|
+2990|	Guerrero|
+2990|	Acapulco de Juárez|
+2991|	Guerrero|
+2991|	Acapulco de Juárez|
+2992|	Guerrero|
+2992|	Acapulco de Juárez|
+2993|	Guerrero|
+2993|	Acapulco de Juárez|
+2994|	Guerrero|
+2994|	Acapulco de Juárez|
+2995|	Guerrero|
+2995|	Acapulco de Juárez|
+2996|	Guerrero|
+2996|	Acapulco de Juárez|
+2997|	Guerrero|
+2997|	Acapulco de Juárez|
+2998|	Guerrero|
+2998|	Acapulco de Juárez|
+2999|	Quintana Roo|
+2999|	Cancún|
+3000|	Guerrero|
+3000|	Acapulco de Juárez|
+3001|	Guerrero|
+3001|	Acapulco de Juárez|
+3002|	Guerrero|
+3002|	Acapulco de Juárez|
+3003|	Ciudad De México|
+3004|	México|
+3004|	San Juan Teotihuacan |
+3005|	Ciudad De México|
+3005|	México|
+3005|	San Juan Teotihuacan |
+3006|	Quintana Roo|
+3006|	Cancún|
+3007|	Quintana Roo|
+3007|	Cobá|
+3008|	Quintana Roo|
+3008|	Playa del Carmen|
+3009|	Quintana Roo|
+3009|	Playa del Carmen|
+3010|	Quintana Roo|
+3010|	Playa del Carmen|
+3011|	Veracruz De Ignacio De La Llave|
+3011|	Veracruz|
+3012|	México|
+3012|	San Juan Teotihuacan |
+3013|	Quintana Roo|
+3013|	Playa del Carmen|
+3014|	Quintana Roo|
+3014|	Playa del Carmen|
+3015|	Quintana Roo|
+3015|	Playa del Carmen|
+3016|	Puebla|
+3017|	Puebla|
+3018|	Puebla|
+3019|	Puebla|
+3019|	San Andrés Cholula|
+3020|	Puebla|
+3021|	Puebla|
+3021|	Atlixco|
+3021|	San Pedro Cholula|
+3022|	Puebla|
+3022|	Atlixco|
+3022|	San Pedro Cholula|
+3023|	Puebla|
+3023|	Atlixco|
+3024|	Puebla|
+3025|	Puebla|
+3026|	Puebla|
+3027|	Puebla|
+3028|	Yucatán|
+3028|	Mérida|
+3029|	Yucatán|
+3029|	Mérida|
+3030|	Ciudad De México|
+3030|	Xochimilco|
+3031|	Ciudad De México|
+3031|	México|
+3031|	San Juan Teotihuacan |
+3032|	Ciudad De México|
