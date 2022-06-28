@@ -2,9 +2,13 @@ tour_id
 tour_user_id
 tour_name
 tour_description
+tour_note
+tour_includes
+tour_not_includes
 tour_starter_point
 URL
 tour_price
+tour_price_note
 tour_child_price
 tour_viality_from
 tour_viality_to

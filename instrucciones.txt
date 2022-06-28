@@ -5,9 +5,13 @@ echo "select
        IFNULL(CONCAT(pck.user_id, '|'),'NULL|') as tour_user_id,
        IFNULL(CONCAT(REPLACE(pck.name, '|', ' '), '|'),'NULL|') as tour_name,
        IFNULL(CONCAT(REPLACE(REPLACE(pck.description, '\r\n', ' '), '|', ' '), '|'), 'NULL|') as tour_description,
+       IFNULL(CONCAT(REPLACE(REPLACE(pck.notes, '\r\n', ' '), '|', ' '), '|'), 'NULL|') as tour_notes,
+       IFNULL(CONCAT(REPLACE(REPLACE(pck.includes, '\r\n', ' '), '|', ' '), '|'), 'NULL|') as tour_includes,
+       IFNULL(CONCAT(REPLACE(REPLACE(pck.not_includes, '\r\n', ' '), '|', ' '), '|'), 'NULL|') as tour_not_includes,
        IFNULL(CONCAT(REPLACE(REPLACE(pck.starting_point, '|', ' '), '\r\n', ' '), '|'), 'NULL|') as tour_starter_point,
        IFNULL(CONCAT(pck.slug_es, '|'),'NULL|') as URL,
        IFNULL(CONCAT(pck.price, '|'), 'NULL|') as tour_price,
+       IFNULL(CONCAT(REPLACE(REPLACE(pck.price_note, '|', ' '), '\r\n', ' '), '|'), 'NULL|') as tour_price_note,
        IFNULL(CONCAT(pck.children_price, '|'),'NULL|') as tour_child_price,
        IFNULL(CONCAT(pck.viality_from, '|'),'NULL|') as tour_viality_from,
        IFNULL(CONCAT(pck.viality_to, '|'),'NULL|') as tour_viality_to,
@@ -45,9 +49,7 @@ from
     packages pck left join reservations rt
 on pck.id = rt.package_id
 inner join users usr
-on pck.user_id = usr.id;" | mysql -u y20 -p -h 10.41.131.22 --default-character-set=utf8 turismoi_db_cl > ventas_chile_2022_jun_v2.csv
-
-
+on pck.user_id = usr.id;" | mysql -u y20 -p -h 10.41.131.22 --default-character-set=utf8 turismoi_db_cl > ventas_chile_2022_jun_v3.csv
 
 
 ojo: que termine con salto de linea

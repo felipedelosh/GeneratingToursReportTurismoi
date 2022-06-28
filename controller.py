@@ -436,5 +436,6 @@ class Controller:
                 f = open("output/"+i+".csv", 'w', encoding="utf-8")
                 f.write(self.countryINFO[i])
                 f.close()
+                print("Creado EXCEL bruto de...", i)
             except:
                 print("Error creando el archivo: "+i)
